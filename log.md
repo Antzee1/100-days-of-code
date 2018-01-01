@@ -1,30 +1,15 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Antzée
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<img src="./images/log-header.jpg" width=500/>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Hi! 👋🏻
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻
+<br/>My main goals for 100 Days Of Code: improve my HTML/CSS skills + learn more about JavaScript.
+<br/> ➡️ Some of the things I've made: https://codepen.io/Antzee
+<br/> ➡️ You can also follow me on Twitter: https://twitter.com/Antzee_
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Log 🗓
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1 - 01.01.2018
+Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. Also (although it's not really coding) learn how to use markup language to format and add images in my log.
