@@ -11,5 +11,10 @@ I'm a former pianist & piano teacher who in 2017 started to code. So far, I've d
 
 ## Log 🗓
 
-### Day 1 - 01.01.2018
+### Day 1 - Monday 01.01.2018
 Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. Also (although it's not really coding) learn how to use markup language to format and add images in my log.
+
+### Day 2 - Tuesday 02.01.2018
+Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
+<br/><br/>
+<img src="./images/log-day-2.png" width=500/>
