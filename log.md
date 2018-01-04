@@ -12,17 +12,19 @@ I'm a former pianist & piano teacher who in 2017 started to code. So far, I've d
 
 ## Log 🗓
 
-### Day 1 - Monday 01.01.2018
+### Day 1 - Monday 01.01.2018 - the beginning
 Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. Also (although it's not really coding) learn how to use markup language to format and add images in my log.
 <br/><br/>
-### Day 2 - Tuesday 02.01.2018
+
+### Day 2 - Tuesday 02.01.2018 - CSS Grid - first look
 Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
 <br/><br/>
-<img src="./images/log-day-2.png" width=500/>
+<img src="./images/log-day-2.png" width=600/>
 <br/><br/>
-### Day 3 - Wednesday 03.01.2018
 
-<br/><img src="./images/log-day-3-javascript.png" width=500/>
+### Day 3 - Wednesday 03.01.2018 - JavaScript back to basics: variables and arrays
+
+<br/><img src="./images/log-day-3-javascript.png" width=600/>
 
 [This talk](http://bit.ly/1byDzwo) by Kathy Sierra made me realise that I need to change how I study JavaScript (which I until now have found really difficult). So I’ve decided to try another way of structuring my learning process. Instead of just following one learning source, I'll:
 - *combine different learning sources (videos and text)*
@@ -31,9 +33,20 @@ Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course
 
 Today, I went back to the beginning and revised variables & arrays. It's not the hardest part of JavaScript, but a good way of setting up and practicing a different workflow.
 
-Today’s learning sources:
+Today’s learning resources:
 - [“Practical Javascript” by Gordon Zhu on Watch and Code](https://watchandcode.com/p/practical-javascript)
 - [“The complete JavaScript course” by Jonas Schmedtmann on Udemy](https://www.udemy.com/the-complete-javascript-course/)
 - [W3schools](https://www.w3schools.com/js/default.asp) for additional examples.
+<br/><br/>
 
+### Day 4 - Wednesday 04.01.2018 - JavaScript back to basics: functions
+
+<br/><img src="./images/log-day-4-function.png" width=600/>
+
+Started on JavaScript functions. Looked through a couple different videos, wrote my own versions of the examples, and talked some of it through with the bf. 💑
+<br/><br/>
+Since only reading and watching videos isn't enough, I’m trying to find a good way to practice writing own code (both for learning and for collecting examples). I like to use my regular editor, so for each topic, I make an HTML file with a JavaScript file linked to it to write examples. I test the code in a browser web console (also new to me, so I get to learn how that works). I think it might be useful to write a lot of own examples, so will start doing that.
+<br/><br/>
+Today’s resources: the same as yesterday.
+<br/><br/> 📕 By the way, ["Hello Ruby"](http://www.helloruby.com/) is a lovely children's book about programming. It includes lots of activities which should be nice to do together with grownups and/or friends. The book is written and illustrated by Linda Liukas.
 <br/><br/>
