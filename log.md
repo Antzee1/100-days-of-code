@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - Antzée
 
-<img src="./images/log-header.jpg" width=500/>
+<img src="./images/log-day-1-header.jpg" width=500/>
 
 ## Hi! 👋🏻
 
@@ -17,9 +17,9 @@ Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. 
 <br/><br/>
 
 ### Day 2 - Tuesday 02.01.2018 - CSS Grid - first look
-Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
-<br/><br/>
-<img src="./images/log-day-2.png" width=600/>
+
+<br/><img src="./images/log-day-2.png" width=600/>
+<br/><br/>Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
 <br/><br/>
 
 ### Day 3 - Wednesday 03.01.2018 - JavaScript back to basics: variables and arrays
@@ -39,7 +39,7 @@ Today’s learning resources:
 - [W3schools](https://www.w3schools.com/js/default.asp) for additional examples.
 <br/><br/>
 
-### Day 4 - Wednesday 04.01.2018 - JavaScript back to basics: functions
+### Day 4 - Thursday 04.01.2018 - JavaScript back to basics: functions
 
 <br/><img src="./images/log-day-4-function.png" width=600/>
 
@@ -49,4 +49,15 @@ Since only reading and watching videos isn't enough, I’m trying to find a good
 <br/><br/>
 Today’s resources: the same as yesterday.
 <br/><br/> 📕 By the way, ["Hello Ruby"](http://www.helloruby.com/) is a lovely children's book about programming. It includes lots of activities which should be nice to do together with grownups and/or friends. The book is written and illustrated by Linda Liukas.
+<br/><br/>
+
+### Day 5 - Friday 05.01.2018 - Continuing CSS Grid / JS function practice
+
+<br/><img src="./images/log-day-5-grid.png" width=600/>
+
+Today: CSS Grid + a little JavaScript. I went over the first Scrimba course videos again + looked up [Rachel Andrew’s CSS Grid videos on YouTube](https://www.youtube.com/watch?v=Dz9BzY21Zks&list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR). I think it’s good to switch between different types of resources, so I started reading [Mozilla’s CSS Grid Layout articles](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) on the topic as well. Played with the  first basics, like the fr unit, and made my first grid layout (screen shot above).
+<br/><br/>
+I also wrote a couple of JavaScript function examples to practice what I learned yesterday. 
+<br/><br/>
+😍 Today's clever eye candy: [this pen by Josh Collinsworth‏ on CodePen](https://codepen.io/joshuajcollinsworth/full/aEJGvg/) 😍
 <br/><br/>
