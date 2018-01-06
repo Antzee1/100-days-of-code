@@ -57,7 +57,20 @@ Today’s resources: the same as yesterday.
 
 Today: CSS Grid + a little JavaScript. I went over the first Scrimba course videos again + looked up [Rachel Andrew’s CSS Grid videos on YouTube](https://www.youtube.com/watch?v=Dz9BzY21Zks&list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR). I think it’s good to switch between different types of resources, so I started reading [Mozilla’s CSS Grid Layout articles](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) on the topic as well. Played with the  first basics, like the fr unit, and made my first grid layout (screen shot above).
 <br/><br/>
-I also wrote a couple of JavaScript function examples to practice what I learned yesterday. 
+I also wrote a couple of JavaScript function examples to practice what I learned yesterday.
 <br/><br/>
 😍 Today's clever eye candy: [this pen by Josh Collinsworth‏ on CodePen](https://codepen.io/joshuajcollinsworth/full/aEJGvg/) 😍
+(Don't forget to scroll)
+<br/><br/>
+
+
+### Day 6 - Saturday 06.01.2018 - CSS Grid basics: getting familiar with the syntax
+
+<br/><img src="./images/log-day-6-retro-grid.png" width=600/>
+
+Continued with CSS Grid, combining video, reading, and writing. I like to write my own examples so I’m sure I really understand everything in the code, so I made these retro-inspired babies who I’m gonna continue experimenting with to understand placement on the grid. I’ll share some code examples at a later stage. Am feeling a bit more comfortable with the syntax today than I felt yesterday 💪🏻
+<br/><br/>
+Today’s resources:
+- [Firefox Devtool’s playground for CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
+- [Scrimba’s “Learn CSS Grid for free”](https://scrimba.com/g/gR8PTE) - video 4
 <br/><br/>
