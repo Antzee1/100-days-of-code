@@ -74,3 +74,13 @@ Today’s resources:
 - [Firefox Devtool’s playground for CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
 - [Scrimba’s “Learn CSS Grid for free”](https://scrimba.com/g/gR8PTE) - video 4
 <br/><br/>
+
+### Day 7 - Sunday 07.01.2018 - Reading day
+
+<br/><img src="./images/log-day-7-ellen-ullman-reading.png" width=600/>
+
+First week of the 100 Days Of Code challenge done! ✅ I'm not doing the challenge just to code every day; I'm doing it because I want to learn new stuff, which is always demanding. I'm making it even more demanding because I'm challenging myself in _how_ I study: trying to break the subjects down to manageable pieces, using different sources / methods to study each piece, and not moving on until I really have understood it. ✍🏻
+<br/><br/>
+So today I'm taking a day off from the screen to read this book I got from a friend: "Life In Code - a personal history of technology" by Ellen Ullman. It gives an intersting perspective because she's a woman and because she's been in the field since 1978. Back then, I was a kid in the Norwegian countryside and hadn't even heard of computers... 🖥
+<br/><br/>Photo from [my Instagram](https://www.instagram.com/ameliacodes/) 📔❤️
+<br/><br/>
