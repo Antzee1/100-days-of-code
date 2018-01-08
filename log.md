@@ -81,6 +81,21 @@ Today’s resources:
 
 First week of the 100 Days Of Code challenge done! ✅ I'm not doing the challenge just to code every day; I'm doing it because I want to learn new stuff, which is always demanding. I'm making it even more demanding because I'm challenging myself in _how_ I study: trying to break the subjects down to manageable pieces, using different sources / methods to study each piece, and not moving on until I really have understood it. ✍🏻
 <br/><br/>
-So today I'm taking a day off from the screen to read this book I got from a friend: "Life In Code - a personal history of technology" by Ellen Ullman. It gives an intersting perspective because she's a woman and because she's been in the field since 1978. Back then, I was a kid in the Norwegian countryside and hadn't even heard of computers... 🖥
+So today I'm taking a day off from the screen to read this book I got from a friend: "Life In Code - a personal history of technology" by Ellen Ullman. It gives an interesting perspective because she's a woman and because she's been in the field since 1978. Back then, I was a kid in the Norwegian countryside and hadn't even heard of computers... 🖥
 <br/><br/>Photo from [my Instagram](https://www.instagram.com/ameliacodes/) 📔❤️
 <br/><br/>
+
+### Day 8 - Monday 08.01.2018 - CSS image with JS to hide a div
+
+<br/><img src="./images/log-day-8-facebook-off.gif" width=600/>
+
+Made this to put on my Facebook since I plan to be logged off a lot more than usual. I didn’t manage to do it exactly the way I wanted, which was a proper keyframes-animated toggle switch combined with JS to change the background. Now it's basically two images on top of each other below the actual button (which is transparent), and when someone clicks the button, the Facebook image gets hidden. So it’s a bit hacky, but the result looks more or less as I intended + I learnt to hide a div with JS.
+<br/><br/>
+The two images behind the switch are me-made in Photoshop Elements. PE was the quickest solution today since I haven’t worked much with Inkscape and SVGs yet. The sky image is clouds on a transparent background, which means I can control the background colour in CSS. It didn’t work as expected with gradients though, but I found a solution + explanation [here](https://stackoverflow.com/questions/5681813/transparent-background-image-with-a-gradient). The code:
+
+background-image: url(‘../LINK’),
+   linear-gradient(to bottom, rgb(120, 209, 221), rgb(213, 234, 236));
+
+How to use JavaScript to hide a div:
+- [w3schools tutorial](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
+- [jsfiddle example](http://jsfiddle.net/BQUyT/2/)
