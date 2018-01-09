@@ -51,7 +51,7 @@ Today’s resources: the same as yesterday.
 <br/><br/> 📕 By the way, ["Hello Ruby"](http://www.helloruby.com/) is a lovely children's book about programming. It includes lots of activities which should be nice to do together with grownups and/or friends. The book is written and illustrated by Linda Liukas.
 <br/><br/>
 
-### Day 5 - Friday 05.01.2018 - Continuing CSS Grid / JS function practice
+### Day 5 - Friday 05.01.2018 - Continuing CSS Grid; JS function practice
 
 <br/><img src="./images/log-day-5-grid.png" width=600/>
 
@@ -99,3 +99,14 @@ background-image: url(‘../LINK’),
 How to use JavaScript to hide a div:
 - [w3schools tutorial](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
 - [jsfiddle example](http://jsfiddle.net/BQUyT/2/)
+<br/><br/>
+
+### Day 9 - Tueday 09.01.2018 - CSS Grid basics
+
+<br/><img src="./images/log-day-9-grid.gif" width=600/>
+
+Today: more CSS Grid. I understand the basic principles and syntax now: columns, rows, and column lines. The GIF shows the responsive 12-column example I made with my retro-inspired design from day 6. I also familiarised myself with template areas. I’m just starting out, but so far, I really, really like CSS Grid. 😍 The code is beautiful - minimalistic and simple - and there are so many possibilities because one can structure content on both the horizontal and vertical axis. Am excited to see how it behaves with content inside! I also think one can do some fun creative stuff with it as well… 🤓
+
+Today’s resources:
+- [Scrimba Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) Video 4 and 5
+- Corresponding [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) videos by Rachel Andrews.
