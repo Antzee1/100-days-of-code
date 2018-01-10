@@ -112,7 +112,7 @@ Today’s resources:
 - Corresponding [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) videos by Rachel Andrews.
 <br/><br/>
 
-### Day 9 - Tuesday 09.01.2018 - Hidden divs: CSS Grid and JavaScript
+### Day 10 - Wednesday 10.01.2018 - Hidden divs: CSS Grid and JavaScript
 
 <br/><img src="./images/log-day-10-hidden.gif" width=600/>
 
