@@ -110,3 +110,22 @@ Today: more CSS Grid. I understand the basic principles and syntax now: columns,
 Today’s resources:
 - [Scrimba Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) Video 4 and 5
 - Corresponding [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) videos by Rachel Andrews.
+<br/><br/>
+
+### Day 9 - Tuesday 09.01.2018 - Hidden divs: CSS Grid and JavaScript
+
+<br/><img src="./images/log-day-10-hidden.gif" width=600/>
+
+Today, I combined my newly acquired CSS Grid and JavaScript function knowledge to make this. The idea was to see if it was possible to have a div hidden by default and then make it visible again. I’m planning a small fun project with this, looking forward to doing that tomorrow.
+<br/><br/>
+⬛️◽️🔲◼️▫️⬜️◾️◻️▪️🔳<br/>
+▫️⬜️◾️◻️▪️🔳⬛️◽️🔲◼️<br/>
+🔲◼️▫️⬜️◾️◻️⬛️▪️🔳◽️<br/>
+▫️⬜️◾️◻️▪️🔳⬛️◽️🔲◼️<br/>
+⬛️◽️🔲◼️▫️⬜️◾️◻️▪️🔳
+<br/><br/>
+Progress: I still have to look up how to do things with JavaScript, but I hope that 1) seeing other people’s examples and 2) adapting those examples so they work with my code eventually will strengthen my understanding of the different JavaScript concepts.
+<br/><br/>
+Resources: I used the JS code from [W3schools: making a hidden by default div visible with JavaScript](https://www.w3schools.com/css/tryit.asp?filename=trycss_display_js).
+
+<br/><br/>
