@@ -127,5 +127,13 @@ Today, I combined my newly acquired CSS Grid and JavaScript function knowledge t
 Progress: I still have to look up how to do things with JavaScript, but I hope that 1) seeing other people’s examples and 2) adapting those examples so they work with my code eventually will strengthen my understanding of the different JavaScript concepts.
 <br/><br/>
 Resources: I used the JS code from [W3schools: making a hidden by default div visible with JavaScript](https://www.w3schools.com/css/tryit.asp?filename=trycss_display_js).
+<br/><br/>
 
+### Day 11 - Thursday 11.01.2018 - Crazy interactive CSS Grid + JavaScript project sneak peek
+
+<br/><img src="./images/log-day-11-mondrian-cut.gif" width=600/>
+
+The small project I mentioned yesterday turned out to be a big project. Go figure. 😜 It's almost done, though, so will post it tomorrow - I'll put it on CodePen since it's interactive.
+<br/><br/>
+Today's resource: the bf. 😍 After I had written yesterday's log, I discussed with him whether there would be ways of writing less JavaScript code for this project. He suggested two different ways, and we looked at it together. In addition to reading, writing and watching tutorials, I find that it's really helpful to discuss code concepts with a real person, so I recommend to do that if you can find someone (preferably someone positive and helpful, of course)! 
 <br/><br/>
