@@ -135,5 +135,23 @@ Resources: I used the JS code from [W3schools: making a hidden by default div vi
 
 The small project I mentioned yesterday turned out to be a big project. Go figure. 😜 It's almost done, though, so will post it tomorrow - I'll put it on CodePen since it's interactive.
 <br/><br/>
-Today's resource: the bf. 😍 After I had written yesterday's log, I discussed with him whether there would be ways of writing less JavaScript code for this project. He suggested two different ways, and we looked at it together. In addition to reading, writing and watching tutorials, I find that it's really helpful to discuss code concepts with a real person, so I recommend to do that if you can find someone (preferably someone positive and helpful, of course)! 
+Today's resource: the bf. 😍 After I had written yesterday's log, I discussed with him whether there would be ways of writing less JavaScript code for this project. He suggested two different ways, and we looked at it together. In addition to reading, writing and watching tutorials, I find that it's really helpful to discuss code concepts with a real person, so I recommend to do that if you can find someone (preferably someone positive and helpful, of course)!
+<br/><br/>
+
+### Day 12 - Friday 12.01.2018 - Crazy interactive CSS Grid + JavaScript project done
+<br/><img src="./images/log-day-12-mondrian-full.gif" width=600/>
+
+I finished the crazy CSS Grid + JavaScript project and put it online. I ended up using about 60 fractions in the grid in order to get the ratios on each square as true as possible to the original: the work “Composition A”, painted by Piet Mondrian in 1923. The idea is to start with just one visible square and the rest of the squares hidden, and have everything chained so when you click one square, the next one appears.
+
+➡️ [View on CodePen](https://codepen.io/Antzee/full/dJKbrK/)
+
+I made one JavaScript solution that worked; and when I asked the bf about other ways of doing it he suggested two alternatives. I used the first one since I didn’t understand the second one (but that one is definitely something I’ll work on since it was a nice solution with very little code).
+
+There were a couple hiccups (if someone reads this and has an explanation, let me know via [Twitter](https://twitter.com/Antzee_) or CodePen):
+
+- It doesn’t work in Safari on my MacBook unless I first click the first square, then switch to another desktop and back again. 
+
+- The reload page code I put on the last square doesn’t work in CodePen, only when I have the files locally on my computer.
+
+In spite of this, I'm pretty happy with the result, mainly because I learnt both some CSS Grid and some JavaScript from making it! Already started thinking about making more (and better) interactive projects. 👩🏻‍💻
 <br/><br/>
