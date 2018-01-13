@@ -149,9 +149,19 @@ I made one JavaScript solution that worked; and when I asked the bf about other 
 
 There were a couple hiccups (if someone reads this and has an explanation, let me know via [Twitter](https://twitter.com/Antzee_) or CodePen):
 
-- It doesn’t work in Safari on my MacBook unless I first click the first square, then switch to another desktop and back again. 
+- It doesn’t work in Safari on my MacBook unless I first click the first square, then switch to another desktop and back again.
 
 - The reload page code I put on the last square doesn’t work in CodePen, only when I have the files locally on my computer.
 
 In spite of this, I'm pretty happy with the result, mainly because I learnt both some CSS Grid and some JavaScript from making it! Already started thinking about making more (and better) interactive projects. 👩🏻‍💻
+<br/><br/>
+
+### Day 13 - Saturday 13.01.2018 - Planning ahead: tango music learning games
+<br/><img src="./images/log-day-13-biagi-flip.gif" width=600/>
+
+I've been deeply in love with Argentine tango for the last 13 years. It's not the tango you see on TV (which is mostly show tango or ballroom tango), but Argentine tango as it's danced socially in Buenos Aires and all over the world. Since I'm a musician, I'm more than average interested in the Argentine tango music. I don't play tango, but I DJ regularly at Argentine social tango events in Oslo and also sometimes abroad.
+
+Many dancers are interested in learning more about the music, so my bf, who also is a tango dancer, suggested that I study JavaScript by making some games about Argentine tango music. I think it's a nice idea, so today I found a tutorial on how to make a flip card using CSS and JS, and customised the code to learn how it works. Next step is to think of a concept.
+
+Today's resource: [This article](https://davidwalsh.name/css-flip) from David Walsh.
 <br/><br/>
