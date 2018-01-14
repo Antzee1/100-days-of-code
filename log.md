@@ -165,3 +165,9 @@ Many dancers are interested in learning more about the music, so my bf, who also
 
 Today's resource: [This article](https://davidwalsh.name/css-flip) from David Walsh.
 <br/><br/>
+
+### Day 14 - Sunday 14.01.2018 - Tango music learning game - flip cards inside CSS Grid
+<br/><img src="./images/log-day-14-troilo-flip.gif" width=600/>
+
+Today, my goal was to find a way of flipping a div with mouseclick (not just hover like yesterday's example), then make more divs and see if I could make  the flip cards work with CSS Grid. Needed lots of help from my house teacher (the bf). Progress has been made, though, and I hope I'll learn from using these concepts more.
+<br/><br/>
