@@ -171,3 +171,11 @@ Today's resource: [This article](https://davidwalsh.name/css-flip) from David Wa
 
 Today, my goal was to find a way of flipping a div with mouseclick (not just hover like yesterday's example), then make more divs and see if I could make  the flip cards work with CSS Grid. Needed lots of help from my house teacher (the bf). Progress has been made, though, and I hope I'll learn from using these concepts more.
 <br/><br/>
+
+### Day 15 - Monday 15.01.2018
+<br/><img src="./images/log-day-15-fox.png" width=600/>
+
+Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went something like this: I looked at the page I made yesterday in the grid inspector in Firefox Developer Edition, which looks like a super handy tool. Then I read a CSS Grid article and got overwhelmed, so I customised my Firefox with a fox theme called ‘Mozilla: Firefox OS’ and coded a fox. He is my own design and he lives [here on CodePen](http://bit.ly/2mzrKwP). 🦊
+
+📕 Today's resource: [This article](http://jensimmons.com/post/feb-27-2017/learn-css-grid) by Jen Simmons. It's chock full of links to CSS Grid learning resources.
+<br/><br/>
