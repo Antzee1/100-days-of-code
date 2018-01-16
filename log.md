@@ -180,7 +180,7 @@ Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went so
 📕 Today's resource: [This article](http://jensimmons.com/post/feb-27-2017/learn-css-grid) by Jen Simmons. It's chock full of links to CSS Grid learning resources.
 <br/><br/>
 
-### Day 16 - Monday 16.01.2018
+### Day 16 - Tuesday 16.01.2018
 <br/>After yesterday's temporary lapse into fox territory, I felt ready to tackle the CSS Grid resource mountain again today. My plan was to change my retro-coloured Grid test layout into a simple website structure, and see how it would behave with text. After a bit of testing, I decided it worked best with set heights/widths on some divs, and auto on others. Am happy I already was a little bit familiar with Flexbox.
 #### 3 responsive columns:
 <br/><img src="./images/log-day-16-grid-flex-text1.gif" width=600/>
