@@ -172,7 +172,7 @@ Today's resource: [This article](https://davidwalsh.name/css-flip) from David Wa
 Today, my goal was to find a way of flipping a div with mouseclick (not just hover like yesterday's example), then make more divs and see if I could make  the flip cards work with CSS Grid. Needed lots of help from my house teacher (the bf). Progress has been made, though, and I hope I'll learn from using these concepts more.
 <br/><br/>
 
-### Day 15 - Monday 15.01.2018
+### Day 15 - Monday 15.01.2018 - Foxes! 🦊
 <br/><img src="./images/log-day-15-fox.png" width=600/>
 
 Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went something like this: I looked at the page I made yesterday in the grid inspector in Firefox Developer Edition, which looks like a super handy tool. Then I read a CSS Grid article and got overwhelmed, so I customised my Firefox with a fox theme called ‘Mozilla: Firefox OS’ and coded a fox. He is my own design and he lives [here on CodePen](http://bit.ly/2mzrKwP). 🦊
@@ -180,7 +180,7 @@ Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went so
 📕 Today's resource: [This article](http://jensimmons.com/post/feb-27-2017/learn-css-grid) by Jen Simmons. It's chock full of links to CSS Grid learning resources.
 <br/><br/>
 
-### Day 16 - Tuesday 16.01.2018
+### Day 16 - Tuesday 16.01.2018 - CSS Grid with text
 <br/>After yesterday's temporary lapse into fox territory, I felt ready to tackle the CSS Grid resource mountain again today. My plan was to change my retro-coloured Grid test layout into a simple website structure, and see how it would behave with text. After a bit of testing, I decided it worked best with set heights/widths on some divs, and auto on others. Am happy I already was a little bit familiar with Flexbox.
 #### 3 responsive columns:
 <br/><img src="./images/log-day-16-grid-flex-text1.gif" width=600/>
@@ -190,4 +190,12 @@ Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went so
 I guess it's easy to forget that one can't really practice layout without an idea about content. So I'll try to think up useful exercises for myself. Next: images and text together; then responsiveness for smaller screens.<br/><br/>
 Today's resource: The Grid inspector in Firefox Developer Edition is super handy for understanding the structure of the layouts one is working on.
 <br/><br/><img src="./images/log-day-16-firefox-grid-inspector.png" width=600/>
+<br/><br/>
+
+### Day 17 - Wednesday 17.01.2018 - CSS Grid with text and images: blog layout
+<br/><img src="./images/log-day-17-grid-flex-blog-layout.gif" width=600/>
+
+My plan for today was to introduce images in addition to text in a CSS Grid and see if everything behaved. And it did! I started out with the layout I coded yesterday and added screenshots of some of my CSS art (although I'm not sure I dare calling it art), and then I got inspired to change the colours + make a header background-image in Photoshop as well. As I learn more about CSS Grid, I might discover better ways of doing this, but at least for now, it works in four browsers.
+
+This is kinda an old-fashioned blog layout. Next step is to make media queries for smaller screens, and then I'll have to think up other layouts. That's a bit hard for me since I've been blogging for the last ten years, so I'm too used to this type of layout 🙄
 <br/><br/>
