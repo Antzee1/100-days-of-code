@@ -199,3 +199,11 @@ My plan for today was to introduce images in addition to text in a CSS Grid and 
 
 This is kinda an old-fashioned blog layout. Next step is to make media queries for smaller screens, and then I'll have to think up other layouts. That's a bit hard for me since I've been blogging for the last ten years, so I'm too used to this type of layout 🙄
 <br/><br/>
+
+### Day 18 - Thursday 18.01.2018 - CSS Grid with only images: squares
+<br/><img src="./images/log-day-18-grid-aqua.png" width=600/>
+
+Made another CSS Grid layout. I struggled a bit, so it's clear that I need to study more and practice a lot! 😐 But in the end it worked as intended. 💪🏻 I also put an increase size on hover property on the images. I think that might work better with a responsive layout, though, so will experiment some more.
+
+Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/@heysupersimi) on [Unsplash](https://unsplash.com), a site with high quality, royalty free photos that can be used for whatever we want. It's really wonderful to have access to so many great pics without worrying about copyright. It's still nice to give credit, though. ❤️
+<br/><br/>
