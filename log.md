@@ -206,4 +206,15 @@ This is kinda an old-fashioned blog layout. Next step is to make media queries f
 Made another CSS Grid layout. I struggled a bit, so it's clear that I need to study more and practice a lot! 😐 But in the end it worked as intended. 💪🏻 I also put an increase size on hover property on the images. I think that might work better with a responsive layout, though, so will experiment some more.
 
 Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/@heysupersimi) on [Unsplash](https://unsplash.com), a site with high quality, royalty free photos that can be used for whatever we want. It's really wonderful to have access to so many great pics without worrying about copyright. It's still nice to give credit, though. ❤️
+
+Update: I made another version with auto-fit after I had written the log yesterday.
+<br/><br/>
+### Day 19 - Friday 19.01.2018 - CSS Grid with only images: a look at animation
+<br/><img src="./images/log-day-19-tango-grid.png" width=600/>
+
+Was inspired by [this animation by Mantas Gr on Dribble](https://dribbble.com/shots/3531807-Reel-2017) today, so I wanted to see if I could animate movements of CSS Grid elements the same way - meaning that the item moves from one grid to another. Unfortunately, it looks like it's not possible, if I don't misunderstand the information I found online. I can make the div change placement on the grid, but it just changes abruptly, so there was no real movement animation effect like I was looking for 😭
+
+Felt a bit like I wasted a day, but I did write code, I practiced CSS Grid, and I guess that finding out what one cannot do is also part of learning! 🤔
+
+The photos are from my Instagram account and are all related to Argentine social tango. Nope it's not like on television. 🤣
 <br/><br/>
