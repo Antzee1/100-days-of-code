@@ -216,5 +216,15 @@ Was inspired by [this animation by Mantas Gr on Dribble](https://dribbble.com/sh
 
 Felt a bit like I wasted a day, but I did write code, I practiced CSS Grid, and I guess that finding out what one cannot do is also part of learning! 🤔
 
+❗️Update 20. January: I found a solution right after writing this yesterday - the transform: translate property. It doesn't *really* change the position of the div, but for all practical purposes, it looks like it does the job. 😍
+
 The photos are from my Instagram account and are all related to Argentine social tango. Nope it's not like on television. 🤣
 <br/><br/>
+### Day 20 - Saturday 20.01.2018 - CSS Grid with only images: a look at animation
+<br/><img src="./images/log-day-20-contenteditable.gif" width=600/>
+
+Did a bit of light weekend coding. I had seen [a pen by Mandy Michael on CodePen](https://codepen.io/mandymichael/full/BWyYYP/) where it was possible to change the text directly on the interface, so I wanted to investigate that. Here's the result - you can try it out [here on CodePen](http://bit.ly/2DltdxQ). It works on iPad and iPhone as well as on computers, and it resizes nicely to all viewports, so I think I finally have got a better understanding of that.
+
+Mandy Michael's pen is obviously a whole lot more exceptional since she also coded the letters! 😍
+
+💡 Today's inspiration: The Instagram account of graphic designer and illustrator [Maria Diamantes](https://www.instagram.com/mariadiamantes/). 😍
