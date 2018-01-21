@@ -5,7 +5,8 @@
 ## Hi! 👋🏻
 
 I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻
-<br/> ➡️ Some of the things I've made: https://codepen.io/Antzee
+<br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
+<br/> ➡️ Some of my stuff is on [CodePen](https://codepen.io/Antzee)
 <br/> ➡️ You can also find me on [Twitter](https://twitter.com/Antzee_)
 
 ⭐️ My main goals for 100 Days Of Code: improve my HTML/CSS skills + learn more about JavaScript.⭐️
@@ -228,3 +229,12 @@ Did a bit of light weekend coding. I had seen [a pen by Mandy Michael on CodePen
 Mandy Michael's pen is obviously a whole lot more exceptional since she also coded the letters! 😍
 
 💡 Today's inspiration: The Instagram account of graphic designer and illustrator [Maria Diamantes](https://www.instagram.com/mariadiamantes/). 😍
+### Day 21 - Sunday 21.01.2018 - Random inspiration day
+<br/><img src="./images/log-day-21-sliders.png" width="600"/>
+
+The other day, I saw that one guy had published his log on GitHub Pages. I decided to do the same, messed up my repository quite a bit, got help from my house teacher (the bf) to fix it, and now the log is published and it looks a lot better in that format. 😍 [Take a look here](https://antzee1.github.io/100-days-of-code/) if you're reading this in the ReadMe file.
+
+Next, I got inspired by a pretty [Dribbble shot of moving volume sliders](https://dribbble.com/shots/3106033-Volume-Sliders) by Daryl Bruinsma. I'm curious about user interactivity, so I wanted to see if it was possible to click and drag similar sliders, so I went online and found the JavaScript code for a draggable div. Spent the rest of the day doing the styling - struggled a bit with placement due to the JavaScript, but finally now everything stays in place, and the green slider is clickable. Next up is to adapt the JavaScript.
+
+The colours are the same as the colours on my dad's beautiful old Hermes 3000 typewriter from the early 1960s. ❤️ 
+<br/><br/>
