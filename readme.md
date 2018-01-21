@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - Antzée
 
-<img src="./images/log-day-1-header.jpg" width=500/>
+<img src="./images/log-day-1-header.jpg" width="500"/>
 
 ## Hi! 👋🏻
 
@@ -18,13 +18,13 @@ Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. 
 
 ### Day 2 - Tuesday 02.01.2018 - CSS Grid - first look
 
-<br/><img src="./images/log-day-2.png" width=600/>
+<br/><img src="./images/log-day-2.png" width="600"/>
 <br/><br/>Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
 <br/><br/>
 
 ### Day 3 - Wednesday 03.01.2018 - JavaScript back to basics: variables and arrays
 
-<br/><img src="./images/log-day-3-javascript.png" width=600/>
+<br/><img src="./images/log-day-3-javascript.png" width="600"/>
 
 [This talk](http://bit.ly/1byDzwo) by Kathy Sierra made me realise that I need to change how I study JavaScript (which I until now have found really difficult). So I’ve decided to try another way of structuring my learning process. Instead of just following one learning source, I'll:
 - *combine different learning sources (videos and text)*
@@ -41,7 +41,7 @@ Today’s learning resources:
 
 ### Day 4 - Thursday 04.01.2018 - JavaScript back to basics: functions
 
-<br/><img src="./images/log-day-4-function.png" width=600/>
+<br/><img src="./images/log-day-4-function.png" width="600"/>
 
 Started on JavaScript functions. Looked through a couple different videos, wrote my own versions of the examples, and talked some of it through with the bf. 💑
 <br/><br/>
@@ -53,7 +53,7 @@ Today’s resources: the same as yesterday.
 
 ### Day 5 - Friday 05.01.2018 - Continuing CSS Grid; JS function practice
 
-<br/><img src="./images/log-day-5-grid.png" width=600/>
+<br/><img src="./images/log-day-5-grid.png" width="600"/>
 
 Today: CSS Grid + a little JavaScript. I went over the first Scrimba course videos again + looked up [Rachel Andrew’s CSS Grid videos on YouTube](https://www.youtube.com/watch?v=Dz9BzY21Zks&list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR). I think it’s good to switch between different types of resources, so I started reading [Mozilla’s CSS Grid Layout articles](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) on the topic as well. Played with the  first basics, like the fr unit, and made my first grid layout (screen shot above).
 <br/><br/>
@@ -66,7 +66,7 @@ I also wrote a couple of JavaScript function examples to practice what I learned
 
 ### Day 6 - Saturday 06.01.2018 - CSS Grid basics: getting familiar with the syntax
 
-<br/><img src="./images/log-day-6-retro-grid.png" width=600/>
+<br/><img src="./images/log-day-6-retro-grid.png" width="600"/>
 
 Continued with CSS Grid, combining video, reading, and writing. I like to write my own examples so I’m sure I really understand everything in the code, so I made these retro-inspired babies who I’m gonna continue experimenting with to understand placement on the grid. I’ll share some code examples at a later stage. Am feeling a bit more comfortable with the syntax today than I felt yesterday 💪🏻
 <br/><br/>
@@ -77,7 +77,7 @@ Today’s resources:
 
 ### Day 7 - Sunday 07.01.2018 - Reading day
 
-<br/><img src="./images/log-day-7-ellen-ullman-reading.png" width=600/>
+<br/><img src="./images/log-day-7-ellen-ullman-reading.png" width="600"/>
 
 First week of the 100 Days Of Code challenge done! ✅ I'm not doing the challenge just to code every day; I'm doing it because I want to learn new stuff, which is always demanding. I'm making it even more demanding because I'm challenging myself in _how_ I study: trying to break the subjects down to manageable pieces, using different sources / methods to study each piece, and not moving on until I really have understood it. ✍🏻
 <br/><br/>
@@ -87,7 +87,7 @@ So today I'm taking a day off from the screen to read this book I got from a fri
 
 ### Day 8 - Monday 08.01.2018 - CSS image with JS to hide a div
 
-<br/><img src="./images/log-day-8-facebook-off.gif" width=600/>
+<br/><img src="./images/log-day-8-facebook-off.gif" width="600"/>
 
 Made this to put on my Facebook since I plan to be logged off a lot more than usual. I didn’t manage to do it exactly the way I wanted, which was a proper keyframes-animated toggle switch combined with JS to change the background. Now it's basically two images on top of each other below the actual button (which is transparent), and when someone clicks the button, the Facebook image gets hidden. So it’s a bit hacky, but the result looks more or less as I intended + I learnt to hide a div with JS.
 <br/><br/>
@@ -103,7 +103,7 @@ How to use JavaScript to hide a div:
 
 ### Day 9 - Tueday 09.01.2018 - CSS Grid basics
 
-<br/><img src="./images/log-day-9-grid.gif" width=600/>
+<br/><img src="./images/log-day-9-grid.gif" width="600"/>
 
 Today: more CSS Grid. I understand the basic principles and syntax now: columns, rows, and column lines. The GIF shows the responsive 12-column example I made with my retro-inspired design from day 6. I also familiarised myself with template areas. I’m just starting out, but so far, I really, really like CSS Grid. 😍 The code is beautiful - minimalistic and simple - and there are so many possibilities because one can structure content on both the horizontal and vertical axis. Am excited to see how it behaves with content inside! I also think one can do some fun creative stuff with it as well… 🤓
 
@@ -114,7 +114,7 @@ Today’s resources:
 
 ### Day 10 - Wednesday 10.01.2018 - Hidden divs: CSS Grid and JavaScript
 
-<br/><img src="./images/log-day-10-hidden.gif" width=600/>
+<br/><img src="./images/log-day-10-hidden.gif" width="600"/>
 
 Today, I combined my newly acquired CSS Grid and JavaScript function knowledge to make this. The idea was to see if it was possible to have a div hidden by default and then make it visible again. I’m planning a small fun project with this, looking forward to doing that tomorrow.
 <br/><br/>
@@ -131,7 +131,7 @@ Resources: I used the JS code from [W3schools: making a hidden by default div vi
 
 ### Day 11 - Thursday 11.01.2018 - Crazy interactive CSS Grid + JavaScript project sneak peek
 
-<br/><img src="./images/log-day-11-mondrian-cut.gif" width=600/>
+<br/><img src="./images/log-day-11-mondrian-cut.gif" width="600"/>
 
 The small project I mentioned yesterday turned out to be a big project. Go figure. 😜 It's almost done, though, so will post it tomorrow - I'll put it on CodePen since it's interactive.
 <br/><br/>
@@ -139,7 +139,7 @@ Today's resource: the bf. 😍 After I had written yesterday's log, I discussed 
 <br/><br/>
 
 ### Day 12 - Friday 12.01.2018 - Crazy interactive CSS Grid + JavaScript project done
-<br/><img src="./images/log-day-12-mondrian-full.gif" width=600/>
+<br/><img src="./images/log-day-12-mondrian-full.gif" width="600"/>
 
 I finished the crazy CSS Grid + JavaScript project and put it online. I ended up using about 60 fractions in the grid in order to get the ratios on each square as true as possible to the original: the work “Composition A”, painted by Piet Mondrian in 1923. The idea is to start with just one visible square and the rest of the squares hidden, and have everything chained so when you click one square, the next one appears.
 
@@ -157,7 +157,7 @@ In spite of this, I'm pretty happy with the result, mainly because I learnt both
 <br/><br/>
 
 ### Day 13 - Saturday 13.01.2018 - Planning ahead: tango music learning games
-<br/><img src="./images/log-day-13-biagi-flip.gif" width=600/>
+<br/><img src="./images/log-day-13-biagi-flip.gif" width="600"/>
 
 I've been deeply in love with Argentine tango for the last 13 years. It's not the tango you see on TV (which is mostly show tango or ballroom tango), but Argentine tango as it's danced socially in Buenos Aires and all over the world. Since I'm a musician, I'm more than average interested in the Argentine tango music. I don't play tango, but I DJ regularly at Argentine social tango events in Oslo and also sometimes abroad.
 
@@ -167,13 +167,13 @@ Today's resource: [This article](https://davidwalsh.name/css-flip) from David Wa
 <br/><br/>
 
 ### Day 14 - Sunday 14.01.2018 - Tango music learning game - flip cards inside CSS Grid
-<br/><img src="./images/log-day-14-troilo-flip.gif" width=600/>
+<br/><img src="./images/log-day-14-troilo-flip.gif" width="600"/>
 
 Today, my goal was to find a way of flipping a div with mouseclick (not just hover like yesterday's example), then make more divs and see if I could make  the flip cards work with CSS Grid. Needed lots of help from my house teacher (the bf). Progress has been made, though, and I hope I'll learn from using these concepts more.
 <br/><br/>
 
 ### Day 15 - Monday 15.01.2018 - Foxes! 🦊
-<br/><img src="./images/log-day-15-fox.png" width=600/>
+<br/><img src="./images/log-day-15-fox.png" width="600"/>
 
 Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went something like this: I looked at the page I made yesterday in the grid inspector in Firefox Developer Edition, which looks like a super handy tool. Then I read a CSS Grid article and got overwhelmed, so I customised my Firefox with a fox theme called ‘Mozilla: Firefox OS’ and coded a fox. He is my own design and he lives [here on CodePen](http://bit.ly/2mzrKwP). 🦊
 
@@ -183,17 +183,17 @@ Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went so
 ### Day 16 - Tuesday 16.01.2018 - CSS Grid with text
 <br/>After yesterday's temporary lapse into fox territory, I felt ready to tackle the CSS Grid resource mountain again today. My plan was to change my retro-coloured Grid test layout into a simple website structure, and see how it would behave with text. After a bit of testing, I decided it worked best with set heights/widths on some divs, and auto on others. Am happy I already was a little bit familiar with Flexbox.
 #### 3 responsive columns:
-<br/><img src="./images/log-day-16-grid-flex-text1.gif" width=600/>
+<br/><img src="./images/log-day-16-grid-flex-text1.gif" width="600"/>
 #### 2 fixed-size + 1 responsive column:
-<br/><img src="./images/log-day-16-grid-flex-text2.gif" width=600/>
+<br/><img src="./images/log-day-16-grid-flex-text2.gif" width="600"/>
 
 I guess it's easy to forget that one can't really practice layout without an idea about content. So I'll try to think up useful exercises for myself. Next: images and text together; then responsiveness for smaller screens.<br/><br/>
 Today's resource: The Grid inspector in Firefox Developer Edition is super handy for understanding the structure of the layouts one is working on.
-<br/><br/><img src="./images/log-day-16-firefox-grid-inspector.png" width=600/>
+<br/><br/><img src="./images/log-day-16-firefox-grid-inspector.png" width="600"/>
 <br/><br/>
 
 ### Day 17 - Wednesday 17.01.2018 - CSS Grid with text and images: blog layout
-<br/><img src="./images/log-day-17-grid-flex-blog-layout.gif" width=600/>
+<br/><img src="./images/log-day-17-grid-flex-blog-layout.gif" width="600"/>
 
 My plan for today was to introduce images in addition to text in a CSS Grid and see if everything behaved. And it did! I started out with the layout I coded yesterday and added screenshots of some of my CSS art (although I'm not sure I dare calling it art), and then I got inspired to change the colours + make a header background-image in Photoshop as well. As I learn more about CSS Grid, I might discover better ways of doing this, but at least for now, it works in four browsers.
 
@@ -201,7 +201,7 @@ This is kinda an old-fashioned blog layout. Next step is to make media queries f
 <br/><br/>
 
 ### Day 18 - Thursday 18.01.2018 - CSS Grid with only images: squares
-<br/><img src="./images/log-day-18-grid-aqua.png" width=600/>
+<br/><img src="./images/log-day-18-grid-aqua.png" width="600"/>
 
 Made another CSS Grid layout. I struggled a bit, so it's clear that I need to study more and practice a lot! 😐 But in the end it worked as intended. 💪🏻 I also put an increase size on hover property on the images. I think that might work better with a responsive layout, though, so will experiment some more.
 
@@ -210,7 +210,7 @@ Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/
 Update: I made another version with auto-fit after I had written the log yesterday.
 <br/><br/>
 ### Day 19 - Friday 19.01.2018 - CSS Grid with only images: a look at animation
-<br/><img src="./images/log-day-19-tango-grid.png" width=600/>
+<br/><img src="./images/log-day-19-tango-grid.png" width="600"/>
 
 Was inspired by [this animation by Mantas Gr on Dribble](https://dribbble.com/shots/3531807-Reel-2017) today, so I wanted to see if I could animate movements of CSS Grid elements the same way - meaning that the item moves from one grid to another. Unfortunately, it looks like it's not possible, if I don't misunderstand the information I found online. I can make the div change placement on the grid, but it just changes abruptly, so there was no real movement animation effect like I was looking for 😭
 
@@ -221,7 +221,7 @@ Felt a bit like I wasted a day, but I did write code, I practiced CSS Grid, and 
 The photos are from my Instagram account and are all related to Argentine social tango. Nope it's not like on television. 🤣
 <br/><br/>
 ### Day 20 - Saturday 20.01.2018 - CSS Grid with only images: a look at animation
-<br/><img src="./images/log-day-20-contenteditable.gif" width=600/>
+<br/><img src="./images/log-day-20-contenteditable.gif" width="600"/>
 
 Did a bit of light weekend coding. I had seen [a pen by Mandy Michael on CodePen](https://codepen.io/mandymichael/full/BWyYYP/) where it was possible to change the text directly on the interface, so I wanted to investigate that. Here's the result - you can try it out [here on CodePen](http://bit.ly/2DltdxQ). It works on iPad and iPhone as well as on computers, and it resizes nicely to all viewports, so I think I finally have got a better understanding of that.
 
