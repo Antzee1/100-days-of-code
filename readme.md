@@ -236,5 +236,13 @@ The other day, I saw that one guy had published his log on GitHub Pages. I decid
 
 Next, I got inspired by a pretty [Dribbble shot of moving volume sliders](https://dribbble.com/shots/3106033-Volume-Sliders) by Daryl Bruinsma. I'm curious about user interactivity, so I wanted to see if it was possible to click and drag similar sliders, so I went online and found the JavaScript code for a draggable div. Spent the rest of the day doing the styling - struggled a bit with placement due to the JavaScript, but finally now everything stays in place, and the green slider is clickable. Next up is to adapt the JavaScript.
 
-The colours are the same as the colours on my dad's beautiful old Hermes 3000 typewriter from the early 1960s. ❤️ 
+The colours are the same as the colours on my dad's beautiful old Hermes 3000 typewriter from the early 1960s. ❤️
+<br/><br/>
+### Day 22 -Monday 22.01.2018 - Volume slider progress
+<br/><img src="./images/log-day-22-twitter.png" width="600"/>
+
+Today, I re-coded my avatar for social medias + found out how to make the sliders look spherical. And the sliders are movable now! I found a couple possible JavaScript solutions online, and I managed to get one slider to move, but needed help from my house teacher (the bf) for the rest: make all sliders move individually + an if else sentence to make the sliders stop at the beginning and end of the slots. Progress is slow, but I have a feeling that JavaScript can be fun once I master it a little bit better.
+
+Moving version [here on Instagram](https://www.instagram.com/p/BeRGS0IAab5/)
+❇️ 🔴 🌕 🔵 ⚪️
 <br/><br/>
