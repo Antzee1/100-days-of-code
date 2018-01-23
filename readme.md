@@ -7,7 +7,8 @@
 I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻
 <br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
 <br/> ➡️ Some of my stuff is on [CodePen](https://codepen.io/Antzee)
-<br/> ➡️ You can also find me on [Twitter](https://twitter.com/Antzee_)
+<br/> ➡️ I also have a [YouTube channel](https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig) for animation etc.
+<br/> ➡️ Connect: [Twitter](https://twitter.com/Antzee_) and [Instagram](https://www.instagram.com/ameliacodes/)
 
 ⭐️ My main goals for 100 Days Of Code: improve my HTML/CSS skills + learn more about JavaScript.⭐️
 
@@ -244,7 +245,11 @@ The colours are the same as the colours on my dad's beautiful old Hermes 3000 ty
 Today, I re-coded my avatar for social medias + found out how to make the sliders look spherical. And the sliders are movable now! I found a couple possible JavaScript solutions online, and I managed to get one slider to move, but needed help from my house teacher (the bf) for the rest: make all sliders move individually + an if else sentence to make the sliders stop at the beginning and end of the slots. Progress is slow, but I have a feeling that JavaScript can be fun once I master it a little bit better.
 ❇️ 🔴 🌕 🔵 ⚪️
 
-### Day 23 - Tuesday 23.01.2018 - Volume slider video
-I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action:
+### Day 23 - Tuesday 23.01.2018 - Volume slider video & responsiveness exercises
+I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action!
+
+(embedding only works in the GitHub pages version. Click the link inside the embed code if you don't see the video).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUcEpNwXJ5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/><br/>
+🤓 I also have been thinking that I need to understand resizing / responsiveness better, so I decided to set up a few examples with different properties, like height, width, and font-size to study how the boxes and the text behave differently on resizing. I also checked the different divs when zooming in / out with command- / command+, because this will also affect the layout. 😯
 <br/><br/>
