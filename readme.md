@@ -238,11 +238,13 @@ Next, I got inspired by a pretty [Dribbble shot of moving volume sliders](https:
 
 The colours are the same as the colours on my dad's beautiful old Hermes 3000 typewriter from the early 1960s. ❤️
 <br/><br/>
-### Day 22 -Monday 22.01.2018 - Volume slider progress
+### Day 22 - Monday 22.01.2018 - Volume slider progress
 <br/><img src="./images/log-day-22-twitter.png" width="600"/>
 
 Today, I re-coded my avatar for social medias + found out how to make the sliders look spherical. And the sliders are movable now! I found a couple possible JavaScript solutions online, and I managed to get one slider to move, but needed help from my house teacher (the bf) for the rest: make all sliders move individually + an if else sentence to make the sliders stop at the beginning and end of the slots. Progress is slow, but I have a feeling that JavaScript can be fun once I master it a little bit better.
-
-Moving version [here on Instagram](https://www.instagram.com/p/BeRGS0IAab5/)
 ❇️ 🔴 🌕 🔵 ⚪️
+
+### Day 23 - Tuesday 23.01.2018 - Volume slider video
+I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUcEpNwXJ5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/><br/>
