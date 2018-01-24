@@ -244,7 +244,7 @@ The colours are the same as the colours on my dad's beautiful old Hermes 3000 ty
 
 Today, I re-coded my avatar for social medias + found out how to make the sliders look spherical. And the sliders are movable now! I found a couple possible JavaScript solutions online, and I managed to get one slider to move, but needed help from my house teacher (the bf) for the rest: make all sliders move individually + an if else sentence to make the sliders stop at the beginning and end of the slots. Progress is slow, but I have a feeling that JavaScript can be fun once I master it a little bit better.
 ❇️ 🔴 🌕 🔵 ⚪️
-
+<br/><br/>
 ### Day 23 - Tuesday 23.01.2018 - Volume slider video & responsiveness exercises
 I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action!
 
@@ -252,4 +252,11 @@ I set up a YouTube channel today so I can show better video quality of animation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUcEpNwXJ5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/><br/>
 🤓 I also have been thinking that I need to understand resizing / responsiveness better, so I decided to set up a few examples with different properties, like height, width, and font-size to study how the boxes and the text behave differently on resizing. I also checked the different divs when zooming in / out with command- / command+, because this will also affect the layout. 😯
+<br/><br/>
+### Day 24 - Wednesday 24.01.2018 -  responsiveness exercise
+📚 Continued with my responsive layout study. It’s a lot more clear now how different combinations of relative and absolute size units for divs and fonts generate different results  (some of the combinations are really funky and totally impractical). This is of course a basic topic, but it still confused me. So I found it very useful to write my own examples so I could compare them to each other - both the code and the actual result - instead of just reading about it.
+
+ℹ️nspiration: Matt Rothenberg's [CSS Grid Clash poster on CodePen](https://codepen.io/mattrothenberg/full/RxOeNQ/).  
+
+📝 Some studies suggest that we learn better when we write by hand. Apparently, it’s National Handwriting Day today, so I found this a good day to start doing handwritten notes. Inspiration: [￼thedailyroe on Instagram](https://www.instagram.com/thedailyroe/).￼
 <br/><br/>
