@@ -211,6 +211,7 @@ Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/
 
 Update: I made another version with auto-fit after I had written the log yesterday.
 <br/><br/>
+
 ### Day 19 - Friday 19.01.2018 - CSS Grid with only images: a look at animation
 <br/><img src="./images/log-day-19-tango-grid.png" width="600"/>
 
@@ -222,6 +223,7 @@ Felt a bit like I wasted a day, but I did write code, I practiced CSS Grid, and 
 
 The photos are from my Instagram account and are all related to Argentine social tango. Nope it's not like on television. 🤣
 <br/><br/>
+
 ### Day 20 - Saturday 20.01.2018 - CSS Grid with only images: a look at animation
 <br/><img src="./images/log-day-20-contenteditable.gif" width="600"/>
 
@@ -230,6 +232,8 @@ Did a bit of light weekend coding. I had seen [a pen by Mandy Michael on CodePen
 Mandy Michael's pen is obviously a whole lot more exceptional since she also coded the letters! 😍
 
 💡 Today's inspiration: The Instagram account of graphic designer and illustrator [Maria Diamantes](https://www.instagram.com/mariadiamantes/). 😍
+<br/><br/>
+
 ### Day 21 - Sunday 21.01.2018 - Random inspiration day
 <br/><img src="./images/log-day-21-sliders.png" width="600"/>
 
@@ -239,24 +243,48 @@ Next, I got inspired by a pretty [Dribbble shot of moving volume sliders](https:
 
 The colours are the same as the colours on my dad's beautiful old Hermes 3000 typewriter from the early 1960s. ❤️
 <br/><br/>
+
 ### Day 22 - Monday 22.01.2018 - Volume slider progress
 <br/><img src="./images/log-day-22-twitter.png" width="600"/>
 
 Today, I re-coded my avatar for social medias + found out how to make the sliders look spherical. And the sliders are movable now! I found a couple possible JavaScript solutions online, and I managed to get one slider to move, but needed help from my house teacher (the bf) for the rest: make all sliders move individually + an if else sentence to make the sliders stop at the beginning and end of the slots. Progress is slow, but I have a feeling that JavaScript can be fun once I master it a little bit better.
 ❇️ 🔴 🌕 🔵 ⚪️
 <br/><br/>
+
 ### Day 23 - Tuesday 23.01.2018 - Volume slider video & responsiveness exercises
 I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action!
-
+<br/><br/>
 (embedding only works in the GitHub pages version. Click the link inside the embed code if you don't see the video).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUcEpNwXJ5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/><br/>
 🤓 I also have been thinking that I need to understand resizing / responsiveness better, so I decided to set up a few examples with different properties, like height, width, and font-size to study how the boxes and the text behave differently on resizing. I also checked the different divs when zooming in / out with command- / command+, because this will also affect the layout. 😯
 <br/><br/>
+
 ### Day 24 - Wednesday 24.01.2018 -  responsiveness exercise
+
 📚 Continued with my responsive layout study. It’s a lot more clear now how different combinations of relative and absolute size units for divs and fonts generate different results  (some of the combinations are really funky and totally impractical). This is of course a basic topic, but it still confused me. So I found it very useful to write my own examples so I could compare them to each other - both the code and the actual result - instead of just reading about it.
 
 ℹ️nspiration: Matt Rothenberg's [CSS Grid Clash poster on CodePen](https://codepen.io/mattrothenberg/full/RxOeNQ/).  
 
 📝 Some studies suggest that we learn better when we write by hand. Apparently, it’s National Handwriting Day today, so I found this a good day to start doing handwritten notes. Inspiration: [￼thedailyroe on Instagram](https://www.instagram.com/thedailyroe/).￼
+<br/><br/>
+
+### Day 25 - Thursday 25.01.2018 - Responsive study with images - image size optimising
+Today, I added images to yesterday's responsiveness study. I didn’t run into any problems, which was almost shocking since I’ve been struggling with this before. Looking at how all the components work together has really helped.
+
+Resource for image resizing: [W3schools](https://www.w3schools.com/css/css_rwd_images.asp)
+
+I also found a helpful [article on image size optimising](https://om4.com.au/client/preparing-image-files-before-uploading-with-wordpress/) and realised how easy it is to reduce the file size in Photoshop Elements. If you use the slider in the dialogue window, you can easily reduce the amount of KB:
+<br/><br/><img src="./images/log-day-25-image-optimiser.png" width="600"/>
+<br/><br/>
+
+Finally, I wanted to test one of the code snippets from yesterday a bit more. It seems it's not 100% straightforward if you want a scalable layout where everything stays proportionally in place in different-sized browser windows. I found [a very useful pen on CodePen](https://codepen.io/mirisuzanne/pen/bWxaKY?editors=0110) for this, so I made an exercise with text and two images (the background that serves as the Polaroid frame, and the photo) and it resized nicely. I can easily make something like this in Photoshop and then use it as a single image and have it resize without problems, but this is obviously a more flexible solution and it's nice to know the trick for making such layouts in code.
+
+I put the result on YouTube. Click the image below (using an embed code again seems to break my markdown 😡).
+<br/><br/>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-YugKdBFr_o
+" target="_blank"><img src="http://img.youtube.com/vi/-YugKdBFr_o/0.jpg"
+alt="Image with YouTube link" width="240" height="180" border="0" /></a>
+
 <br/><br/>
