@@ -284,7 +284,15 @@ I put the result on YouTube. Click the image below (using an embed code again se
 <br/><br/>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-YugKdBFr_o
-" target="_blank"><img src="http://img.youtube.com/vi/-YugKdBFr_o/0.jpg"
+" target="new"><img src="http://img.youtube.com/vi/-YugKdBFr_o/0.jpg"
 alt="Image with YouTube link" width="240" height="180" border="0" /></a>
+<br/><br/>
+### Day 25 - Friday 26.01.2018 - Starting #newwwyear
+During the Christmas holidays, Jen Simmons started a challenge where the idea is to make or revamp one's own personal website in 2018. I've been thinking about it for a while without coming up with a real plan, except to try to use as much as possible of what I've learnt + hopefully learn more. But this morning I woke up super early with a lightbulb switched on in my head. 💡￼￼￼ So today, I experimented with how to transform my layout idea into code. I'm using CSS Grid and implementing what I've learnt over the last couple weeks, only this is going to be more complex. 😱
 
+My #newwwyear tweet:<br/>
+1) Start: today ✅￼<br/>
+2) Goal: build my first own personal website from scratch, taking it as an opportunity to practice what I’ve learnt + learn more.<br/>
+3) Finish: as soon as I can.<br/>
+➡️ Everybody can join by tweeting 1) start 2) goal 3) finish + hashtag #newwwyear.
 <br/><br/>
