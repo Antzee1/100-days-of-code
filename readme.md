@@ -296,3 +296,10 @@ My #newwwyear tweet:<br/>
 3) Finish: as soon as I can.<br/>
 ➡️ Everybody can join by tweeting 1) start 2) goal 3) finish + hashtag #newwwyear.
 <br/><br/>
+
+### Day 27 - Saturday 27.01.2018 - Website drafting
+
+💃🏻 IT WORKS! IT WORKS!!! 💃🏻 No, I’m not talking about my code. I’m talking about my brain... (rolls eyes 🙄) I continued to work on my website project today, and was puzzled by a CSS Grid problem where the ratios kept turning out all wrong. Then I suddenly got the logic... I'm really happy I did the Grid exercises this week. I haven't got a clear understanding of how different types of items behave and influence each other in CSS Grid, but even if I haven't assimilated everything yet, I could use what I learnt this week to troubleshoot. Maybe I should make some kind of summary later.
+
+▶️ Today's video resource: Mandy Michael, who I mentioned last Saturday, just did [a super inspiring talk](https://youtu.be/9EU7urOl1LE) on her work on creative fonts.
+<br/><br/>
