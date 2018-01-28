@@ -1,9 +1,9 @@
-body {
-  margin: 60px auto;
+html {
   font-size: 16px;
 }
 
 .container {
+  margin: auto;
   padding-left: 50px;
   max-width: 600px;
 }
