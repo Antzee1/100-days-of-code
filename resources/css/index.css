@@ -1,7 +1,6 @@
 body {
   margin: 60px auto;
-  width: 50%;
-  color: rgb(100, 150, 159);
+  width: 60%;
   font-size: 16px;
 }
 
@@ -30,15 +29,21 @@ h1 {
   color: rgb(27, 27, 27);
 }
 
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.8rem;
+  color: rgb(27, 27, 27);
+}
+
 h3 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: rgb(27, 27, 27);
 }
 
 p {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   color: rgb(27, 27, 27);
 }
 
@@ -49,9 +54,14 @@ footer {
 
 ul.posts {
   margin: 20px auto 40px;
-  font-size: 1.5em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5rem;
+  color: rgb(27, 27, 27);
 }
 
 ul.posts li {
   list-style: none;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5rem;
+  color: rgb(27, 27, 27);
 }
