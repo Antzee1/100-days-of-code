@@ -10,11 +10,12 @@ body {
 }
 
 .container {
-
+  max-width: 600px;
 }
 
 .container img {
   width: 50vw;
+  max-width: 600px;
 }
 
 nav ul, footer ul {
