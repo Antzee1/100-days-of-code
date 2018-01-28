@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: rgb(249, 246, 223);
+  background: #FCF8ED;
 }
 
 .container {
@@ -26,7 +26,7 @@ nav ul li, footer ul li {
 
 a {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   text-decoration: underline;
   color: rgb(172, 0, 0);
 }
