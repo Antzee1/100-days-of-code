@@ -8,12 +8,12 @@ body {
 
 .container {
   margin: auto;
-  padding-left: 50px;
-  width: 50vw;
+  max-width: 50vw;
 }
 
 .container img {
   width: 50vw;
+  max-width: 600px;
 }
 
 nav ul, footer ul {
