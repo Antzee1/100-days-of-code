@@ -4,16 +4,15 @@ html {
 
 body {
   background: #FCF8ED;
-  max-width: 600px;
 }
 
 .container {
   margin: auto;
-  width: 50vw;
+  max-width: 600px;
 }
 
 .container img {
-  width: 50vw;
+  max-width: 600px;
 }
 
 nav ul, footer ul {
