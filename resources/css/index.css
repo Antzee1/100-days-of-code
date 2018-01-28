@@ -9,11 +9,11 @@ body {
 .container {
   margin: auto;
   padding-left: 50px;
-  max-width: 60vw;
+  width: 50vw;
 }
 
 .container img {
-  width: 60vw;
+  width: 50vw;
 }
 
 nav ul, footer ul {
