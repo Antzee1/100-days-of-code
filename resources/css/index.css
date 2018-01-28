@@ -40,20 +40,20 @@ a {
 a:hover {}
 
 h1 {
-  font-size: 3vw;
+  font-size: 5vw;
   font-family: 'Amatic SC', cursive;
-  color: color: rgb(172, 0, 0);
+  color: rgb(172, 0, 0);
 }
 
 h2 {
   font-family: 'Amatic SC', cursive;
-  font-size: 2.5vw;
+  font-size: 3.5vw;
   color: rgb(27, 27, 27);
 }
 
 h3 {
   font-family: 'Amatic SC', cursive;
-  font-size: 2vw;
+  font-size: 3vw;
   color: rgb(27, 27, 27);
 }
 
