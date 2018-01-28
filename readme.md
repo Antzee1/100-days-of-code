@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log - Antzée
+# 100 Days Of Code - Log - Antzée !
 
 <img src="./images/log-day-1-header.jpg" width="500"/>
 
