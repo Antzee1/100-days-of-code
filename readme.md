@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log - Antzée !
+# ANTZÉE's 100 DAYS OF CODE
 
 <img src="./images/log-day-1-header.jpg" width="500"/>
 
@@ -21,7 +21,7 @@ Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. 
 ### Day 2 - Tuesday 02.01.2018 - CSS Grid - first look
 
 <br/><img src="./images/log-day-2.png"/>
-<br/><br/>Did the three first lessons of Scrimba's "Learn CSS Grid for free" online course. It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor. Link: https://scrimba.com/g/gR8PTE
+<br/><br/>Did the three first lessons of [Scrimba's "Learn CSS Grid for free" online course](https://scrimba.com/g/gR8PTE). It seems really good since it's an interactive video so I could play with edits both on the interface and in my own editor.
 <br/><br/>
 
 ### Day 3 - Wednesday 03.01.2018 - JavaScript back to basics: variables and arrays
@@ -29,16 +29,16 @@ Simple start: commit to the 100 Days Of Code challenge and set it up on GitHub. 
 <br/><img src="./images/log-day-3-javascript.png" width="600"/>
 
 [This talk](http://bit.ly/1byDzwo) by Kathy Sierra made me realise that I need to change how I study JavaScript (which I until now have found really difficult). So I’ve decided to try another way of structuring my learning process. Instead of just following one learning source, I'll:
-- *combine different learning sources (videos and text)*
-- *write my own versions of examples*
-- *not move on until I feel comfortable with each topic.*
+♦️ combine different learning sources (videos and text)
+♦️ write my own versions of examples
+♦️ not move on until I feel comfortable with each topic.
 
 Today, I went back to the beginning and revised variables & arrays. It's not the hardest part of JavaScript, but a good way of setting up and practicing a different workflow.
 
 Today’s learning resources:
-- [“Practical Javascript” by Gordon Zhu on Watch and Code](https://watchandcode.com/p/practical-javascript)
-- [“The complete JavaScript course” by Jonas Schmedtmann on Udemy](https://www.udemy.com/the-complete-javascript-course/)
-- [W3schools](https://www.w3schools.com/js/default.asp) for additional examples.
+➡️ [“Practical Javascript” by Gordon Zhu on Watch and Code](https://watchandcode.com/p/practical-javascript)
+➡️ [“The complete JavaScript course” by Jonas Schmedtmann on Udemy](https://www.udemy.com/the-complete-javascript-course/)
+➡️ [W3schools](https://www.w3schools.com/js/default.asp) for additional examples.
 <br/><br/>
 
 ### Day 4 - Thursday 04.01.2018 - JavaScript back to basics: functions
@@ -73,8 +73,8 @@ I also wrote a couple of JavaScript function examples to practice what I learned
 Continued with CSS Grid, combining video, reading, and writing. I like to write my own examples so I’m sure I really understand everything in the code, so I made these retro-inspired babies who I’m gonna continue experimenting with to understand placement on the grid. I’ll share some code examples at a later stage. Am feeling a bit more comfortable with the syntax today than I felt yesterday 💪🏻
 <br/><br/>
 Today’s resources:
-- [Firefox Devtool’s playground for CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
-- [Scrimba’s “Learn CSS Grid for free”](https://scrimba.com/g/gR8PTE) - video 4
+➡️ [Firefox Devtool’s playground for CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
+➡️ [Scrimba’s “Learn CSS Grid for free”](https://scrimba.com/g/gR8PTE) - video 4
 <br/><br/>
 
 ### Day 7 - Sunday 07.01.2018 - Reading day
@@ -99,8 +99,8 @@ background-image: url(‘../LINK’),
    linear-gradient(to bottom, rgb(120, 209, 221), rgb(213, 234, 236));
 
 How to use JavaScript to hide a div:
-- [w3schools tutorial](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
-- [jsfiddle example](http://jsfiddle.net/BQUyT/2/)
+➡️ [w3schools tutorial](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
+➡️ [jsfiddle example](http://jsfiddle.net/BQUyT/2/)
 <br/><br/>
 
 ### Day 9 - Tueday 09.01.2018 - CSS Grid basics
@@ -110,8 +110,8 @@ How to use JavaScript to hide a div:
 Today: more CSS Grid. I understand the basic principles and syntax now: columns, rows, and column lines. The GIF shows the responsive 12-column example I made with my retro-inspired design from day 6. I also familiarised myself with template areas. I’m just starting out, but so far, I really, really like CSS Grid. 😍 The code is beautiful - minimalistic and simple - and there are so many possibilities because one can structure content on both the horizontal and vertical axis. Am excited to see how it behaves with content inside! I also think one can do some fun creative stuff with it as well… 🤓
 
 Today’s resources:
-- [Scrimba Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) Video 4 and 5
-- Corresponding [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) videos by Rachel Andrews.
+➡️ [Scrimba Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) Video 4 and 5
+➡️ Corresponding [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) videos by Rachel Andrews.
 <br/><br/>
 
 ### Day 10 - Wednesday 10.01.2018 - Hidden divs: CSS Grid and JavaScript
@@ -128,7 +128,7 @@ Today, I combined my newly acquired CSS Grid and JavaScript function knowledge t
 <br/><br/>
 Progress: I still have to look up how to do things with JavaScript, but I hope that 1) seeing other people’s examples and 2) adapting those examples so they work with my code eventually will strengthen my understanding of the different JavaScript concepts.
 <br/><br/>
-Resources: I used the JS code from [W3schools: making a hidden by default div visible with JavaScript](https://www.w3schools.com/css/tryit.asp?filename=trycss_display_js).
+➡️ Resources: I used the JS code from [W3schools: making a hidden by default div visible with JavaScript](https://www.w3schools.com/css/tryit.asp?filename=trycss_display_js).
 <br/><br/>
 
 ### Day 11 - Thursday 11.01.2018 - Crazy interactive CSS Grid + JavaScript project sneak peek
@@ -165,7 +165,7 @@ I've been deeply in love with Argentine tango for the last 13 years. It's not th
 
 Many dancers are interested in learning more about the music, so my bf, who also is a tango dancer, suggested that I study JavaScript by making some games about Argentine tango music. I think it's a nice idea, so today I found a tutorial on how to make a flip card using CSS and JS, and customised the code to learn how it works. Next step is to think of a concept.
 
-Today's resource: [This article](https://davidwalsh.name/css-flip) from David Walsh.
+➡️ Today's resource: [This article](https://davidwalsh.name/css-flip) from David Walsh.
 <br/><br/>
 
 ### Day 14 - Sunday 14.01.2018 - Tango music learning game - flip cards inside CSS Grid
@@ -184,13 +184,17 @@ Today's plan: CSS Grid deep dive. What actually happened: foxes. The day went so
 
 ### Day 16 - Tuesday 16.01.2018 - CSS Grid with text
 <br/>After yesterday's temporary lapse into fox territory, I felt ready to tackle the CSS Grid resource mountain again today. My plan was to change my retro-coloured Grid test layout into a simple website structure, and see how it would behave with text. After a bit of testing, I decided it worked best with set heights/widths on some divs, and auto on others. Am happy I already was a little bit familiar with Flexbox.
-#### 3 responsive columns:
+
+3 responsive columns:
+
 <br/><img src="./images/log-day-16-grid-flex-text1.gif" width="600"/>
-#### 2 fixed-size + 1 responsive column:
+
+2 fixed-size + 1 responsive column:
+
 <br/><img src="./images/log-day-16-grid-flex-text2.gif" width="600"/>
 
 I guess it's easy to forget that one can't really practice layout without an idea about content. So I'll try to think up useful exercises for myself. Next: images and text together; then responsiveness for smaller screens.<br/><br/>
-Today's resource: The Grid inspector in Firefox Developer Edition is super handy for understanding the structure of the layouts one is working on.
+➡️ Today's resource: The Grid inspector in Firefox Developer Edition is super handy for understanding the structure of the layouts one is working on.
 <br/><br/><img src="./images/log-day-16-firefox-grid-inspector.png" width="600"/>
 <br/><br/>
 
@@ -207,7 +211,7 @@ This is kinda an old-fashioned blog layout. Next step is to make media queries f
 
 Made another CSS Grid layout. I struggled a bit, so it's clear that I need to study more and practice a lot! 😐 But in the end it worked as intended. 💪🏻 I also put an increase size on hover property on the images. I think that might work better with a responsive layout, though, so will experiment some more.
 
-Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/@heysupersimi) on [Unsplash](https://unsplash.com), a site with high quality, royalty free photos that can be used for whatever we want. It's really wonderful to have access to so many great pics without worrying about copyright. It's still nice to give credit, though. ❤️
+➡️ Today's resource: The photos I used are by [Simone Hutsch](https://unsplash.com/@heysupersimi) on [Unsplash](https://unsplash.com), a site with high quality, royalty free photos that can be used for whatever we want. It's really wonderful to have access to so many great pics without worrying about copyright. It's still nice to give credit, though. ❤️
 
 Update: I made another version with auto-fit after I had written the log yesterday.
 <br/><br/>
@@ -298,8 +302,16 @@ My #newwwyear tweet:<br/>
 <br/><br/>
 
 ### Day 27 - Saturday 27.01.2018 - Website drafting
-
 💃🏻 IT WORKS! IT WORKS!!! 💃🏻 No, I’m not talking about my code. I’m talking about my brain... (rolls eyes 🙄) I continued to work on my website project today, and was puzzled by a CSS Grid problem where the ratios kept turning out all wrong. Then I suddenly got the logic... I'm really happy I did the Grid exercises this week. I haven't got a clear understanding of how different types of items behave and influence each other in CSS Grid, but even if I haven't assimilated everything yet, I could use what I learnt this week to troubleshoot. Maybe I should make some kind of summary later.
 
 ▶️ Today's video resource: Mandy Michael, who I mentioned last Saturday, just did [a super inspiring talk](https://youtu.be/9EU7urOl1LE) on her work on creative fonts.
 <br/><br/>
+
+### Day 28 - Sunday 28.01.2018 - Website layout and revamping the log
+Today, I worked on a website layout detail. Partly because I haw watched yesterday's talk by Mandy Michael, I understood how to make a 3D-effect with box-shadow, like so:
+<br/><br/><img src="./images/log-day-28-website-letters.png" width="600"/>
+<br/><br/>
+I also got a serious amount of help from my house teacher (the bf) to get rid of the Jekyll Merlot theme for the log and set up the files so I could make the layout from scratch on GitHub. So happy I could use my favourite fonts! 😍
+<br/><br/><img src="./images/log-day-28-log-revamp.png" width="600"/>
+<br/><br/>
+It needs a bit more tweaking, plus there should be a media query for small screens. Am super happy because I learnt a bit more about how GitHub works, which is useful since I'll be using GitHub for my website as well.
