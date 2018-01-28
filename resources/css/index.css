@@ -31,7 +31,7 @@ nav ul li, footer ul li {
 
 a {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8vw;
   text-decoration: underline;
   color: rgb(172, 0, 0);
 }
@@ -39,49 +39,49 @@ a {
 a:hover {}
 
 h1 {
-  font-size: 3rem;
+  font-size: 2vw;
   font-family: 'Amatic SC', cursive;
   color: rgb(27, 27, 27);
 }
 
 h2 {
   font-family: 'Amatic SC', cursive;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   color: rgb(27, 27, 27);
 }
 
 h3 {
   font-family: 'Amatic SC', cursive;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   color: rgb(27, 27, 27);
 }
 
 p {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8vw;
   color: rgb(27, 27, 27);
 }
 
 footer {
   border-top: 1px solid #d5d5d5;
-  font-size: 0.8rem;
+  font-size: 0.8vw;
 }
 
 ul.posts {
   margin: 20px auto 40px;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8vw;
   color: rgb(27, 27, 27);
 }
 
 ul.posts li {
   list-style: none;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8vw;
   color: rgb(27, 27, 27);
 }
 ul.posts p {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8vw;
   color: rgb(27, 27, 27);
 }
