@@ -3,7 +3,7 @@ html {
 }
 
 body {
-
+  background: rgb(249, 246, 223);
 }
 
 .container {
@@ -47,13 +47,13 @@ h2 {
 
 h3 {
   font-family: 'Amatic SC', cursive;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: rgb(27, 27, 27);
 }
 
 p {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: rgb(27, 27, 27);
 }
 
@@ -65,13 +65,18 @@ footer {
 ul.posts {
   margin: 20px auto 40px;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: rgb(27, 27, 27);
 }
 
 ul.posts li {
   list-style: none;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  color: rgb(27, 27, 27);
+}
+ul.posts p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1rem;
   color: rgb(27, 27, 27);
 }
