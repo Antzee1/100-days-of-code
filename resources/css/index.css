@@ -5,11 +5,12 @@ html {
 body {
   background: #FCF8ED;
   margin: auto;
-  width: 50vw;
+  
   max-width: 1000px;
 }
 
 .container {
+  width: 50vw;
   max-width: 600px;
 }
 
