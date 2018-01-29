@@ -308,10 +308,14 @@ My #newwwyear tweet:<br/>
 <br/><br/>
 
 ### Day 28 - Sunday 28.01.2018 - Website layout and revamping the log
-Today, I worked on a website layout detail. Partly because I haw watched yesterday's talk by Mandy Michael, I understood how to make a 3D-effect with box-shadow, like so:
+Today, I worked on a website layout detail. Partly because I had watched yesterday's talk by Mandy Michael, I understood how to make a 3D-effect with box-shadow, like so:
 <br/><br/><img src="./images/log-day-28-website-letters.png" width="600"/>
 <br/><br/>
 I also got a serious amount of help from my house teacher (the bf) to get rid of the Jekyll Merlot theme for the log and set up the files so I could make the layout from scratch on GitHub. So happy I could use my favourite fonts! 😍
 <br/><br/><img src="./images/log-day-28-log-revamp.png" width="600"/>
 <br/><br/>
 It needs a bit more tweaking, plus there should be a media query for small screens. Am super happy because I learnt a bit more about how GitHub works, which is useful since I'll be using GitHub for my website as well.
+<br/><br/>
+
+### Day 29 - Monday 29.01.2018 - Website layout: making a pop-up box
+Continued working on my website. It's starting to take shape! I needed a pop-up window, so I found a tutorial online, dismantled the code to understand how it worked, and took away what I didn't need. 
