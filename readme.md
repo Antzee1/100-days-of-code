@@ -318,4 +318,10 @@ It needs a bit more tweaking, plus there should be a media query for small scree
 <br/><br/>
 
 ### Day 29 - Monday 29.01.2018 - Website layout: making a pop-up box
-Continued working on my website. It's starting to take shape! I needed a pop-up window, so I found a tutorial online, dismantled the code to understand how it worked, and took away what I didn't need. 
+Continued working on my website. It's starting to take shape! I needed a pop-up window, so I found a tutorial online, dismantled the code to understand how it worked, and took away what I didn't need.
+<br/><br/>
+### Day 30 - Tuesday 30.01.2018 - Website layout: movable divs
+<img src="./images/log-day-30-cloud.png" width="600"/>
+<br/><br/>
+Woke up with a new idea this morning: to try implementing movable divs in my website. If I don't want to use it after all, I'll know how to code it for another project. I already did it on the volume slider project, but there were a couple things that didn't work now so I tried a couple other methods found online. One of them was new to me: to build and style the div in JavaScript, which was pretty cool, so I did learn something after all + got help from my house teacher (the bf) on the other code so I can continue working tomorrow. But most of the day, I felt like in the picture, which I coded tonight just to illustrate my day. ☁️
+<br/><br/><br/><br/>
