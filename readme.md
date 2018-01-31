@@ -1,4 +1,4 @@
-<br/><br/><br/>
+<br/>
 ### Hi! 👋🏻
 
 I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻 Here are some of the things I've coded:
