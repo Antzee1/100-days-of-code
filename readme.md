@@ -81,8 +81,7 @@ alt="Image with YouTube link" border="0" /></a>
 I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action!
 <br/><br/>
 (embedding only works in the GitHub pages version. Click the link inside the embed code if you don't see the video).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUcEpNwXJ5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/><br/>
+
 🤓 I also have been thinking that I need to understand resizing / responsiveness better, so I decided to set up a few examples with different properties, like height, width, and font-size to study how the boxes and the text behave differently on resizing. I also checked the different divs when zooming in / out with command- / command+, because this will also affect the layout. 😯
 <br/><br/>
 
