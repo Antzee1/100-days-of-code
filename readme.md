@@ -1,17 +1,28 @@
 <br/>
-### Hi! 👋🏻
+### Introduction
 
-I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻 Here are some of the things I've coded:
+I started to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like my profile image ➡️
+<br/><br/>
+Here are some of the things I've coded:
 <br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
 <br/> ➡️ Some of my stuff is on [CodePen](https://codepen.io/Antzee)
 <br/> ➡️ I also have a [YouTube channel](https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig) for my animations.
-<br/> ➡️ Connect: [Twitter](https://twitter.com/Antzee_) and [Instagram](https://www.instagram.com/ameliacodes/)
 
-⭐️ My main goals for 100 Days Of Code: improve my HTML/CSS skills + learn more about JavaScript.⭐️
+My main goals for 100 Days Of Code:<br/>
+⭐️ improve my HTML/CSS skills<br/>
+⭐️ learn more about JavaScript.<br/>
 
-# LOG 🗓
+# LOG 🗓🗓🗓
 
 ⬆️ Order of entries: newest to oldest ⬆️
+
+### Day 31 - Wednesday 31.01.2018 - Log layout: complete layout with CSS Grid
+<img src="./images/log-day-31-log-header.jpg"/>
+<br/><br/>
+Coded my own responsive layout for my [100 Days Of Code log on GitHub Pages](https://antzee1.github.io/100-days-of-code/). My house teacher (the bf) had already set up the file structure for me on GitHub last weekend, but all the code is now me-made: a complete structure with CSS Grid. This log is only for 100 days, but it’s a good practice opportunity!
+
+The log looks okay on my phone as well, although everything is naturally a bit on the smallish side even though I used calc() to make the text resize nicely. I guess it would be good to practice by making media queries with a different layout for small screens. I’m still super happy about today, just because of the fact that everything behaves as intended.
+<br/><br/>
 ### Day 30 - Tuesday 30.01.2018 - Website layout: movable divs
 <img src="./images/log-day-30-cloud.png"/>
 <br/><br/>
