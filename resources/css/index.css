@@ -48,6 +48,17 @@ body {
   margin-left: 2vw;
 }
 
+.container h1 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  text-align: left;
+  font-size: calc(1.5rem + 1.5vw);
+  line-height: 1.2;
+  margin-top: 2vw;
+  margin-left: 2vw;
+  max-width: 600px;
+}
+
 .container h3 {
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
@@ -64,7 +75,6 @@ body {
   font-size: calc(0.8rem + 0.5vw);
   text-align: left;
   line-height: 1.2;
-  margin-top: 2vw;
   margin-bottom: 2vw;
   margin-left: 2vw;
   max-width: 600px;

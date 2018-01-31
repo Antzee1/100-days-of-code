@@ -1,5 +1,5 @@
 
-## Hi! 👋🏻
+### Hi! 👋🏻
 
 I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻 Here are the things I've coded:
 <br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
@@ -13,6 +13,7 @@ I'm a former pianist & piano teacher who in 2017 started to code. So far, I've d
 
 ⬆️ Order of entries: newest to oldest ⬆️
 ### Day 30 - Tuesday 30.01.2018 - Website layout: movable divs
+<img src="./images/-log-day-30-cloud.png"/>
 <br/><br/>
 Woke up with a new idea this morning: to try implementing movable divs in my website. If I don't want to use it after all, I'll know how to code it for another project. I already did it on the volume slider project, but there were a couple things that didn't work now so I tried a couple other methods found online. One of them was new to me: to build and style the div in JavaScript, which was pretty cool. So I did learn something after all + got help from my house teacher (the bf) on the other code so I can continue working tomorrow. But most of the day, I felt like in the picture, which I coded tonight just to illustrate my day. ☁️
 <br/><br/>
@@ -25,9 +26,11 @@ Continued working on my website. It's starting to take shape! I needed a pop-up 
 Today, I worked on a website layout detail. Partly because I had watched yesterday's talk by Mandy Michael, I understood how to make a 3D-effect with box-shadow, like so:
 <br/><br/><img src="./images/log-day-28-website-letters.png"/>
 <br/><br/>
+
 I also got a serious amount of help from my house teacher (the bf) to get rid of the Jekyll Merlot theme for the log and set up the files so I could make the layout from scratch on GitHub. So happy I could use my favourite fonts! 😍
 <br/><br/><img src="./images/log-day-28-log-revamp.png"/>
 <br/><br/>
+
 It needs a bit more tweaking, plus there should be a media query for small screens. Am super happy because I learnt a bit more about how GitHub works, which is useful since I'll be using GitHub for my website as well.
 <br/><br/>
 
