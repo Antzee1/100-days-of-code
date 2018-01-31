@@ -1,7 +1,7 @@
-
+<br/><br/><br/>
 ### Hi! 👋🏻
 
-I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻 Here are the things I've coded:
+I'm a former pianist & piano teacher who in 2017 started to code. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like the self portrait above (pure CSS - no SVGs) 👩🏻‍💻 Here are some of the things I've coded:
 <br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
 <br/> ➡️ Some of my stuff is on [CodePen](https://codepen.io/Antzee)
 <br/> ➡️ I also have a [YouTube channel](https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig) for my animations.
@@ -78,9 +78,8 @@ alt="Image with YouTube link" border="0" /></a>
 <br/><br/>
 
 ### Day 23 - Tuesday 23.01.2018 - Volume slider video & responsiveness exercises
-I set up a YouTube channel today so I can show better video quality of animation. Here are the volume sliders in action!
+I set up a YouTube channel today so I can show better video quality of animation. [Here's a video](https://www.youtube.com/embed/sUcEpNwXJ5Y) of the volume sliders in action!
 <br/><br/>
-(embedding only works in the GitHub pages version. Click the link inside the embed code if you don't see the video).
 
 🤓 I also have been thinking that I need to understand resizing / responsiveness better, so I decided to set up a few examples with different properties, like height, width, and font-size to study how the boxes and the text behave differently on resizing. I also checked the different divs when zooming in / out with command- / command+, because this will also affect the layout. 😯
 <br/><br/>
