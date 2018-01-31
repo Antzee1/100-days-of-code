@@ -48,7 +48,7 @@ body {
   margin-left: 2vw;
 }
 
-.container h1 {
+.container h3 {
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
   text-align: left;
@@ -68,6 +68,13 @@ body {
   margin-bottom: 2vw;
   margin-left: 2vw;
   max-width: 600px;
+}
+
+.container a {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: calc(0.8rem + 0.5vw);
+  line-height: 1.2;
+  color: rgb(162, 2, 2);
 }
 
 .sidebar {
@@ -94,7 +101,7 @@ body {
   margin-left: 2vw;
 }
 
-.sidebar h1 {
+.sidebar h3 {
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
   font-size: calc(1.5rem + 0.5vw);
@@ -147,7 +154,7 @@ body {
   grid-row-end: -1;
 }
 
-.footer h1 {
+.footer h3 {
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
   font-size: 1.3rem;
