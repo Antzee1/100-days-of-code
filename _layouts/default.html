@@ -2,33 +2,47 @@
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link rel="stylesheet" type="text/css" href="./resources/css/index.css">
 			<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Josefin+Sans" rel="stylesheet">
+			<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css">
 		</head>
+
 		<body>
-			<nav>
-	    		<ul>
-	        		<!-- <li><a href="./">Home</a></li>
-		        	<li><a href="./about">About</a></li>
-	        		<li><a href="./cv">CV</a></li> -->
-	    		</ul>
-			</nav>
-			<div class="container">
 
-			{{ content }}
+			  <div class="outer">
 
-			</div>
+			    <div class="header">
+			      <img src="./images/cover.jpg">
+			    </div>
 
-		<!--
-			<footer>
-	    		<ul>
-	        		<li><a href="https://github.com/ketilroed">github.com/ketilroed</a></li>
-				</ul>
-			</footer>
+			    <div class="sidebar">
+			      <img src="./images/amelia.jpg">
+			      <h1>Hello!</h1>
+			      <p>I'm an ex-pianist / teacher who lives in Norway. I'm teaching myself to code! This is my log for the 100 Days Of Code challenge.<br><br>
+			      </p>
+			      <h1>Connect</h1>
+			      <div class="social">
+			        <div class="twitter"><a href="https://twitter.com/Antzee_" target="_blank"><i class="fa fa-twitter fa-3x"></i></a></div>
+			        <div class="instagram"><a href="https://www.instagram.com/ameliacodes/" target="_blank"><i class="fa fa-instagram fa-1x"></i></a></div>
+			        <div class="codepen"><a href="https://codepen.io/Antzee/#" target="_blank"><i class="fa fa-codepen fa-1x"></i></a></div>
+			        <div class="youtube"><a href="https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig" target="_blank"><i class="fa fa-youtube fa-1x"></i></a></div>
+			      </div>
+			      <h4>Code and design:<br> T. Antzée</h4>
+			    </div>
 
-		-->
+					<div class="container">
+					{{ content }}
+					</div>
 
+			    <div class="footer">
+			      <h1>Coded by Antzée</h1>
+			      <div class="twitter"><a href="https://twitter.com/Antzee_" target="_blank"><i class="fa fa-twitter fa-1x"></i></a></div>
+			      <div class="instagram"><a href="https://www.instagram.com/ameliacodes/" target="_blank"><i class="fa fa-instagram fa-1x"></i></a></div>
+			      <div class="codepen"><a href="https://codepen.io/Antzee/#" target="_blank"><i class="fa fa-codepen fa-1x"></i></a></div>
+			      <div class="youtube"><a href="https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig" target="_blank"><i class="fa fa-youtube fa-1x"></i></a></div>
+			    </div>
+
+			  </div>
 		</body>
 </html>
