@@ -16,6 +16,18 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 
+
+### Day 32 - Thursday 01.02.2018 - Just for fun: weekday calendar animation with CSS Grid
+<img src="./images/log-day-32-calendar.gif"/>
+<br/><br/>
+Today, I noticed how intense this month has been. I started 100 Days Of Code on January 1st, with a cold, and have been working full time the whole month on learning new code concepts. I wasn't up for doing anything super challenging today, so I made this to illustrate my week. It's CSS Grid, and it has a simple solution with an animated opacity property of the layer with the drawings. I didn't make the drawings, I just added colours to some Creative Commons-licensed icons I found on [The Noun Project](https://thenounproject.com). Here are the credits:<br/><br/>
+[Computer girl](https://thenounproject.com/nookfulloption/uploads/?i=1493332)<br/>
+[Plane](https://thenounproject.com/monstercritic/uploads/?i=972456)<br/>
+[Dancing](https://thenounproject.com/leremy/uploads/?i=1258245)<br/>
+
+💃🏻 Tomorrow, I'm leaving for an Argentine tango marathon in Riga, Latvia. I don't feel bad about breaking my streak, though: I've been coding many hours every day in January, not just one hour like the challenge asks us to. Starting again after the weekend! 
+<br/><br/>
+
 ### Day 31 - Wednesday 31.01.2018 - Log layout: complete layout with CSS Grid
 <img src="./images/log-day-31-log-header.jpg"/>
 <br/><br/>
