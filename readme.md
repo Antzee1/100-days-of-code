@@ -16,7 +16,14 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 
-
+<br/>
+### Day 33 - Tuesday 06.02.2018 - Tango website project with CSS Grid
+<br/>
+<img src="./images/log-day-33-di-sarli.jpg"/>
+<br/><br/>
+Back from a lovely Argentine Social Tango weekend abroad and started a new project for my future tango website: a coded version of the chart in the picture. I made the chart a few years ago - back then, I used Photoshop Elements, and now I’m excited to do it in code. So happy that CSS Grid exists, it’s perfect for this project! 😍 <br/><br/>
+🎵 Carlos Di Sarli was one of the most famous tango orchestra leaders in Buenos Aires. He was active recording from late 1920s to late 1950s, and we still dance to all of his music. The chart shows his recording history: which years his orchestra was active recording, and which years the different singers recorded with him. The idea of making this in code is to make the years clickable, with links to listening examples. Credit for the idea to make a code version goes to my house teacher (the bf), who also dances Argentine Social Tango.
+<br/>
 ### Day 32 - Thursday 01.02.2018 - Just for fun: weekday calendar animation with CSS Grid
 <img src="./images/log-day-32-calendar.gif"/>
 <br/><br/>
@@ -25,25 +32,25 @@ Today, I noticed how intense this month has been. I started 100 Days Of Code on 
 [Plane](https://thenounproject.com/monstercritic/uploads/?i=972456)<br/>
 [Dancing](https://thenounproject.com/leremy/uploads/?i=1258245)<br/>
 
-💃🏻 Tomorrow, I'm leaving for an Argentine tango marathon in Riga, Latvia. I don't feel bad about breaking my streak, though: I've been coding many hours every day in January, not just one hour like the challenge asks us to. Starting again after the weekend! 
-<br/><br/>
-
+💃🏻 Tomorrow, I'm leaving for an Argentine tango marathon in Riga, Latvia. I don't feel bad about breaking my streak, though: I've been coding many hours every day in January, not just one hour like the challenge asks us to. Starting again after the weekend!
+<br/>
 ### Day 31 - Wednesday 31.01.2018 - Log layout: complete layout with CSS Grid
 <img src="./images/log-day-31-log-header.jpg"/>
 <br/><br/>
 Coded my own responsive layout for my [100 Days Of Code log on GitHub Pages](https://antzee1.github.io/100-days-of-code/). My house teacher (the bf) had already set up the file structure for me on GitHub last weekend, but all the code is now me-made: a complete structure with CSS Grid. This log is only for 100 days, but it’s a good practice opportunity!
 
 The log looks okay on my phone as well, although everything is naturally a bit on the smallish side even though I used calc() to make the text resize nicely. I guess it would be good to practice by making media queries with a different layout for small screens. I’m still super happy about today, just because of the fact that everything behaves as intended.
-<br/><br/>
+<br/>
 ### Day 30 - Tuesday 30.01.2018 - Website layout: movable divs
+<br/>
 <img src="./images/log-day-30-cloud.png"/>
 <br/><br/>
 Woke up with a new idea this morning: to try implementing movable divs in my website. If I don't want to use it after all, I'll know how to code it for another project. I already did it on the volume slider project, but there were a couple things that didn't work now so I tried a couple other methods found online. One of them was new to me: to build and style the div in JavaScript, which was pretty cool. So I did learn something after all + got help from my house teacher (the bf) on the other code so I can continue working tomorrow. But most of the day, I felt like in the picture, which I coded tonight just to illustrate my day. ☁️
-<br/><br/>
+<br/>
 
 ### Day 29 - Monday 29.01.2018 - Website layout: making a pop-up box
 Continued working on my website. It's starting to take shape! I needed a pop-up window, so I found a tutorial online, dismantled the code to understand how it worked, and took away what I didn't need.
-<br/><br/>
+<br/>
 
 ### Day 28 - Sunday 28.01.2018 - Website layout and revamping the log
 Today, I worked on a website layout detail. Partly because I had watched yesterday's talk by Mandy Michael, I understood how to make a 3D-effect with box-shadow, like so:
@@ -55,7 +62,7 @@ I also got a serious amount of help from my house teacher (the bf) to get rid of
 <br/><br/>
 
 It needs a bit more tweaking, plus there should be a media query for small screens. Am super happy because I learnt a bit more about how GitHub works, which is useful since I'll be using GitHub for my website as well.
-<br/><br/>
+<br/>
 
 ### Day 27 - Saturday 27.01.2018 - Website drafting
 💃🏻 IT WORKS! IT WORKS!!! 💃🏻 No, I’m not talking about my code. I’m talking about my brain... (rolls eyes 🙄) I continued to work on my website project today, and was puzzled by a CSS Grid problem where the ratios kept turning out all wrong. Then I suddenly got the logic... I'm really happy I did the Grid exercises this week. I haven't got a clear understanding of how different types of items behave and influence each other in CSS Grid, but even if I haven't assimilated everything yet, I could use what I learnt this week to troubleshoot. Maybe I should make some kind of summary later.
