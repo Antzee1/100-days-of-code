@@ -17,6 +17,12 @@ My main goals for 100 Days Of Code:<br/>
 ⬆️ Order of entries: newest to oldest ⬆️
 
 <br/>
+### Day 34 - Wednesday 07.02.2018 - Tango website project with CSS Grid: first part done!
+<br/>
+<img src="./images/log-day-34-timeline.JPG"/>
+<br/><br/>
+Finished the first part of the Di Sarli timeline chart. So far, I'm basically just translating my old work into code - next steps will be more time-consuming. But it's great practice, and it's very exciting to do something for tango! ❤️
+<br/>
 ### Day 33 - Tuesday 06.02.2018 - Tango website project with CSS Grid
 <br/>
 <img src="./images/log-day-33-di-sarli.jpg"/>
