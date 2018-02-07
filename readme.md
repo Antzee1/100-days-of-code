@@ -18,14 +18,12 @@ My main goals for 100 Days Of Code:<br/>
 
 <br/>
 ### Day 34 - Wednesday 07.02.2018 - Tango website project with CSS Grid: first part done!
-<br/>
-<img src="./images/log-day-34-timeline.JPG"/>
+<br/><img src="./images/log-day-34-timeline.JPG"/>
 <br/><br/>
 Finished the first part of the Di Sarli timeline chart. So far, I'm basically just translating my old work into code - next steps will be more time-consuming. But it's great practice, and it's very exciting to do something for tango! ❤️
 <br/>
 ### Day 33 - Tuesday 06.02.2018 - Tango website project with CSS Grid
-<br/>
-<img src="./images/log-day-33-di-sarli.jpg"/>
+<br/><img src="./images/log-day-33-di-sarli.jpg"/>
 <br/><br/>
 Back from a lovely Argentine Social Tango weekend abroad and started a new project for my future tango website: a coded version of the chart in the picture. I made the chart a few years ago - back then, I used Photoshop Elements, and now I’m excited to do it in code. So happy that CSS Grid exists, it’s perfect for this project! 😍 <br/><br/>
 🎵 Carlos Di Sarli was one of the most famous tango orchestra leaders in Buenos Aires. He was active recording from late 1920s to late 1950s, and we still dance to all of his music. The chart shows his recording history: which years his orchestra was active recording, and which years the different singers recorded with him. The idea of making this in code is to make the years clickable, with links to listening examples. Credit for the idea to make a code version goes to my house teacher (the bf), who also dances Argentine Social Tango.
