@@ -12,28 +12,35 @@ My main goals for 100 Days Of Code:<br/>
 ⭐️ improve my HTML/CSS skills<br/>
 ⭐️ learn more about JavaScript.<br/>
 
-# LOG 🗓🗓🗓
+# LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
-### Day 35 - Thursday 08.02.2018 - Tango website project: next orchestra in progress
+<br/>
+### Day 35 - Friday 09.02.2018<br>Tango website project: second orchestra almost done
+<img src="./images/log-day-36-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+Finished the layout of the D'Arienzo timeline. Happy that I could fit in all the singers and years in a logical visual system. Also decided against the horizontal scrolling, so I changed all the years from four digits to two digits so each square would take up less space without using too small fonts.<br/><br/>
+Am still having a bit of trouble with getting a horizontal scrollbar when I resize my browser. I don't know why, but it could be because the amount of divs with text inside - the scrollbar appears at a smaller browser size if I use a smaller font size. Also cannot control margins on this project. Minor problems that I guess I'll understand later on! 🤓 Next: tweaking the colours a bit more.
+<br/>
+### Day 35 - Thursday 08.02.2018<br>Tango website project: next orchestra in progress
 <img src="./images/log-day-35-d'arienzo.jpg"/>
 <br/><br/>
 I decided yesterday that in addition to Di Sarli, I’m going to do three more orchestra timelines so I have The Big Four of tango music. First step will be the actual timelines (later I’ll add more details and clickable content). So today I started the timeline of D’Arienzo’s orchestra. It was a bit of a puzzle to figure out the layout because this orchestra recorded for 40 consecutive years so it doesn’t fit on one page like Di Sarli’s does, so we need horizontal scrolling to make space for a big enough font size. This timeline format only works on a computer or a big tablet; a version for smaller screens will have to look very different.
 
 These aren't the colours I'll be using. I’m thinking of doing monochromatic colours since I’m doing more than one orchestra - and monochromatic is also better for people who have different types of colour blindness.
 <br/><br/>
-### Day 34 - Wednesday 07.02.2018 - Tango website project with CSS Grid: first part done!
+### Day 34 - Wednesday 07.02.2018<br>Tango website project with CSS Grid: first part done!
 <img src="./images/log-day-34-timeline.JPG"/>
 <br/><br/>
 Finished the first part of the Di Sarli timeline chart. So far, I'm basically just translating my old work into code - next steps will be more time-consuming. But it's great practice, and it's very exciting to do something for tango! ❤️
-<br/>
-### Day 33 - Tuesday 06.02.2018 - Tango website project with CSS Grid
+<br/><br/>
+### Day 33 - Tuesday 06.02.2018<br>Tango website project with CSS Grid
 <img src="./images/log-day-33-di-sarli.jpg"/>
 <br/><br/>
 Back from a lovely Argentine Social Tango weekend abroad and started a new project for my future tango website: a coded version of the chart in the picture. I made the chart a few years ago - back then, I used Photoshop Elements, and now I’m excited to do it in code. So happy that CSS Grid exists, it’s perfect for this project! 😍 <br/><br/>
 🎵 Carlos Di Sarli was one of the most famous tango orchestra leaders in Buenos Aires. He was active recording from late 1920s to late 1950s, and we still dance to all of his music. The chart shows his recording history: which years his orchestra was active recording, and which years the different singers recorded with him. The idea of making this in code is to make the years clickable, with links to listening examples. Credit for the idea to make a code version goes to my house teacher (the bf), who also dances Argentine Social Tango.
 <br/><br/>
-### Day 32 - Thursday 01.02.2018 - Just for fun: weekday calendar animation with CSS Grid
+### Day 32 - Thursday 01.02.2018<br>Just for fun: weekday calendar animation with CSS Grid
 <img src="./images/log-day-32-calendar.gif"/>
 <br/><br/>
 Today, I noticed how intense this month has been. I started 100 Days Of Code on January 1st, with a cold, and have been working full time the whole month on learning new code concepts. I wasn't up for doing anything super challenging today, so I made this to illustrate my week. It's CSS Grid, and it has a simple solution with an animated opacity property of the layer with the drawings. I didn't make the drawings, I just added colours to some Creative Commons-licensed icons I found on [The Noun Project](https://thenounproject.com). Here are the credits:<br/><br/>
@@ -43,14 +50,14 @@ Today, I noticed how intense this month has been. I started 100 Days Of Code on 
 
 💃🏻 Tomorrow, I'm leaving for an Argentine tango marathon in Riga, Latvia. I don't feel bad about breaking my streak, though: I've been coding many hours every day in January, not just one hour like the challenge asks us to. Starting again after the weekend!
 <br/><br/>
-### Day 31 - Wednesday 31.01.2018 - Log layout: complete layout with CSS Grid
+### Day 31 - Wednesday 31.01.2018<br>Log layout: complete layout with CSS Grid
 <img src="./images/log-day-31-log-header.jpg"/>
 <br/><br/>
 Coded my own responsive layout for my [100 Days Of Code log on GitHub Pages](https://antzee1.github.io/100-days-of-code/). My house teacher (the bf) had already set up the file structure for me on GitHub last weekend, but all the code is now me-made: a complete structure with CSS Grid. This log is only for 100 days, but it’s a good practice opportunity!
 
 The log looks okay on my phone as well, although everything is naturally a bit on the smallish side even though I used calc() to make the text resize nicely. I guess it would be good to practice by making media queries with a different layout for small screens. I’m still super happy about today, just because of the fact that everything behaves as intended.
 <br/><br/>
-### Day 30 - Tuesday 30.01.2018 - Website layout: movable divs
+### Day 30 - Tuesday 30.01.2018<br>Website layout: movable divs
 <br/>
 <img src="./images/log-day-30-cloud.png"/>
 <br/><br/>
