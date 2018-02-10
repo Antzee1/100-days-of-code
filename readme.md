@@ -16,11 +16,17 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/>
-### Day 35 - Friday 09.02.2018<br>Tango website project: second orchestra almost done
+### Day 37 - Saturday 10.02.2018<br>Tango website project: part 1 second orchestra finished
+<img src="./images/log-day-37-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+First part of the D'Arienzo timeline is done! Today, I added a div for every year of instrumental recordings (41 divs; almost all recording years). So now everything is ready for next step. The idea is to make every year clickable, with a pop-up window with information of all the songs that were recorded that year + listening examples. Also tweaked the colours a bit, and cleaned up my CSS file by giving most Ids a class for the properties that are the same for all Ids (like fonts). Spending a bit of time on this so I have better habits for next orchestra timeline.<br/>
+
+Now: off to DJ at an Argentine Social event. 🎧🎵<br/>
+### Day 36 - Friday 09.02.2018<br>Tango website project: second orchestra almost done
 <img src="./images/log-day-36-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
 <br/><br/>
-Finished the layout of the D'Arienzo timeline. Happy that I could fit in all the singers and years in a logical visual system. Also decided against the horizontal scrolling, so I changed all the years from four digits to two digits so each square would take up less space without using too small fonts.<br/><br/>
-Am still having a bit of trouble with getting a horizontal scrollbar when I resize my browser. I don't know why, but it could be because the amount of divs with text inside - the scrollbar appears at a smaller browser size if I use a smaller font size. Also cannot control margins on this project. Minor problems that I guess I'll understand later on! 🤓 Next: tweaking the colours a bit more.
+Finished the main layout of the D'Arienzo timeline. Happy that I could fit in all the singers and years in a logical visual system. Also decided against the horizontal scrolling, so I changed all the years from four digits to two digits so each square would take up less space without using too small fonts. Now the page fits nicely on my 13" Macbook Pro screen.<br/><br/>
+Am still having a bit of trouble with getting a horizontal scrollbar when I resize my browser. I don't know why, but it could be because the amount of divs with text inside - the scrollbar appears at a smaller browser size if I use a smaller font size. Also cannot control margins on this project. Minor problems that I guess I'll understand later on! 🤓
 <br/>
 ### Day 35 - Thursday 08.02.2018<br>Tango website project: next orchestra in progress
 <img src="./images/log-day-35-d'arienzo.jpg"/>
