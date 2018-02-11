@@ -15,6 +15,10 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 38 - Sunday 11.02.2018<br>Tango website project: tweaking.
+<img src="./images/log-day-38-di-sarli-d'arienzo.gif" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+Changed the colour scheme on the Di Sarli timeline + tweaked some more on the layout so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳 <br/>
 <br/>
 ### Day 37 - Saturday 10.02.2018<br>Tango website project: part 1 second orchestra finished
 <img src="./images/log-day-37-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
