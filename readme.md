@@ -15,10 +15,21 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 39 - Monday 12.02.2018<br>Tango website project: modal boxes!
+<img src="./images/log-day-39-di-sarli-popup.gif" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+Started looking at how to make modal boxes to display song information for each year on the tango orchestra timelines. I found two options that involved JavaScript and one that is pure CSS. I dissected both JavaScript options and almost made it work, but had some problems with since I don't know how to apply the code to more than one div.
+
+So I'm using the CSS option for now, and later I'll figure out if there's a way of doing it with JavaScript (and also without repeating lots of code) (I'm sure there is). Also need to find out what's best for fast page load; CSS or JavaScript. Am super excited about the CSS version, though. Learnt a bit about modal boxes, though, and some small CSS things as well, like putting overflow: scroll on the modal window.  ✅<br/>
+
+➡️ Modal box resources:
+- JavaScript options: [this](https://www.w3schools.com/howto/howto_css_modals.asp) and [this](https://www.w3schools.com/howto/howto_js_popup.asp) from W3schools
+- Pure CSS option [from webdesignerdepot.com](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
+<br/><br/>
 ### Day 38 - Sunday 11.02.2018<br>Tango website project: tweaking.
 <img src="./images/log-day-38-di-sarli-d'arienzo.gif" alt="Screen shot of the D'Arienzo timeline"/>
 <br/><br/>
-Changed the colour scheme on the Di Sarli timeline + tweaked some more on the layout so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳 <br/>
+Changed the colour scheme on the Di Sarli timeline + tweaked the layout some more so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳 <br/>
 <br/>
 ### Day 37 - Saturday 10.02.2018<br>Tango website project: part 1 second orchestra finished
 <img src="./images/log-day-37-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
