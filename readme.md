@@ -15,23 +15,40 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+
+
+### Day 40 - Tuesday 13.02.2018<br>CSS Variables FTW!
+<br/>
+<img src="./images/log-day-40-CSS-variables.gif" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+OMG I LOVE CSS. I’ve changed the colours on my orchestra timelines several times because I need to try out different colour combinations - I want the colours to be functional and also pretty. But I’ve spent a lot of time changing the colours on each individual div since I haven’t started learning SASS or similar. But today I saw a tweet mentioning CSS Variables, and I did a Google search and found an article by Violet Peña and almost fainted with happiness: once I decide which divs are having the same colour, I can make a variable and afterwards I only have to change the colours one place - the :root section of my CSS - instead of looking through the whole CSS file and replacing colours everywhere.
+
+Of course, I had to make a playground to try it out! It also inspired a side project which I worked on today. More on that later - it needs to be finished by the end of February so I’m keeping it for a while to see if I want to change something.
+
+CSS Variables need fallback for older versions of browsers (and of course the pesky IE). But it’s time to learn that as well, and it’s much less time-consuming to add the fallback colours after one has made a final desicion about the colours.
+
+📕 Today's resources:📕<br/><br/>
+➡️ [The article on CSS Variables by Violet Peña](https://vgpena.github.io/winning-with-css-variables/) <br/>
+➡️ Basic CSS Variables syntax with Try It Yourself-examples [here on W3schools](https://www.w3schools.com/css/css3_variables.asp)
+<br/>
 ### Day 39 - Monday 12.02.2018<br>Tango website project: modal boxes!
-<img src="./images/log-day-39-di-sarli-popup.gif" alt="Screen shot of the D'Arienzo timeline"/>
+<img src="./images/log-day-39-di-sarli-popup.gif" alt="GIF showing the Di Sarli timeline with the new modal boxes"/>
 <br/><br/>
 Started looking at how to make modal boxes to display song information for each year on the tango orchestra timelines. I found two options that involved JavaScript and one that is pure CSS. I dissected both JavaScript options and almost made it work, but had some problems with since I don't know how to apply the code to more than one div.
 
-So I'm using the CSS option for now, and later I'll figure out if there's a way of doing it with JavaScript (and also without repeating lots of code) (I'm sure there is). Also need to find out what's best for fast page load; CSS or JavaScript. Am super excited about the CSS version, though. Learnt a bit about modal boxes, though, and some small CSS things as well, like putting overflow: scroll on the modal window.  ✅<br/>
+So I'm using the CSS option for now, and later I'll figure out if there's a way of doing it with JavaScript (and also without repeating lots of code) (I'm sure there is). Also need to find out what's best for fast page load; CSS or JavaScript. Am super excited about the CSS version, though. Learnt a bit about modal boxes today, and some small CSS things as well, like putting overflow: scroll on the modal window.  ✅<br/>
 
-➡️ Modal box resources:
-- JavaScript options: [this](https://www.w3schools.com/howto/howto_css_modals.asp) and [this](https://www.w3schools.com/howto/howto_js_popup.asp) from W3schools
-- Pure CSS option [from webdesignerdepot.com](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
-<br/><br/>
+➡️ Modal box resources:<br/>
+-JavaScript options: [this](https://www.w3schools.com/howto/howto_css_modals.asp) and [this](https://www.w3schools.com/howto/howto_js_popup.asp) from W3schools<br/>
+-Pure CSS option [from webdesignerdepot.com](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
+<br/>
 ### Day 38 - Sunday 11.02.2018<br>Tango website project: tweaking.
-<img src="./images/log-day-38-di-sarli-d'arienzo.gif" alt="Screen shot of the D'Arienzo timeline"/>
+<br/>
+<img src="./images/log-day-38-di-sarli-d'arienzo.gif" alt="GIF alternating between the Di Sarli and D'Arienzo timelines"/>
 <br/><br/>
 Changed the colour scheme on the Di Sarli timeline + tweaked the layout some more so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳 <br/>
-<br/>
 ### Day 37 - Saturday 10.02.2018<br>Tango website project: part 1 second orchestra finished
+<br/>
 <img src="./images/log-day-37-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
 <br/><br/>
 First part of the D'Arienzo timeline is done! Today, I added a div for every year of instrumental recordings (41 divs; almost all recording years). So now everything is ready for next step. The idea is to make every year clickable, with a pop-up window with information of all the songs that were recorded that year + listening examples. Also tweaked the colours a bit, and cleaned up my CSS file by giving most Ids a class for the properties that are the same for all Ids (like fonts). Spending a bit of time on this so I have better habits for next orchestra timeline.<br/>
