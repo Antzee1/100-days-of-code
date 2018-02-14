@@ -16,15 +16,21 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 
+### Day 41 - Wednesday 14.02.2018<br>Making tables in HTML
+<br/>
+<img src="./images/log-day-41-tables-html.jpg" alt="Screen shot of the D'Arienzo timeline"/>
+<br/><br/>
+Today, I added the modal window code to the second timeline (D’Arienzo) and started adding song info for the song lists in the modal windows. It wasn’t super easy to get a quick overview on a list with lots of information, though, so I learnt how to make tables in HTML and decided to use that. Next challenge: make the tables sortable with JavaScript.
 
+📕Today’s resource:<br/>
+➡️ How to make tables in HTML [here on W3schools](https://www.w3schools.com/html/html_tables.asp)
+<br/>
 ### Day 40 - Tuesday 13.02.2018<br>CSS Variables FTW!
 <br/>
 <img src="./images/log-day-40-CSS-variables.gif" alt="Screen shot of the D'Arienzo timeline"/>
 <br/><br/>
-OMG I LOVE CSS. I’ve changed the colours on my orchestra timelines several times because I need to try out different colour combinations - I want the colours to be functional and also pretty. But I’ve spent a lot of time changing the colours on each individual div since I haven’t started learning SASS or similar. But today I saw a tweet mentioning CSS Variables, and I did a Google search and found an article by Violet Peña and almost fainted with happiness: once I decide which divs are having the same colour, I can make a variable and afterwards I only have to change the colours one place - the :root section of my CSS - instead of looking through the whole CSS file and replacing colours everywhere.
-
-Of course, I had to make a playground to try it out! It also inspired a side project which I worked on today. More on that later - it needs to be finished by the end of February so I’m keeping it for a while to see if I want to change something.
-
+OMG I LOVE CSS. I’ve changed the colours on my orchestra timelines several times because I need to try out different colour combinations - I want the colours to be functional and also pretty. But I’ve spent a lot of time changing the colours on each individual div since I haven’t started learning SASS or similar. But today I saw a tweet mentioning CSS Variables, and I did a Google search and found an article by Violet Peña and almost fainted with happiness: once I decide which divs are having the same colour, I can make a variable and afterwards I only have to change the colours one place - the :root section of my CSS - instead of looking through the whole CSS file and replacing colours everywhere.<br/><br/>
+Of course, I had to make a playground to try it out! It also inspired a side project which I worked on today. More on that later - it needs to be finished by the end of February so I’m keeping it for a while to see if I want to change something.<br/><br/>
 CSS Variables need fallback for older versions of browsers (and of course the pesky IE). But it’s time to learn that as well, and it’s much less time-consuming to add the fallback colours after one has made a final desicion about the colours.
 
 📕 Today's resources:📕<br/><br/>
@@ -34,8 +40,7 @@ CSS Variables need fallback for older versions of browsers (and of course the pe
 ### Day 39 - Monday 12.02.2018<br>Tango website project: modal boxes!
 <img src="./images/log-day-39-di-sarli-popup.gif" alt="GIF showing the Di Sarli timeline with the new modal boxes"/>
 <br/><br/>
-Started looking at how to make modal boxes to display song information for each year on the tango orchestra timelines. I found two options that involved JavaScript and one that is pure CSS. I dissected both JavaScript options and almost made it work, but had some problems with since I don't know how to apply the code to more than one div.
-
+Started looking at how to make modal boxes to display song information for each year on the tango orchestra timelines. I found two options that involved JavaScript and one that is pure CSS. I dissected both JavaScript options and almost made it work, but had some problems with since I don't know how to apply the code to more than one div.<br/><br/>
 So I'm using the CSS option for now, and later I'll figure out if there's a way of doing it with JavaScript (and also without repeating lots of code) (I'm sure there is). Also need to find out what's best for fast page load; CSS or JavaScript. Am super excited about the CSS version, though. Learnt a bit about modal boxes today, and some small CSS things as well, like putting overflow: scroll on the modal window.  ✅<br/>
 
 ➡️ Modal box resources:<br/>
