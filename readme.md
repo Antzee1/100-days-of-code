@@ -15,7 +15,12 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+<br/>
+### Day 43 - Friday 16.02.2018<br>Personal website progress
+Started the day with changing some values in the code of my profile picture to see if it was possible to make my old code images responsive. It worked! So happy that I used % for almost the entire drawing when I initially made it, and not px. I considered using the code vesion on my website instead of PNGs: it would be kind of nerdy fun to use only code, and maybe it also would reduce loading time. But I decided to use the PNG versions after all because then I don’t have to worry about pictures looking weird on other devices. I can check browser compatibility on the properties I use, and I can prefix where necessary, but I still don’t know enough about how other computers’ different display settings might display the images. And already there are some tiny differences between the browsers (like Chrome makes it look like the avatar-me rolls her eyes. Which admittedly happens from time to time 🙄)
 
+Rest of the day: coded the rest of my website, actually. The decision I had to make was whether I should to put everything on the front page, like a scrollable thing, or a more classic solution, which is to have separate information on separate pages. I decided on separate pages, at least for now. If I change my mind, I’ve still done most of the work.
+<br/>
 ### Day 42 - Thursday 15.02.2018<br>Personal website detour
 <br/>
 <img src="./images/log-day-42-website-computer.png" alt="Screen shot of the D'Arienzo timeline"/><br/><br/>
