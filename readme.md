@@ -16,6 +16,13 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/>
+### Day 44 - Saturday 17.02.2018: Starting the tango website.
+<br/>
+<img src="./images/log-day-44-tango-website-testing.png" alt="Screen shot of the D'Arienzo timeline"/><br/><br/>
+Today, I started coding the tango website landing page. I’m using CSS Grid and Flexbox and am happy to see that I’m feeling far more confident with Flexbox than before. Here’s the page in three/four browsers (depending on whether you count Firefox and Firefox Developer Edition as one or two browsers). After a bit of agonising over the image size, everything now displays correctly and resizes nicely. Fonts are not done yet.
+
+Of course, it looks super ugly right now because I only worked with the layout. The contrasting background colours are kind of “support wheels” for me to see where the different sections begin and end. I’m looking forward to styling it later. Now I’m off to DJ tango!
+<br/>
 ### Day 43 - Friday 16.02.2018<br>Personal website progress
 Started the day with changing some values in the code of my profile picture to see if it was possible to make my old code images responsive. It worked! So happy that I used % for almost the entire drawing when I initially made it, and not px. I considered using the code vesion on my website instead of PNGs: it would be kind of nerdy fun to use only code, and maybe it also would reduce loading time. But I decided to use the PNG versions after all because then I don’t have to worry about pictures looking weird on other devices. I can check browser compatibility on the properties I use, and I can prefix where necessary, but I still don’t know enough about how other computers’ different display settings might display the images. And already there are some tiny differences between the browsers (like Chrome makes it look like the avatar-me rolls her eyes. Which admittedly happens from time to time 🙄)
 
