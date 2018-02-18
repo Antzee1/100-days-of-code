@@ -1,7 +1,7 @@
 <br/>
 ### Introduction
 
-I started to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like my profile image ➡️
+Started to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like my profile image ➡️
 <br/><br/>
 Here are some of the things I've coded:
 <br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
@@ -15,19 +15,24 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+<br/><br/>
+### Day 45 - Sunday 18.02.2018: Slow Sunday with tables.
 <br/>
+<img src="./images/log-day-45-todometer.png" alt="Screen shot of the Todometer with entries for today"/><br/><br/>
+Today, my house teacher (the bf) helped me get the table-sorting JavaScript to work on multiple tables on my tango orchestra timelines. We also discussed ways of adding the discographies to the html files, and he suggested a method that saves loads of work by converting a spreadsheet to CSV and then the CSV to HTML code. Didn't write many lines of code but I did learn to use a CSV.
+<br/><br/>
+➡️ Today’s resource:<br/>
+♦️ [CSV to HTML online converter](https://codebeautify.org/csv-to-html-converter)<br/>
+♦️ Also: this [Todometer by Cassidy Williams](https://cassidoo.github.io/todometer/)
 ### Day 44 - Saturday 17.02.2018: Starting the tango website.
-<br/>
-<img src="./images/log-day-44-tango-website-testing.png" alt="Screen shot of the D'Arienzo timeline"/><br/><br/>
+<img src="./images/log-day-44-tango-website-testing.png" alt="Screen shot of the tango website draft in four browsers"/><br/><br/>
 Today, I started coding the tango website landing page. I’m using CSS Grid and Flexbox and am happy to see that I’m feeling far more confident with Flexbox than before. Here’s the page in three/four browsers (depending on whether you count Firefox and Firefox Developer Edition as one or two browsers). After a bit of agonising over the image size, everything now displays correctly and resizes nicely. Fonts are not done yet.
 
 Of course, it looks super ugly right now because I only worked with the layout. The contrasting background colours are kind of “support wheels” for me to see where the different sections begin and end. I’m looking forward to styling it later. Now I’m off to DJ tango!
-<br/>
 ### Day 43 - Friday 16.02.2018<br>Personal website progress
 Started the day with changing some values in the code of my profile picture to see if it was possible to make my old code images responsive. It worked! So happy that I used % for almost the entire drawing when I initially made it, and not px. I considered using the code vesion on my website instead of PNGs: it would be kind of nerdy fun to use only code, and maybe it also would reduce loading time. But I decided to use the PNG versions after all because then I don’t have to worry about pictures looking weird on other devices. I can check browser compatibility on the properties I use, and I can prefix where necessary, but I still don’t know enough about how other computers’ different display settings might display the images. And already there are some tiny differences between the browsers (like Chrome makes it look like the avatar-me rolls her eyes. Which admittedly happens from time to time 🙄)
 
 Rest of the day: coded the rest of my website, actually. The decision I had to make was whether I should to put everything on the front page, like a scrollable thing, or a more classic solution, which is to have separate information on separate pages. I decided on separate pages, at least for now. If I change my mind, I’ve still done most of the work.
-<br/>
 ### Day 42 - Thursday 15.02.2018<br>Personal website detour
 <br/>
 <img src="./images/log-day-42-website-computer.png" alt="Screen shot of the D'Arienzo timeline"/><br/><br/>
@@ -37,10 +42,9 @@ I've gotten stuck on my personal website - not the technical parts but the desig
 <img src="./images/log-day-41-tables-html.jpg" alt="Screen shot of the D'Arienzo timeline"/>
 <br/><br/>
 Today, I added the modal window code to the second timeline (D’Arienzo) and started adding song info for the song lists in the modal windows. It wasn’t super easy to get a quick overview on a list with lots of information, though, so I learnt how to make tables in HTML and decided to use that. Next challenge: make the tables sortable with JavaScript.
-
+<br/><br/>
 📕Today’s resource:<br/>
 ➡️ How to make tables in HTML [here on W3schools](https://www.w3schools.com/html/html_tables.asp)
-<br/>
 ### Day 40 - Tuesday 13.02.2018<br>CSS Variables FTW!
 <br/>
 <img src="./images/log-day-40-CSS-variables.gif" alt="Screen shot of the D'Arienzo timeline"/>
@@ -52,7 +56,6 @@ CSS Variables need fallback for older versions of browsers (and of course the pe
 📕 Today's resources:📕<br/><br/>
 ➡️ [The article on CSS Variables by Violet Peña](https://vgpena.github.io/winning-with-css-variables/) <br/>
 ➡️ Basic CSS Variables syntax with Try It Yourself-examples [here on W3schools](https://www.w3schools.com/css/css3_variables.asp)
-<br/>
 ### Day 39 - Monday 12.02.2018<br>Tango website project: modal boxes!
 <img src="./images/log-day-39-di-sarli-popup.gif" alt="GIF showing the Di Sarli timeline with the new modal boxes"/>
 <br/><br/>
@@ -62,12 +65,11 @@ So I'm using the CSS option for now, and later I'll figure out if there's a way 
 ➡️ Modal box resources:<br/>
 -JavaScript options: [this](https://www.w3schools.com/howto/howto_css_modals.asp) and [this](https://www.w3schools.com/howto/howto_js_popup.asp) from W3schools<br/>
 -Pure CSS option [from webdesignerdepot.com](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
-<br/>
 ### Day 38 - Sunday 11.02.2018<br>Tango website project: tweaking.
 <br/>
 <img src="./images/log-day-38-di-sarli-d'arienzo.gif" alt="GIF alternating between the Di Sarli and D'Arienzo timelines"/>
 <br/><br/>
-Changed the colour scheme on the Di Sarli timeline + tweaked the layout some more so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳 <br/>
+Changed the colour scheme on the Di Sarli timeline + tweaked the layout some more so it corresponds better with the D'Arienzo one. Also checked details in all browsers and noticed that Safari zooms the page with cmd+/- (Firefox and Chrome doesn't). So put a couple browser & viewing suggestions on the page. Rest of the day: cleaning up code. 😳
 ### Day 37 - Saturday 10.02.2018<br>Tango website project: part 1 second orchestra finished
 <br/>
 <img src="./images/log-day-37-d'arienzo.jpg" alt="Screen shot of the D'Arienzo timeline"/>
