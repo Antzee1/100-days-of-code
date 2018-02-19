@@ -16,9 +16,12 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+
+###Day 46 - Monday 19.02.2018 - Discography for Di Sarli
+<img src="./images/log-day-46-di-sarli-timeline.gif" alt="Screen shot of the Todometer with entries for today"/><br/><br/>
+Today, I applied everything I learnt yesterday - I added Di Sarli’s whole discography to his timeline; 30 years worth of recordings, divided into years, in sortable tables. Geek is happy! 🤓😍🤗
 ### Day 45 - Sunday 18.02.2018: Slow Sunday with tables.
-<br/>
-<img src="./images/log-day-45-todometer.png" alt="Screen shot of the Todometer with entries for today"/><br/><br/>
+<img src="./images/log-day-45-todometer.png" alt="Screen shot of the Todometer with entries for today"/>
 Today, my house teacher (the bf) helped me get the table-sorting JavaScript to work on multiple tables on my tango orchestra timelines. We also discussed ways of adding the discographies to the html files, and he suggested a method that saves loads of work by converting a spreadsheet to CSV and then the CSV to HTML code. Didn't write many lines of code but I did learn to use a CSV.
 <br/><br/>
 ➡️ Today’s resource:<br/>
@@ -34,7 +37,6 @@ Started the day with changing some values in the code of my profile picture to s
 
 Rest of the day: coded the rest of my website, actually. The decision I had to make was whether I should to put everything on the front page, like a scrollable thing, or a more classic solution, which is to have separate information on separate pages. I decided on separate pages, at least for now. If I change my mind, I’ve still done most of the work.
 ### Day 42 - Thursday 15.02.2018<br>Personal website detour
-<br/>
 <img src="./images/log-day-42-website-computer.png" alt="Screen shot of the D'Arienzo timeline"/><br/><br/>
 I've gotten stuck on my personal website - not the technical parts but the design, which I didn’t really feel was going anywhere. But then I got a new idea for the design. I started thinking about it after I went to bed last night, slept badly because was trying to figure out how to make it, got up, tried to make it, and realised I didn’t like the layout at all. So much for the brilliant ideas one gets when one ought to sleep. But then I got another idea, super simple and no fuss. I’ve almost finished the front page, and I really like it and am going with that instead. It does involve PNGs with transparent backgrounds so it’s still a little bit fancy, and I get to use some of the images I’ve coded that I’m quite proud of.
 ### Day 41 - Wednesday 14.02.2018<br>Making tables in HTML
