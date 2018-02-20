@@ -17,7 +17,7 @@ My main goals for 100 Days Of Code:<br/>
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
 
-###Day 46 - Monday 19.02.2018 - Discography for Di Sarli
+### Day 46 - Monday 19.02.2018 - Discography for Di Sarli
 <img src="./images/log-day-46-di-sarli-timeline.gif" alt="Screen shot of the Todometer with entries for today"/><br/><br/>
 Today, I applied everything I learnt yesterday - I added Di Sarli’s whole discography to his timeline; 30 years worth of recordings, divided into years, in sortable tables. Geek is happy! 🤓😍🤗
 ### Day 45 - Sunday 18.02.2018: Slow Sunday with tables.
