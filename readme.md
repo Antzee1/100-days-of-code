@@ -16,7 +16,17 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 47 - Tuesday 20.02.2017 - Small stuff
+<img src="./images/log-day-47-candy-hearts.png" alt="Screen shot of nine hearts in different colours"/><br/><br/>
+Today: made my first submission to Creative Coding Club. ✅ This month’s theme was Candy Hearts. I had already made it earlier this month (I wrote about it on 13. February), but I kept it because I wanted to do some fancy stuff with it. Today I decided that I’ll just keep it simple and put the focus on the CSS variable fonts, which was what initially inspired the design, so I just tweaked the colours a bit more.
 
+➡️ You can see it [here on CodePen](http://bit.ly/2ocFy1L) - and you can play with the colours in my code. And yay, it made it to the front page of CodePen today!
+
+➡️ Today’s resource: I’m a bit smitten with colour keywords. Some of them are really poetic, like “ghostwhite” and “lavenderblush” and “oldlace” (the last one is my personal favourite).  Article + full keywords list on [Mozilla’s MDN Webdocs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value).
+
+I also tried to fix a post heading margin annoyance I’ve been having in the 100 Days Of Code log layout - too much space between the heading and the actual post. Looks a bit better now.
+
+Other than that, I started adding links to YouTube listening examples on the Di Sarli discography tables. Only adding a few per year for now; can add more later. Lots of stuff on the tango website to do-list.
 ### Day 46 - Monday 19.02.2018 - Discography for Di Sarli
 <img src="./images/log-day-46-di-sarli-timeline.gif" alt="Screen shot of the Todometer with entries for today"/><br/><br/>
 Today, I applied everything I learnt yesterday - I added Di Sarli’s whole discography to his timeline; 30 years worth of recordings, divided into years, in sortable tables. Geek is happy! 🤓😍🤗
