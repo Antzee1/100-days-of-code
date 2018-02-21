@@ -16,6 +16,9 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 48 - the day I coded without coding?
+<img src="./images/log-day-48-editor.jpg" alt="Screen shot of nine hearts in different colours"/><br/><br/>
+Added discography content to my music website, but realised that even if I worked in the editor, maybe I wasn’t doing actual coding. I’d define it more as music work: checking recording versions, deciding where to add listening examples, etc. So today I didn’t really feel I learnt something new about code. There’s still a few day’s worth of work before this part of the website is done, and I don’t want to spend several my 100 Days Of Code only on this! The point of doing the challenge is to learn more about coding. So tomorrow I plan to do something else in addition to website work.
 ### Day 47 - Tuesday 20.02.2017 - Small stuff
 <img src="./images/log-day-47-candy-hearts.png" alt="Screen shot of nine hearts in different colours"/><br/><br/>
 Today: made my first submission to Creative Coding Club. ✅ This month’s theme was Candy Hearts. I had already made it earlier this month (I wrote about it on 13. February), but I kept it because I wanted to do some fancy stuff with it. Today I decided that I’ll just keep it simple and put the focus on the CSS variable fonts, which was what initially inspired the design, so I just tweaked the colours a bit more.
