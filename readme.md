@@ -16,7 +16,10 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
-### Day 48 - the day I coded without coding?
+### Day 49 - Thursday 22.02.2018 - back to JavaScript basics
+<img src="./images/log-day-49-javascript.png" alt=""/><br/><br/>
+Based on yesterday's thoughts, I wanted to do something that I could learn from every day. I still haven't been able to get any noticeable progress with JavaScript, and I keep falling off every time I try. The reason is partly that I really struggle with the syntax. So today, I started working on a small cheat sheet. They probably already exist in abundance online, but I believe one learns more from making stuff oneself - this is at least true for myself. It's not done yet, but in the meantime I did learn something: not JavaScript since I mostly worked on the layout today, but the CSS Grid auto-fit, which is perfect for this layout.
+### Day 48 - Wednesday 21.02.2018 - The day I coded without coding?
 <img src="./images/log-day-48-editor.jpg" alt="Screen shot of nine hearts in different colours"/><br/><br/>
 Added discography content to my music website, but realised that even if I worked in the editor, maybe I wasn’t doing actual coding. I’d define it more as music work: checking recording versions, deciding where to add listening examples, etc. So today I didn’t really feel I learnt something new about code. There’s still a few day’s worth of work before this part of the website is done, and I don’t want to spend several my 100 Days Of Code only on this! The point of doing the challenge is to learn more about coding. So tomorrow I plan to do something else in addition to website work.
 ### Day 47 - Tuesday 20.02.2017 - Small stuff
