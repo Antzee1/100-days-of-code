@@ -16,9 +16,25 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 50 - Friday 23.02.2018 - JavaScript variables syntax cheat sheet
+Finished my first JavaScript variables syntax practice sheet / cheat sheet. Just need to talk it over with my house teacher (the bf) before sharing, in case I overlooked / misunderstood something. It was super useful for me to make this; I’ve had trouble holding on to information about the different data types we can use in variables. But now I’ve used more than one part of my brain to process the information, I think it’ll stick better.
+
+For this layout, I used CSS Grid with the auto-fit property, which worked nicely for my text-only design once I tweaked font sizes and div sizes some. Also supplied with media queries for the smallest screens, was happy to get to revise that. Maybe it’s me who’s weird, but I find it oddly reassuring to see how everything resizes nicely to the browser window. 😍
+
+Also used CSS Variables in this project. How pretty isn’t the colour preview in Atom?
+
+<img src="./images/log-day-50-variable-preview.png" alt=""/><br/><br/>
+
+📕 Today’s resources:
+
+♦️ Mozilla’s MDN web docs has a well-written article on JavaScript variables basics [here](https://developer.mozilla.org/bm/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+♦️ [this nifty page](https://mothereff.in/js-variables) checks your variable name to see if it’s valid.
+
+Also: Oh Gosh am already halfway through the challenge! I think I would have coded every day even if I didn't do the challenge, but it’s fun presenting your work in public every day - it could be that it pushes me to do a bit more, or learn a bit more, or even get more ideas.
 ### Day 49 - Thursday 22.02.2018 - back to JavaScript basics
 <img src="./images/log-day-49-javascript.png" alt=""/><br/><br/>
-Based on yesterday's thoughts, I wanted to do something that I could learn from every day. I still haven't been able to get any noticeable progress with JavaScript, and I keep falling off every time I try. The reason is partly that I really struggle with the syntax. So today, I started working on a small cheat sheet. They probably already exist in abundance online, but I believe one learns more from making stuff oneself - this is at least true for myself. It's not done yet, but in the meantime I did learn something: not JavaScript since I mostly worked on the layout today, but the CSS Grid auto-fit, which is perfect for this layout.
+Based on yesterday's thoughts, I wanted to make sure I do something that I learn from every day. I still haven't been able to get any noticeable progress with JavaScript, and I keep falling off every time I try. The reason is partly that I really struggle with the syntax. So today, I started working on a small cheat sheet. They probably already exist in abundance online, but I believe one learns more from making stuff oneself - this is at least true for myself. It's not done yet, but in the meantime I did learn something: not JavaScript since I mostly worked on the layout today, but the CSS Grid auto-fit, which is perfect for this layout.
 ### Day 48 - Wednesday 21.02.2018 - The day I coded without coding?
 <img src="./images/log-day-48-editor.jpg" alt="Screen shot of nine hearts in different colours"/><br/><br/>
 Added discography content to my music website, but realised that even if I worked in the editor, maybe I wasn’t doing actual coding. I’d define it more as music work: checking recording versions, deciding where to add listening examples, etc. So today I didn’t really feel I learnt something new about code. There’s still a few day’s worth of work before this part of the website is done, and I don’t want to spend several my 100 Days Of Code only on this! The point of doing the challenge is to learn more about coding. So tomorrow I plan to do something else in addition to website work.
