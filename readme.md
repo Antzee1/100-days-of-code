@@ -16,6 +16,13 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 51 - Saturday 24.02.2018 - JavaScript variables syntax cheat sheet published + a cute girl animation
+<img src="./images/log-day-51-variables-cheat-sheet.jpg" alt=""/><br/><br/>
+Pulished the JavaScript variables syntax practice sheet / cheat sheet. It's [here on GitHub](https://antzee1.github.io/Variables-cheatsheet/)! This was fun to make, will be interesting to see if it's useful for me or others.
+
+Also made this girl here. She's made from only cirles, and the gif is made with Gifsky, which is a new gif-application for Mac desktop made by Sindre Sørhus.
+
+<img src="./images/log-day-51-balloon-girl.gif" alt=""/><br/><br/>
 ### Day 50 - Friday 23.02.2018 - JavaScript variables syntax cheat sheet
 Finished my first JavaScript variables syntax practice sheet / cheat sheet. Just need to talk it over with my house teacher (the bf) before sharing, in case I overlooked / misunderstood something. It was super useful for me to make this; I’ve had trouble holding on to information about the different data types we can use in variables. But now I’ve used more than one part of my brain to process the information, I think it’ll stick better.
 
