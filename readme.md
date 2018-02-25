@@ -16,6 +16,15 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 52 - Sunday 25.02.2018 - CSS Grid: template-areas property
+<img src="./images/log-day-52-grid-template-areas.png" alt=""/><br/><br/>
+Today, I made a playground to try out CSS grid-template-areas. It’s a nice way of visualising the layout in the CSS code.
+The playground is [here on CodePen](https://codepen.io/Antzee/full/mXGZLJ/)
+
+📕 Today’s resources:<br/>
+
+♦️ [CSS Grid course on Scrimba](https://scrimba.com/g/gR8PTE)<br/>
+♦️ [Grid by example tutorial by Rachel Andrew](https://youtu.be/RssSS_xhv2E)
 ### Day 51 - Saturday 24.02.2018 - JavaScript variables syntax cheat sheet published + a cute girl animation
 <img src="./images/log-day-51-variables-cheat-sheet.jpg" alt=""/><br/><br/>
 Pulished the JavaScript variables syntax practice sheet / cheat sheet. It's [here on GitHub](https://antzee1.github.io/Variables-cheatsheet/)! This was fun to make, will be interesting to see if it's useful for me or others.
