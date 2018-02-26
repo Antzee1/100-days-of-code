@@ -16,10 +16,12 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 53 - Monday 26.02.2018 - CSS Box-shadows
+Started the day making another CSS Grid template-areas experiment. I needed the box-shadow property many places in the pattern I had made, and kept getting confused by how the different box-shadows influenced the finished result. So in the end, I just decided that I needed to understand/remember the syntax properly, so I started making an overview which I will share tomorrow. Am using Flexbox and Grid template-areas so got to practice that as well.
 ### Day 52 - Sunday 25.02.2018 - CSS Grid: template-areas property
 <img src="./images/log-day-52-grid-template-areas.png" alt=""/><br/><br/>
 Today, I made a playground to try out CSS grid-template-areas. It’s a nice way of visualising the layout in the CSS code.
-The playground is [here on CodePen](https://codepen.io/Antzee/full/mXGZLJ/)
+The playground is [here on CodePen](https://codepen.io/Antzee/full/mXGZLJ/).
 
 📕 Today’s resources:<br/>
 
