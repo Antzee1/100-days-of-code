@@ -16,6 +16,9 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 54 - Tuesday 27.02.2018 - More on the CSS Box-shadows cheat sheet
+<img src="./images/log-day-54-box-shadow.png" alt="screen shot of box-shadow example"/><br/><br/>
+The box-shadow cheat sheet is coming together. Layout is done + most of the examples. Just need to add the inner shadows examples, and then there's always a bit of OCD proofreading. It's super useful to make this! In addition to being forced to study the box-shadow property, I'm also practicing CSS Grid and Flexbox, and I learned to use span in the HTML code so I could style words separately.
 ### Day 53 - Monday 26.02.2018 - CSS Box-shadows
 Started the day making another CSS Grid template-areas experiment. I needed the box-shadow property many places in the pattern I had made, and kept getting confused by how the different box-shadows influenced the finished result. So in the end, I just decided that I needed to understand/remember the syntax properly, so I started making an overview which I will share tomorrow. Am using Flexbox and Grid template-areas so got to practice that as well.
 ### Day 52 - Sunday 25.02.2018 - CSS Grid: template-areas property
