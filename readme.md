@@ -16,6 +16,11 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 56 - Thursday 01.03.2018 - More box shadow stuff
+<img src="./images/log-day-56-braided.jpg" alt="screen shot of box-shadow experiment"/><br/><br/>
+The box-shadow syntax sheet is done, just need to figure out a detail. Also returned to the experiment I started on Monday, since I understand the box-shadows syntax much better after making the syntax sheet. But this one is tough! I've almost finished it, though. In the end I decided I needed to only use inset box-shadows since the outset ones look a bit different, plus the outset ones also would involve some serious z-index headache. I tried, but couldn't figure out another simple solution.
+### Day 55 - Wednesday 28.02.2018 - Busy day!
+Super busy day, but managed to squeeze in a bit more work on the cheat sheet.
 ### Day 54 - Tuesday 27.02.2018 - More on the CSS Box-shadows cheat sheet
 <img src="./images/log-day-54-box-shadow.png" alt="screen shot of box-shadow example"/><br/><br/>
 The box-shadow cheat sheet is coming together. Layout is done + most of the examples. Just need to add the inner shadows examples, and then there's always a bit of OCD proofreading. It's super useful to make this! In addition to being forced to study the box-shadow property, I'm also practicing CSS Grid and Flexbox, and I learned to use span in the HTML code so I could style words separately.
