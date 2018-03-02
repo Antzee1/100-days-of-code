@@ -16,6 +16,13 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 57 - Friday 02.03.2018 - Box-shadow poster and braided pattern finished
+<img src="./images/log-day-57-box-shadow-poster.png" alt="screen shot of box-shadow poster on GitHub"/><br/><br/>
+I published the box-shadow poster on GitHub Pages today! You can find it [here](https://antzee1.github.io/Box-shadows). Like with the [JavaScript variables practice sheet](https://antzee1.github.io/Variables-cheatsheet/), I learnt a lot from making this poster: both about box-shadows, of course, but also about layout. Every time I set up a page, I get more confident with the layout tools. This time, I used Flexbox with a media query for small screens.
+
+I also finished the project that started the whole box-shadow thing this week. I used CSS Grid and a combination of inner box-shadows and gradients for the effect, and also tweaked the width/height and positioning a bit so it looks like each ribbon fits under the other. It was a total nightmare to figure out everything, but am super happy with how it turned out.
+
+<img src="./images/log-day-57-braided.jpg" alt="screen shot of the finished braided pattern. Shiny ribbons in red, blues, yellows, pink, greens."/><br/><br/>
 ### Day 56 - Thursday 01.03.2018 - More box shadow stuff
 <img src="./images/log-day-56-braided.jpg" alt="screen shot of box-shadow experiment"/><br/><br/>
 The box-shadow syntax sheet is done, just need to figure out a detail. Also returned to the experiment I started on Monday, since I understand the box-shadows syntax much better after making the syntax sheet. But this one is tough! I've almost finished it, though. In the end I decided I needed to only use inset box-shadows since the outset ones look a bit different, plus the outset ones also would involve some serious z-index headache. I tried, but couldn't figure out another simple solution.
