@@ -16,6 +16,13 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 58 - Monday 05.03.2018 - Single div!
+<img src="./images/log-day-58-single-div.png" alt="screen shot of single div experiment with blue and green squares and circles"/><br/><br/>
+Took yesterday and the day before off because of a tango workshop weekend (taking classes with a visiting teacher couple and DJing a six hours set on Saturday night). I don’t feel bad for breaking the streak, though; I’m very enthusiastic about coding and I usually do full days just because it's fun. I even forget to take breaks. Actually, I might need to do a "Not more than seven hours of coding per day including log and Twitter post" challenge.
+
+Today, I discovered Lynn Fisher’s project [A Single Div](https://a.singlediv.com/) and was awestruck. I then found [her article on Mozilla Hacks](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/) and realised how much can be done with, well, a single div. I never thought about adding more than one box-shadow, for instance, and I wasn’t aware of the possibilities of layering gradients and making parts of the gradients transparent, either. So overwhelmed by the options that I couldn’t think of what I wanted to make, so I just made a playground and messed around with the CSS. Looking forward to making more use of this!
+
+Btw, having made the box-shadow poster the other day came in handy because I had learnt what I could do with the “spread” property.
 ### Day 57 - Friday 02.03.2018 - Box-shadow poster and braided pattern finished
 <img src="./images/log-day-57-box-shadow-poster.png" alt="screen shot of box-shadow poster on GitHub"/><br/><br/>
 I published the box-shadow poster on GitHub Pages today! You can find it [here](https://antzee1.github.io/Box-shadows). Like with the [JavaScript variables practice sheet](https://antzee1.github.io/Variables-cheatsheet/), I learnt a lot from making this poster: both about box-shadows, of course, but also about layout. Every time I set up a page, I get more confident with the layout tools. This time, I used Flexbox with a media query for small screens.
