@@ -16,6 +16,9 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 59 - Tuesday 06.03.2018 - Single div experiment!
+<img src="./images/log-day-59-traktor.jpg" alt="photo of computer screen with code drawing of a DJ controller"/><br/><br/>
+Today, I discovered that my code drawing of my Sennheiser headphones was a picked pen on CodePen. 🤗 This made me start thinking about DJ equipment and then I thought that my software controller might be a good subject for a single div drawing. This is the result so far. It's one div with :before. So far I didn't use :after but I don't think I'll be able to do all the details with just one div - but most of it should be possible. Anyway, it's fun to make and great practice. I'm using box-shadows A LOT. 🤣
 ### Day 58 - Monday 05.03.2018 - Single div!
 <img src="./images/log-day-58-single-div.png" alt="screen shot of single div experiment with blue and green squares and circles"/><br/><br/>
 Took yesterday and the day before off because of a tango workshop weekend (taking classes with a visiting teacher couple and DJing a six hours set on Saturday night). I don’t feel bad for breaking the streak, though; I’m very enthusiastic about coding and I usually do full days just because it's fun. I even forget to take breaks. Actually, I might need to do a "Not more than seven hours of coding per day including log and Twitter post" challenge.
