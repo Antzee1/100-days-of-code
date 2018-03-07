@@ -16,6 +16,9 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 60 - Wednesday 07.03.2018 - DJ controller progress!
+<img src="./images/log-day-60-traktor.png" alt="screen shot of detail of code drawing of a DJ controller"/><br/><br/>
+The single div experiment became a multiple div experiment, as I knew it would. It's coming along nicely, and I've learnt a lot about box-shadows and linear-gradients. Having transparent parts of the linear gradient opens some new possibilities that I hadn't thought of before. Hope to finish tomorrow before I leave town for another tango weekend.
 ### Day 59 - Tuesday 06.03.2018 - Single div experiment!
 <img src="./images/log-day-59-traktor.jpg" alt="photo of computer screen with code drawing of a DJ controller"/><br/><br/>
 Today, I discovered that my code drawing of my Sennheiser headphones was a picked pen on CodePen. 🤗 This made me start thinking about DJ equipment and then I thought that my software controller might be a good subject for a single div drawing. This is the result so far. It's one div with :before. So far I didn't use :after but I don't think I'll be able to do all the details with just one div - but most of it should be possible. Anyway, it's fun to make and great practice. I'm using box-shadows A LOT. 🤣
