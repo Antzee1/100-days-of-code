@@ -16,6 +16,9 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 61 - Wednesday 07.03.2018 - DJ controller progress!
+<img src="./images/log-day-61-traktor.png" alt="screen shot of finished code drawing of a DJ controller"/><br/><br/>
+Finished the drawing of the DJ controller. Now it's snugly packed for my weekend trip to Bergen, where I'll be DJing and dancing.
 ### Day 60 - Wednesday 07.03.2018 - DJ controller progress!
 <img src="./images/log-day-60-traktor.png" alt="screen shot of detail of code drawing of a DJ controller"/><br/><br/>
 The single div experiment became a multiple div experiment, as I knew it would. It's coming along nicely, and I've learnt a lot about box-shadows and linear-gradients. Having transparent parts of the linear gradient opens some new possibilities that I hadn't thought of before. Hope to finish tomorrow before I leave town for another tango weekend.
