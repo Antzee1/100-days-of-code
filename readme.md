@@ -16,6 +16,8 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 62 - Monday 12.03.2018 - JavaScript practice
+Was away for the weekend. Travelled back today. Used my JavaScript practice sheet to practice writing JavaScript variables on the flight.
 ### Day 61 - Wednesday 07.03.2018 - DJ controller progress!
 <img src="./images/log-day-61-traktor.png" alt="screen shot of finished code drawing of a DJ controller"/><br/><br/>
 Finished the drawing of the DJ controller. Now it's snugly packed for my weekend trip to Bergen, where I'll be DJing and dancing.
