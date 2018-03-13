@@ -16,6 +16,8 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 63 - Tuesday 13.03.2018 - Tango website work
+Took up the tango website again. As I've mentioned before: I also should do something that I learn from every day during the challenge, but today, I just repeated how to make tables in HTML (which is useful, of course).
 ### Day 62 - Monday 12.03.2018 - JavaScript practice
 Was away for the weekend. Travelled back today. Used my JavaScript practice sheet to practice writing JavaScript variables on the flight.
 ### Day 61 - Wednesday 07.03.2018 - DJ controller progress!
