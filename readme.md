@@ -16,8 +16,10 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 64 - Wednesday 14.03.2018 - Tango website + JavaScript functions
+Continued with my Argentine tango website, but since I wanted to learn something every day during the challenge, I also went back to revise JavaScript functions. To be honest, they still don't make much sense, so I'll be doing some deep diving on this. It's clear that one forgets very quickly what one hasn't used regularly, and probably even faster if one hasn't got a deep understanding of the topic in the first place.🧐
 ### Day 63 - Tuesday 13.03.2018 - Tango website work
-Took up the tango website again. As I've mentioned before: I also should do something that I learn from every day during the challenge, but today, I just repeated how to make tables in HTML (which is useful, of course).
+Took up the Argentine again. As I've mentioned before: I also should do something that I learn from every day during the challenge, but today, I just repeated how to make tables in HTML (which is useful, of course).
 ### Day 62 - Monday 12.03.2018 - JavaScript practice
 Was away for the weekend. Travelled back today. Used my JavaScript practice sheet to practice writing JavaScript variables on the flight.
 ### Day 61 - Wednesday 07.03.2018 - DJ controller progress!
