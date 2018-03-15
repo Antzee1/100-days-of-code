@@ -16,6 +16,11 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 65 - Thursday 15.03.2018 - Drawing with Rough.js
+<img src="./images/log-day-65-rough-flowers.jpg" alt="screen shot of childlike-looking drawing made with Rough.js library"/><br/><br/>
+Discovered Rough.js, a Canvas-based library that makes JavaScript Canvas lines and shapes look like they're drawn by hand. I never really used Canvas since I could do my stuff with CSS, but this library was a nice addition! It's useful for me on several levels: it made me do something JavaScript based, and I got to repeat the Canvas coordinate system. I also see that this library will be even more useful with SVG, so I guess it's time to learn more about that.
+<br/><br/>
+📕 Today's resource: [Rough.js](https://roughjs.com/). Found via [Speckyboy](speckyboy.com).
 ### Day 64 - Wednesday 14.03.2018 - Tango website + JavaScript functions
 Continued with my Argentine tango website, but since I wanted to learn something every day during the challenge, I also went back to revise JavaScript functions. To be honest, they still don't make much sense, so I'll be doing some deep diving on this. It's clear that one forgets very quickly what one hasn't used regularly, and probably even faster if one hasn't got a deep understanding of the topic in the first place.🧐
 ### Day 63 - Tuesday 13.03.2018 - Tango website work
