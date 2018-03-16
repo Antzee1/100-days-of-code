@@ -16,6 +16,18 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 <br/><br/>
+### Day 66 - Friday 16.03.2018 - Starting SVG
+I’ve wondered WTH :nth-child and similar actually means, so I started the day with Googling it and reading a couple articles. Got the main concepts, will of course have to get back to it.
+
+I’ve been thinking that it’s time to sit down and read the whole CSS section on MDN. As a super eager code newbie, I discover new stuff all the time, and it makes me feel like a child in a toy store. There’s so much fun and useful stuff to learn, and it’s very easy to start jumping all over the place, trying to learn everything and at the same time follow up on own creative ideas. I do learn heaps of stuff from trying out the things I stumble upon and from making my own projects, but what I learn feels a bit arbitrary.
+
+<img src="./images/log-day-66-svg.jpg" alt="screen shot of childlike-looking drawing made with Rough.js library"/>
+
+Anyway, since I played with Canvas and Rough.js yesterday, I decided that it’s time to tackle SVG, which I’ve mostly admired from afar. Used MDN Web Docs, made a playground and went through the basic shapes. I’ll have to practice polygons more because I get slightly confused by the coordinates (even though I do understand what they mean). Maybe drawing on graph paper will be useful.
+
+📕 Today’s resource: Useful pseudo-class overview at [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+
+🎧 Also added my DJ controller CSS picture [on CodePen](https://codepen.io/Antzee/full/jzrJvx)
 ### Day 65 - Thursday 15.03.2018 - Drawing with Rough.js
 <img src="./images/log-day-65-rough-flowers.jpg" alt="screen shot of childlike-looking drawing made with Rough.js library"/><br/><br/>
 Discovered Rough.js, a Canvas-based library that makes JavaScript Canvas lines and shapes look like they're drawn by hand. I never really used Canvas since I could do my stuff with CSS, but this library was a nice addition! It's useful for me on several levels: it made me do something JavaScript based, and I got to repeat the Canvas coordinate system. I also see that this library will be even more useful with SVG, so I guess it's time to learn more about that.
