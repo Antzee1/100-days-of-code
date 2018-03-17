@@ -15,7 +15,14 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
-<br/><br/>
+
+### Day 67 - Saturday 17.03.2018 - SVG paths
+<img src="./images/log-day-67-svg-flower.jpg" alt="screen shot of flower without petals"/><br/><br/>
+Worked on SVG paths. Learnt about cubic and quadratic curves and used quadratic curves to make the leaves in the test drawing. I also need ellipses for petals and spent some time trying to make them with cubic curves since they need to have different angles in the drawing and I thought I couldn't do that with ellipses. But after some Googling I learnt that you can apply transformations in the SVG code in HTML. So then I can use transform: rotate on the ellipses. Seems like the easiest solution, although I need to understand which axis the rotation happens around.
+
+Conclusion: this is hard! And even as a Inkscape total beginner I could make this a lot faster in Inkscape. But I want to learn how to code basic shapes to I understand better how SVGs work. And I like a good challenge 🤓
+
+📕 Today's resource: [MDN Web Docs on SVG Paths](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths)
 ### Day 66 - Friday 16.03.2018 - Starting SVG
 I’ve wondered WTH :nth-child and similar actually means, so I started the day with Googling it and reading a couple articles. Got the main concepts, will of course have to get back to it.
 
