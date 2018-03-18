@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 68 - Sunday 18.03.2018 - SVG paths
+<img src="./images/log-day-68-svg-flower.png" alt="SVG drawing of pink flower"/><br/><br/>
+Started learning about rotating of SVGs. Needed help from my house teacher (the bf) to understand how to position the leaves. Am still not sure I'm getting it 100% yet, but I guess I will after having applied it a few times. Now I have an SVG cover for Twitter, but Twitter doesn't handle solid reds very well so I had to change the colour scheme 😭 Anyway, I've learnt heaps about SVGs already so will continue working my way through the MDN documentation.
 
 ### Day 67 - Saturday 17.03.2018 - SVG paths
 <img src="./images/log-day-67-svg-flower.jpg" alt="screen shot of flower without petals"/><br/><br/>
