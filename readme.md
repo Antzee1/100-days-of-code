@@ -30,7 +30,7 @@ Today, I looked at syntax for styling SVGs. If I understand it correctly, it can
 
 👉🏻 1) and 2) look quite similar, but in 2) it's just regular CSS syntax inside `style=""`
 
-**3) In a special style section called `<defs>`**
+**3) In a special style section inside the `<defs>` area**
 
         <defs>
           <style type="text/css">
@@ -43,6 +43,8 @@ Today, I looked at syntax for styling SVGs. If I understand it correctly, it can
         </defs>
 
         <rect x="300" height="100" y="10" width="100" id="RectStyle"/>
+
+👉🏻 I've also seen the style tag outside `<defs>`, and written both with and without **type="text/css**. Will have to look more into this to see if there's a difference.
 
 **4) In an external, linked stylesheet**
 
@@ -57,6 +59,13 @@ CSS stylesheet<br/>
 }`
 
 👉🏻 3) and 4) have identical syntax because both link to CSS that's placed elsewhere.
+
+<img src="./images/log-day-69-use.png" alt="SVG drawing of four blue flowers"/><br/><br/>
+Next, I read an article by Sara Soueidan and started learning how to reuse elements with the `<use>` element. This is handy if you want to repeat elements. Next: learn about styling this element.
+
+📕 **Today's resources** 📕<br/>
+♦️ [MDN Web Docs on CSS](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes)<br/>
+♦️ [Sara Soueidan's article](https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
 
 ### Day 68 - Sunday 18.03.2018 - SVG paths
 <img src="./images/log-day-68-svg-flower.png" alt="SVG drawing of pink flower"/><br/><br/>
