@@ -15,6 +15,49 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 69: Monday 19.03.2018 - Different ways of styling SVGs with CSS
+Today, I looked at syntax for styling SVGs. If I understand it correctly, it can be done in four different ways.
+
+<img src="./images/log-day-69-SVG-styles.png" alt="SVG drawing of pink flower"/><br/><br/>
+
+**1) Inline**
+
+`<rect x="10" height="100" y="10" width="100" stroke="rgb(89, 88, 88)" fill="rgb(155, 188, 189)" stroke-width="4"/>`
+
+**2) Inline with CSS**
+
+`<rect x="150" height="100" y="10" width="100" style="stroke: rgb(4, 114, 149); fill: rgb(208, 208, 208); stroke-width: 4;"/>`
+
+👉🏻 1) and 2) look quite similar, but in 2) it's just regular CSS syntax inside `style=""`
+
+**3) In a special style section called `<defs>`**
+
+        <defs>
+          <style type="text/css">
+             #RectStyle {
+               stroke: rgb(76, 144, 148);
+               fill: rgb(226, 199, 199);
+               stroke-width: 4;
+             }
+          </style>
+        </defs>
+
+        <rect x="300" height="100" y="10" width="100" id="RectStyle"/>
+
+**4) In an external, linked stylesheet**
+
+HTML <br/>
+`<rect x="450" height="100" y="10" width="100" id="RectStyle"/>`
+
+CSS stylesheet<br/>
+`#RectStyle {
+    stroke: rgb(175, 0, 0);
+    fill: rgb(226, 199, 199);
+    stroke-width: 4;
+}`
+
+👉🏻 3) and 4) have identical syntax because both link to CSS that's placed elsewhere.
+
 ### Day 68 - Sunday 18.03.2018 - SVG paths
 <img src="./images/log-day-68-svg-flower.png" alt="SVG drawing of pink flower"/><br/><br/>
 Started learning about rotating of SVGs. Needed help from my house teacher (the bf) to understand how to position the leaves. Am still not sure I'm getting it 100% yet, but I guess I will after having applied it a few times. Now I have an SVG cover for Twitter, but Twitter doesn't handle solid reds very well so I had to change the colour scheme 😭 Anyway, I've learnt heaps about SVGs already so will continue working my way through the MDN documentation.
