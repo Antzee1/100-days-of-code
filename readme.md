@@ -15,10 +15,14 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 70: Tuesday 20.03.2018 - more SVG
+<img src="./images/log-day-70-use-flowers.png" alt="SVG drawing of pink flower"/><br/><br/>
+First: made multiple-coloured versions of SVG flower with `<use>`. So useful (pun not intended)! But I need to get more experience in how to combine it with `<g>`, `<style>` and/or `<defs>` to make the code as efficient and versatile as possible. I guess it’s all about understanding how it’s all connected, and then we can make case-by-case decisions about the best way of writing the code.
+
+Also: started on [MDN’s article about SVG patterns](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Patterns). Today, I only had time for tweaking the example code so I could understand how it’s built up. Looking forward to making more patterns!
+
 ### Day 69: Monday 19.03.2018 - Different ways of styling SVGs with CSS
 Today, I looked at syntax for styling SVGs. If I understand it correctly, it can be done in four different ways.
-
-<img src="./images/log-day-69-SVG-styles.png" alt="SVG drawing of pink flower"/><br/><br/>
 
 **1) Inline**
 
