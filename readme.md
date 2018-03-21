@@ -15,6 +15,14 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 71: Wednesday 21.03.2018 - SVG patterns
+Practiced SVG patterns. Made two:<br/>
+🌸 a new cover for my Twitter profile<br/>
+🐰 an Easter-inspired bunny pattern which you can find [here](http://bit.ly/2DK2MkW) on CodePen and which also became a CodePen Picked Pen today!
+
+<img src="./images/log-day-71-flowers.png" alt="SVG drawing of pink flower pattern"/><br/><br/>
+<img src="./images/log-day-71-bunny.jpg" alt="SVG drawing of pink flower pattern"/><br/><br/>
+I had fun making these patterns. I think I understood the concept basics, so I'm moving on to the next SVG tutorial on MDN, which is text.
 ### Day 70: Tuesday 20.03.2018 - more SVG
 <img src="./images/log-day-70-use-flowers.png" alt="SVG drawing of pink flower"/><br/><br/>
 First: made multiple-coloured versions of SVG flower with `<use>`. So useful (pun not intended)! But I need to get more experience in how to combine it with `<g>`, `<style>` and/or `<defs>` to make the code as efficient and versatile as possible. I guess it’s all about understanding how it’s all connected, and then we can make case-by-case decisions about the best way of writing the code.
