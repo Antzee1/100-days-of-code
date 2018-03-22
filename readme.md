@@ -15,6 +15,10 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 72 - 22.03.2018 - Letter inspiration
+<img src="./images/log-day-72-A.jpg" alt="SVG drawing of pink flower"/><br/><br/>
+Was inspired by Sophie Brown’s [Instagram account](https://www.instagram.com/sophie_elinor/) today, so I coded this A as a new desktop wallpaper for my laptop. It's based on one of my favourite Google Fonts, [Limelight](https://fonts.google.com/specimen/Limelight), designed by Nicole Fally.
+Afterwards, I continued with the SVG tutorials on MDN. Started on clip-paths, which seems to be a CSS thing that I overlooked a bit. Looking forward to continuing with that tomorrow, because it'll also be super useful for my CSS drawings as well.
 ### Day 71: Wednesday 21.03.2018 - SVG patterns
 Practiced SVG patterns. Made two:<br/>
 🌸 a new cover for my Twitter profile<br/>
