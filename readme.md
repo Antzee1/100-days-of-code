@@ -15,6 +15,12 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 73 - Friday 23.03.2018 - Colour picker!
+Exciting day. I've been curious about how to implement a colour picker ever since I saw it on the website of [Nika Zawila](http://nikazawila.com/), and today, I found a nice tutorial on MDN 😍 Made this dress colour changer 👗<br/><br/>
+<img src="./images/log-day-73-colour-wheel.gif" alt="GIF of the dress colour changer"/><br/><br/>
+I had to make a couple changes to the JavaScript code to make it work on the dress instead of on text. So happy when it worked! I keep hitting the wall when I try to make progress with JavaScript, but it seems I'm learning a tiny bit after all. 💪🏻<br/><br/>
+➡️ Try it [on CodePen](https://bit.ly/2uflSzO)  
+📕 Today's resource: [MDN colour picker tutorial](https://mzl.la/2DOLQK3)
 ### Day 72 - Thursday 22.03.2018 - Letter inspiration
 <img src="./images/log-day-72-A.jpg" alt="SVG drawing of pink flower"/><br/><br/>
 Was inspired by Sophie Brown’s [Instagram account](https://www.instagram.com/sophie_elinor/) today, so I coded this A as a new desktop wallpaper for my laptop. It's based on one of my favourite Google Fonts, [Limelight](https://fonts.google.com/specimen/Limelight), designed by Nicole Fally.
