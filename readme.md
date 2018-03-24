@@ -15,6 +15,11 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 74 - Saturday 24.03.2018 - SVG clip-paths with text
+<img src="./images/log-day-74-urban-sky.gif" alt="GIF with words "urban" and "sky" cut from photos"/><br/><br/>
+Made a couple things with my old Instagram photos and SVG clip-path text. I love SVG so far 😍 So many possibilities are opening up with layers, clipping, opacity / fill-opacity. Also learnt that we can use clip-paths in CSS.  
+
+📕 Today’s resource: [Sara Soueidan’s blog post on SVG clipping](https://www.sarasoueidan.com/blog/css-svg-clipping/)
 ### Day 73 - Friday 23.03.2018 - Colour picker!
 Exciting day. I've been curious about how to implement a colour picker ever since I saw it on the website of [Nika Zawila](http://nikazawila.com/), and today, I found a nice tutorial on MDN 😍 Made this dress colour changer 👗<br/><br/>
 <img src="./images/log-day-73-colour-wheel.gif" alt="GIF of the dress colour changer"/><br/><br/>
