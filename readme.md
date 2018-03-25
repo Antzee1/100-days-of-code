@@ -15,6 +15,18 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 75 - Sunday 25.03.2018 - Gradients and clip-paths
+Was inspired by an artwork of [Andy Gilmore](http://www.agilmore.com/info) this morning, found on the brilliant [Twitter account by Maria Linares Freire](https://twitter.com/LinaresFreire). So I made a coded version with Grid and gradients. I used a colour picker tool to get the right hues.
+
+Original:
+
+<img src="./images/log-day-75-andy-gilmore-grid-gradients-original.jpg" alt="Andy Gilmore's artwork of 10 by 10 squares of gradient colours"/><br/><br/>
+Coded version:
+
+<img src="./images/log-day-75.andy-gilmore-grid-gradients-code.jpg" alt="coded version of the same artwork"/><br/><br/>
+The code itself looked super pretty in the editor with all the colour highlighting! Then my next project: it’s my day 75 of the #100DaysOfCode challenge today, so I wanted to make a drawing of a 75% complete cirlce. I decided that I’d use svg clip-path since that’s what I’m working on right now. I haven’t practiced writing arcs yet, but I found a nice example on [w3.org](https://www.w3.org/TR/2001/REC-SVG-20010904/paths.html), analysed the code, and managed to figure out how most of it works. And then I realised I could use the code from my previous project: by compressing the code online, I got a nice colourful result in the editor, took a screenshot, and voilà, image for the clip-path.
+
+<img src="./images/log-day-75-days.jpg" alt="Andy Gilmore's artwork of 10 by 10 squares of gradient colours"/><br/><br/>
 ### Day 74 - Saturday 24.03.2018 - SVG clip-paths with text
 <img src="./images/log-day-74-urban-sky.gif" alt="GIF with words "urban" and "sky" cut from photos"/><br/><br/>
 Made a couple things with my old Instagram photos and SVG clip-path text. I love SVG so far 😍 So many possibilities are opening up with layers, clipping, opacity / fill-opacity. Also learnt that we can use clip-paths in CSS.  
@@ -23,7 +35,9 @@ Made a couple things with my old Instagram photos and SVG clip-path text. I love
 ### Day 73 - Friday 23.03.2018 - Colour picker!
 Exciting day. I've been curious about how to implement a colour picker ever since I saw it on the website of [Nika Zawila](http://nikazawila.com/), and today, I found a nice tutorial on MDN 😍 Made this dress colour changer 👗<br/><br/>
 <img src="./images/log-day-73-colour-wheel.gif" alt="GIF of the dress colour changer"/><br/><br/>
-I had to make a couple changes to the JavaScript code to make it work on the dress instead of on text. So happy when it worked! I keep hitting the wall when I try to make progress with JavaScript, but it seems I'm learning a tiny bit after all. 💪🏻<br/><br/>
+I had to make a couple changes to the JavaScript code to make it work on the dress instead of on text. So happy when it worked! I keep hitting the wall when I try to make progress with JavaScript, but it seems I'm learning a tiny bit after all. 💪🏻
+
+Update: It seems clip-path doesn't work in Internet Explorer, and it's only recently that it got supported in Firefox. I got my bf to test the colour picker project on a work computer, and the girl's dress becomes totally square 😭 So this is knowledge for the future, I guess. But the colour picker works.<br/><br/>
 ➡️ Try it [on CodePen](https://bit.ly/2uflSzO)  
 📕 Today's resource: [MDN colour picker tutorial](https://mzl.la/2DOLQK3)
 ### Day 72 - Thursday 22.03.2018 - Letter inspiration
