@@ -26,10 +26,12 @@ Coded version:
 <img src="./images/log-day-75.andy-gilmore-grid-gradients-code.jpg" alt="coded version of the same artwork"/><br/><br/>
 The code itself looked super pretty in the editor with all the colour highlighting! Then my next project: it’s my day 75 of the #100DaysOfCode challenge today, so I wanted to make a drawing of a 75% complete cirlce. I decided that I’d use svg clip-path since that’s what I’m working on right now. I haven’t practiced writing arcs yet, but I found a nice example on [w3.org](https://www.w3.org/TR/2001/REC-SVG-20010904/paths.html), analysed the code, and managed to figure out how most of it works. And then I realised I could use the code from my previous project: by compressing the code online, I got a nice colourful result in the editor, took a screenshot, and voilà, image for the clip-path.
 
-<img src="./images/log-day-75-days.jpg" alt="Andy Gilmore's artwork of 10 by 10 squares of gradient colours"/><br/><br/>
+<img src="./images/log-day-75-days.jpg" alt=""/><br/><br/>
+.
 ### Day 74 - Saturday 24.03.2018 - SVG clip-paths with text
+Made a couple things with my old Instagram photos and SVG clip-path text. I love SVG so far 😍 So many possibilities are opening up with layers, clipping, opacity / fill-opacity. Also learnt that we can use clip-paths in CSS.
+
 <img src="./images/log-day-74-urban-sky.gif" alt="GIF with words "urban" and "sky" cut from photos"/><br/><br/>
-Made a couple things with my old Instagram photos and SVG clip-path text. I love SVG so far 😍 So many possibilities are opening up with layers, clipping, opacity / fill-opacity. Also learnt that we can use clip-paths in CSS.  
 
 📕 Today’s resource: [Sara Soueidan’s blog post on SVG clipping](https://www.sarasoueidan.com/blog/css-svg-clipping/)
 ### Day 73 - Friday 23.03.2018 - Colour picker!
