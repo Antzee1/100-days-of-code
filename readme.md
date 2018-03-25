@@ -31,7 +31,7 @@ The code itself looked super pretty in the editor with all the colour highlighti
 ### Day 74 - Saturday 24.03.2018 - SVG clip-paths with text
 Made a couple things with my old Instagram photos and SVG clip-path text. I love SVG so far 😍 So many possibilities are opening up with layers, clipping, opacity / fill-opacity. Also learnt that we can use clip-paths in CSS.
 
-<img src="./images/log-day-74-urban-sky.gif" alt="GIF with words "urban" and "sky" cut from photos"/><br/><br/>
+<img src="./images/log-day-74-urban-sky.gif" alt="GIF with words 'urban' and 'sky' cut from photos"/><br/><br/>
 
 📕 Today’s resource: [Sara Soueidan’s blog post on SVG clipping](https://www.sarasoueidan.com/blog/css-svg-clipping/)
 ### Day 73 - Friday 23.03.2018 - Colour picker!
