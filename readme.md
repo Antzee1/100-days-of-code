@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 76 - Monday 26.03.2018 - SVG masking
+<img src="./images/log-day-76-masking.jpg" alt="screen shot of gradient text "urban" over gradient image"/><br/><br/>
+Started on SVG masking, made this, and I have no idea how. Well, maybe I'm exaggerating a bit, but I'm a bit confused by the behaviour of the gradients here. It's of course a bit ambitious since I'm both using gradients, opacity, images, and text, so I think I need to break this down some...
 ### Day 75 - Sunday 25.03.2018 - Gradients and clip-paths
 Was inspired by an artwork of [Andy Gilmore](http://www.agilmore.com/info) this morning, found on the brilliant [Twitter account by Maria Linares Freire](https://twitter.com/LinaresFreire). So I made a coded version with Grid and gradients. I used a colour picker tool to get the right hues.
 
