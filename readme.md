@@ -15,6 +15,15 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 77 - Tuesday 27.03.2018 - A small JavaScript variables victory
+<img src="./images/log-day-77-circles.jpg" alt="screen shot of images of different-coloured dots"/><br/><br/>
+Alhough I feel like I’ve made very little progress the other times I tried, I know I need to keep working on JavaScript. So this morning, I dug out KhanAcademy’s JavaScript course. I’ve done most of it before, but I didn’t really understand how to use the course content outside the KhanAcademy environment. But this time, when rewatching the tutorial on changing sizes with variables, I immediately thought: I should be able to use this with Rough.js; the library I wrote about a few days ago that makes JavaScript Canvas drawings look hand-drawn.
+
+So I opened my editor and played with changing sizes and colours with variables. And after watching the next tutorial, I tried changing the relative x and y positions of the circles with variables and a bit of math, which totally worked. The JavaScript newbie was very happy!
+
+📕 Today's resources:<br/><br/>
+♦️ [Intro to Variables on Khanacademy](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables)<br/>
+♦️ [More on Variables on Khanacademy](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/more-on-variables)
 ### Day 76 - Monday 26.03.2018 - SVG masking
 <img src="./images/log-day-76-masking.jpg" alt="screen shot of gradient text "urban" over gradient image"/><br/><br/>
 Started on SVG masking, made this, and I have no idea how. Well, maybe I'm exaggerating a bit, but I'm a bit confused by the behaviour of the gradients here. It's of course a bit ambitious since I'm both using gradients, opacity, images, and text, so I think I need to break this down some...
