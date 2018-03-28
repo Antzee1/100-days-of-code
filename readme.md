@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 78 - Wednesday 28.03.2018 - SVG clip-path Easter bunny
+<img src="./images/log-day-78-sky-bunny.jpg" alt="bunny shape cut out from a photo of a blue sky with white clouds"/><br/><br/>
+It’s Easter holiday week, and in my mind, Easter is connected with a blue sky more than anything else. So here’s my Easter bunny in a new version. I’ve decided I want to understand clip-paths better before I work more on masking. When I set up today’s project, it was clear that it’s a good decision since I still get a bit confused by the code. For this one, I wanted to use grouping. I couldn’t make it work in a way that mede sense, so I guess I still don’t quite understand how different parts of the code work together.
 ### Day 77 - Tuesday 27.03.2018 - A small JavaScript variables victory
 <img src="./images/log-day-77-circles.jpg" alt="screen shot of images of different-coloured dots"/><br/><br/>
 Alhough I feel like I’ve made very little progress the other times I tried, I know I need to keep working on JavaScript. So this morning, I dug out KhanAcademy’s JavaScript course. I’ve done most of it before, but I didn’t really understand how to use the course content outside the KhanAcademy environment. But this time, when rewatching the tutorial on changing sizes with variables, I immediately thought: I should be able to use this with Rough.js; the library I wrote about a few days ago that makes JavaScript Canvas drawings look hand-drawn.
