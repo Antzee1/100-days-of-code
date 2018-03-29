@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 79 - Thursday 29.03.2018 - first look at animating SVGs with JavaScript
+<img src="./images/log-day-79-yellow.gif" alt="GIF of yellow circle alternating between two sizes"/><br/><br/>
+Continuing on SVG and thought I'd start looking at how to animate SVG. There's SMIL (Synchronized Multimedia Integration Language) which looks interesting as well, but I wanted to see what I could do with JavaScript. If I understand it correctly, this is a job for a library, but I wanted to try with JavaScript simply because I need to learn JavaScript functions, and what I'm having in mind are very basic animations / transformations. Spent most of the day Googling and staring at JavaScript examples. Finally I found one here at [w3.org](https://www.w3.org/TR/SVG/script.html#EventAttributes) that does what I want, which is an element that's animated when it's clicked on (not when clicking a button). Hope I'll be able to make something from this.
 ### Day 78 - Wednesday 28.03.2018 - SVG clip-path Easter bunny
 <img src="./images/log-day-78-sky-bunny.jpg" alt="bunny shape cut out from a photo of a blue sky with white clouds"/><br/><br/>
 It’s Easter holiday week, and in my mind, Easter is connected with a blue sky more than anything else. So here’s my Easter bunny in a new version. I’ve decided I want to understand clip-paths better before I work more on masking. When I set up today’s project, it was clear that it’s a good decision since I still get a bit confused by the code. For this one, I wanted to use grouping. I couldn’t make it work in a way that mede sense, so I guess I still don’t quite understand how different parts of the code work together.
