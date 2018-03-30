@@ -15,6 +15,8 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 80 - Friday 30.03.2018 - animating SVGs with JavaScript
+It's Easter, so there's social life happening. Did work on SVG animation in JavaScript. The details will have to wait until after Easter 🐥
 ### Day 79 - Thursday 29.03.2018 - first look at animating SVGs with JavaScript
 <img src="./images/log-day-79-yellow.gif" alt="GIF of yellow circle alternating between two sizes"/><br/><br/>
 Continuing on SVG and thought I'd start looking at how to animate SVG. There's SMIL (Synchronized Multimedia Integration Language) which looks interesting as well, but I wanted to see what I could do with JavaScript. If I understand it correctly, this is a job for a library, but I wanted to try with JavaScript simply because I need to learn JavaScript functions, and what I'm having in mind are very basic animations / transformations. Spent most of the day Googling and staring at JavaScript examples. Finally I found one here at [w3.org](https://www.w3.org/TR/SVG/script.html#EventAttributes) that does what I want, which is an element that's animated when it's clicked on (not when clicking a button). Hope I'll be able to make something from this.
