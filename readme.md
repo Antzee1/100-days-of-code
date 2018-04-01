@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 82 - Sunday 01.04.2018 - animating SVG groups with JavaScript
+<img src="./images/log-day-82-bunnymove.gif" alt="GIF of two bunny heads moving across the screen when clicked"/><br/><br/>
+Managed to use JavaScript to move my SVG `<g>` element. Needed help from the house teacher (the bf) for the JavaScript but I was able to adapt it.
 ### Day 81 - Saturday 31.03.2018 - first look at animating SVGs with JavaScript
 <img src="./images/log-day-81-happy-easter-bunny.png" alt="GIF of yellow circle alternating between two sizes"/><br/><br/>
 Learning more about grouping SVG elements. Learnt [here](http://tutorials.jenkov.com/svg/g-element.html) that the `<g>` element doesn’t have x and y coordinate, but I could apply transformations to all the shapes in the bunny `<g>` element by putting the element inside an `<svg>` element. Hope I’ll be able to do more fun stuff with this!
