@@ -15,6 +15,11 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 83 - Tuesday 03.04.2018 - SVG animation
+<img src="./images/day-83-svg-love.gif" alt="GIF of two bunny heads moving across the screen when clicked"/><br/><br/>
+Skipped a day yesterday because I had a Social Argentine Tango DJ job and needed to focus on that. I’m continuing working on SVG, and today I watched the first lessons in SVG animation Udemy course I bought some time ago. The course offers an option to download the code for a finished SVG to animate, but I decided to make my own in Inkscape. I’m an Inkscape newbie so spent a lot of time making the SVG, but learning the animation technique in the course went fine. Also learnt how to calculate the length of a path with JavaScript, which also was unproblematic.
+
+📕 Today’s resource: [“Learn SVG Animation - With HTML, CSS & Javascript”](https://www.udemy.com/learn-svg-animation) from Code Collective on Udemy
 ### Day 82 - Sunday 01.04.2018 - animating SVG groups with JavaScript
 <img src="./images/log-day-82-bunnymove.gif" alt="GIF of two bunny heads moving across the screen when clicked"/><br/><br/>
 Managed to use JavaScript to move my SVG `<g>` element. Needed help from the house teacher (the bf) for the JavaScript but I was able to adapt it.
