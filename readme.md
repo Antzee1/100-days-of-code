@@ -15,11 +15,15 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 85 - Thursday 05.04.2018 - SVG text with mask and gradient
+<img src="./images/log-day-85-svg-gradient.png" alt="Image of the word "Gradient" in gradient colours"/><br/><br/>
+<img src="./images/log-day-85-svg-mask.png" alt="Image of the word "Texture" in letters with black and white texture"/><br/><br/>
+Did the next lessons of the [“Learn SVG Animation - With HTML, CSS & Javascript”](https://www.udemy.com/learn-svg-animation) from Code Collective on Udemy and made these. The first one uses gradients in the defs; the second one a mask. I see that I need to look closer at svg and viewport sizing; I find this a bit hard to understand, especially when I'm using someone else's SVG code, like in this case.
 ### Day 84 - Wednesday 04.04.2018 - SVG animation: handwriting
 <img src="./images/log-day-84-writing.gif" alt="GIF of a logo with animated border drawing itself"/><br/><br/>
 Continued with [“Learn SVG Animation - With HTML, CSS & Javascript”](https://www.udemy.com/learn-svg-animation) from Code Collective on Udemy. Watched a couple lessons that revised keyframe animation, which I’m familiar with, and also animation direction, which was new and which will come in handy. Proceeded to draw my own handwritten word in Inkscape (learning a lot about handling/deleting/adding nodes in the process), followed the course instructions, and made this. This lesson applied the same method as in the previous lesson, but it was fun to do, and it opens up possibilities to make nice stuff.
 
-Am struggling a bit with positioning of SVGs - for instance when the SVG should be inside a div / part of a design. Am managing to do what I want, but am unsure whether my solutions are good or just super hacky. 
+Am struggling a bit with positioning of SVGs - for instance when the SVG should be inside a div / part of a design. Am managing to do what I want, but am unsure whether my solutions are good or just super hacky.
 ### Day 83 - Tuesday 03.04.2018 - SVG animation
 <img src="./images/day-83-svg-love.gif" alt="GIF of a logo with animated border drawing itself"/><br/><br/>
 Skipped a day yesterday because I had a Social Argentine Tango DJ job and needed to focus on that. I’m continuing working on SVG, and today I watched the first lessons in SVG animation Udemy course I bought some time ago. The course offers an option to download the code for a finished SVG to animate, but I decided to make my own in Inkscape. I’m an Inkscape newbie so spent a lot of time making the SVG, but learning the animation technique in the course went fine. Also learnt how to calculate the length of a path with JavaScript, which also was unproblematic.
