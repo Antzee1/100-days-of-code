@@ -15,6 +15,12 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+
+### Day 86 - Thursday 05.04.2018 - SVG text with mask and gradient
+<img src="./images/log-day-86-eva-lewitt.jpg" alt="Image of a row of yellow dots"/><br/><br/>
+Yesterday, I went to see an exhibition by Ewa LeWitt at gallery VI, VII in Oslo. Here are [my Instagram photos](https://www.instagram.com/p/BhMtpXiAU2Q/) from the installation. I loved the exhibition and wanted to make an animation SVG fan art inspired by it. Basically, I want the installation to draw itself using the path animation technique I just learnt. I managed to solve the small problems that arose; like keeping each part of the svg hidden until the animation starts. I'm using animation-delay and I couldn't get it to work when animating paths with keyframes - the lines were visible until the animation started. I fixed it by including opacity in the animation, but don't know if that's a valid solution or just hacky. Hmm that last sentence seems to be my life these days. 🤣
+
+I also started a Udemy course that covers both front- and backend developing. I'm not super convinced that I'll be great at the backend stuff, but I'd like to familiarise myself with it anyway. The first part is HTML and CSS so it's very basic, but I'll watch everything anyway to see if I missed something.
 ### Day 85 - Thursday 05.04.2018 - SVG text with mask and gradient
 <img src="./images/log-day-85-svg-gradient.png" alt="Image of the word "Gradient" in gradient colours"/><br/><br/>
 <img src="./images/log-day-85-svg-mask.png" alt="Image of the word "Texture" in letters with black and white texture"/><br/><br/>
