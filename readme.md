@@ -15,8 +15,10 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
-
-### Day 86 - Thursday 05.04.2018 - SVG text with mask and gradient
+### Day 87 - Saturday 07.04.2018 - SVG fan art
+<img src="./images/log-day-87-eva-lewitt.jpg" alt="Image of rows of dots and curtain-like vertical lines"/><br/><br/>
+Continued on the Ewa LeWitt fan art piece. The red lines in the picture are one long line, hand-coded by yours truly. 💪🏻 Will be animated when everything is in place. Spending lots of time tweaking, but seeing as I often lose track of the coordinates and what they mean in the code vs. in the picture, this is probably a great exercise.
+### Day 86 - Friday 06.04.2018 - SVG fan art
 <img src="./images/log-day-86-eva-lewitt.jpg" alt="Image of a row of yellow dots"/><br/><br/>
 Yesterday, I went to see an exhibition by Ewa LeWitt at gallery VI, VII in Oslo. Here are [my Instagram photos](https://www.instagram.com/p/BhMtpXiAU2Q/) from the installation. I loved the exhibition and wanted to make an animation SVG fan art inspired by it. Basically, I want the installation to draw itself using the path animation technique I just learnt. I managed to solve the small problems that arose; like keeping each part of the svg hidden until the animation starts. I'm using animation-delay and I couldn't get it to work when animating paths with keyframes - the lines were visible until the animation started. I fixed it by including opacity in the animation, but don't know if that's a valid solution or just hacky. Hmm that last sentence seems to be my life these days. 🤣
 
