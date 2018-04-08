@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 88 - Sunday 08.04.2018 - SVG fan art
+<img src="./images/log-day-88-eva-lewitt.jpg" alt="Image of rows of colourful dots and curtain-like vertical lines"/><br/><br/>
+Continued the Eva LeWitt tribute. For some reason, this project makes me unfocused and bored. Coding the SVG lines is a bit repetitive, and at the same time, it’s a bit hard to keep track of which point every number represents. I’m finishing it because I think it’s great SVG coordinate practice, and because I’m looking forward to playing with the animation!
 ### Day 87 - Saturday 07.04.2018 - SVG fan art
 <img src="./images/log-day-87-eva-lewitt.jpg" alt="Image of rows of dots and curtain-like vertical lines"/><br/><br/>
 Continued on the Ewa LeWitt fan art piece. The red lines in the picture are one long line, hand-coded by yours truly. 💪🏻 Will be animated when everything is in place. Spending lots of time tweaking, but seeing as I often lose track of the coordinates and what they mean in the code vs. in the picture, this is probably a great exercise.
