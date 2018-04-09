@@ -15,6 +15,14 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 89 - Monday 09.04.2018 -
+Took a break from the Eva LeWitt tribute and worked with a Udemy course I just bought. The course covers the basics of both front- and backend developing. I’m going through everything from the beginning, including the HTML section, to see if there’s stuff I haven’t worked with previously. Today: forms, which was new to me. The HTML concepts are unproblematic, but we’ll see later what the JavaScript and the backend topics brings. I suspect this course will be hard once we move past the HTML/CSS section, but will try my best to get through it.
+
+Generally, I tend to jump from course to course when the topics are hard, like JavaScript. Of course, one sometimes needs to take a break from certain courses and then come back to them after a while, so I think it’s time to review the ones I’ve started and not finished. It’s not many, but I don’t really like having a trail of loose ends. So with this in mind, I decided to take a look at one of the two JavaScript courses I've started. I repeated most of what I had gone through previously, and I felt more comfortable with it this time. I worked in a .js file in my editor and used console.log to see the result in the devtools. I don't know if this is the best way since the course doesn't use an editor so far, but today, I was curious to see if I could do it. I still feel like a complete JavaScript beginner, so for me, part of getting up and running is to experiment where possible.
+
+📕Today’s resources:<br/><br/>
+♦️ [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp) by Colt Steele<br/>
+♦️ [Practical JavaScript](https://watchandcode.com/courses/practical-javascript/lectures/900207) by Gordon Zhu
 ### Day 88 - Sunday 08.04.2018 - SVG fan art
 <img src="./images/log-day-88-eva-lewitt.jpg" alt="Image of rows of colourful dots and curtain-like vertical lines"/><br/><br/>
 Continued the Eva LeWitt tribute. For some reason, this project makes me unfocused and bored. Coding the SVG lines is a bit repetitive, and at the same time, it’s a bit hard to keep track of which point every number represents. I’m finishing it because I think it’s great SVG coordinate practice, and because I’m looking forward to playing with the animation!
