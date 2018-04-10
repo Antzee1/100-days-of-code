@@ -15,7 +15,12 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
-### Day 89 - Monday 09.04.2018 -
+### Day 90 - Tuesday 10.04.2018 - Eva LeWitt tribute done & JavaScript lessons
+<img src="./images/log-day-90-eva-lewitt.jpg" alt="Image of rows of colourful dots and curtain-like vertical lines"/><br/><br/>
+Finished the Eva LeWitt tribute. The whole thing is SVG, and I'll have you know that hand-coding that was an insane amount of work for something that looks so simple. I’m happy I finished it, though. It looks nice, and it’s always good to not have too many half-finished projects lying about. It’s also animated [here](https://codepen.io/Antzee/full/dmaEyW/) on CodePen.
+
+I had several plans for today, but finishing this took most of the time. Did a couple lessons in the JavaScript course in the evening, though; I revised the functions section and am ready to continue with the part of the course that I haven't done earlier. In other words: clean slate for tomorrow.
+### Day 89 - Monday 09.04.2018 - HTML forms & JavaScript lessons
 Took a break from the Eva LeWitt tribute and worked with a Udemy course I just bought. The course covers the basics of both front- and backend developing. I’m going through everything from the beginning, including the HTML section, to see if there’s stuff I haven’t worked with previously. Today: forms, which was new to me. The HTML concepts are unproblematic, but we’ll see later what the JavaScript and the backend topics brings. I suspect this course will be hard once we move past the HTML/CSS section, but will try my best to get through it.
 
 Generally, I tend to jump from course to course when the topics are hard, like JavaScript. Of course, one sometimes needs to take a break from certain courses and then come back to them after a while, so I think it’s time to review the ones I’ve started and not finished. It’s not many, but I don’t really like having a trail of loose ends. So with this in mind, I decided to take a look at one of the two JavaScript courses I've started. I repeated most of what I had gone through previously, and I felt more comfortable with it this time. I worked in a .js file in my editor and used console.log to see the result in the devtools. I don't know if this is the best way since the course doesn't use an editor so far, but today, I was curious to see if I could do it. I still feel like a complete JavaScript beginner, so for me, part of getting up and running is to experiment where possible.
