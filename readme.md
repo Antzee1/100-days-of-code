@@ -15,6 +15,8 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 91 - Wednesday 11.04.2018 - Kind of a lost day.
+Today, things happened so I didn’t have much time. I watched the CSS section in the web developer course on Udemy tonight, but as it turned out, this part of the course was mainly a repetition of stuff I already know, so I ended up not writing much code. But the next lesson will be about CSS selectors, and after skimming the article Colt linked to, I realised I don't know half of the selectors!!! Am super excited to see what I'll be able to do when I've gone through this section.
 ### Day 90 - Tuesday 10.04.2018 - Eva LeWitt tribute done & JavaScript lessons
 <img src="./images/log-day-90-eva-lewitt.jpg" alt="Image of rows of colourful dots and curtain-like vertical lines"/><br/><br/>
 Finished the Eva LeWitt tribute. The whole thing is SVG, and I'll have you know that hand-coding that was an insane amount of work for something that looks so simple. I’m happy I finished it, though. It looks nice, and it’s always good to not have too many half-finished projects lying about. It’s also animated [here](https://codepen.io/Antzee/full/dmaEyW/) on CodePen.
