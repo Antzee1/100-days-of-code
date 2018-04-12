@@ -15,6 +15,12 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 92 - Thursday 12.04.2018 - CSS selectors & specificity + JavaScript lessons
+Kept going with the web developer course on Udemy. The first section I watched covered CSS selectors and specificity, and there was lots of selectors I didn’t know about. So cool. I then did the course exercise, including the bonus challenge, and felt quite confident throughout, even though I hadn’t used all the selectors before. I also watched the fonts and the box model section. Familiar with this content from before. Finished the day with a lesson of the JavaScript course on Watch and Code and I ended up super happy because I understood how a couple things were connected + I was able to explain it to my house teacher (the bf), so that was definitely progress.
+
+📕 Today’s resources:<br/>
+♦️ [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)<br/>
+♦️ [Article on specificity on MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#See_also)<br/>
 ### Day 91 - Wednesday 11.04.2018 - Kind of a lost day.
 Today, things happened so I didn’t have much time. I watched the CSS section in the web developer course on Udemy tonight, but as it turned out, this part of the course was mainly a repetition of stuff I already know, so I ended up not writing much code. But the next lesson will be about CSS selectors, and after skimming the article Colt linked to, I realised I don't know half of the selectors!!! Am super excited to see what I'll be able to do when I've gone through this section.
 ### Day 90 - Tuesday 10.04.2018 - Eva LeWitt tribute done & JavaScript lessons
