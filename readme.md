@@ -15,10 +15,13 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 94 - Saturday 14.04.2018
+<img src="./images/log-day-94-hello-d3.png" alt="Image of a bar chart with the header "Hello D3.js" "/><br/><br/>
+I recently watched a talk by Nadieh Bremer, who makes great data visualisations. I'm curious about this field, and when Scrimba launched a screencast with D3 basics, I decided to check that out. I had no idea what to ecpect, but thankfully, it turned out to involve HTML and CSS and SVG, which I'm already familiar with, which means I can focus on the job that the library does. Am very excited to learn more about this field. I hope to use it in a real project, and I also hope it'll help me understand more about JavaScript.
 ### Day 93 - Friday 13.04.2018 - Bootstrap
 Did a few lessons on the web developer bootcamp course on Udemy. Just into the Bootstrap section, and it seems Bootstrap can do a lot more than I was aware of. I’m very unsure whether I want to use it or whether I should stick to learning how to code everything myself. But I guess this question will answer itself once I get more knowledge and experience.
 ### Day 92 - Thursday 12.04.2018 - CSS selectors & specificity + JavaScript lessons
-Kept going with the web developer course on Udemy. The first section I watched covered CSS selectors and specificity, and there was lots of selectors I didn’t know about. So cool. I then did the course exercise, including the bonus challenge, and felt quite confident throughout, even though I hadn’t used all the selectors before. I also watched the fonts and the box model section. Familiar with this content from before. Finished the day with a lesson of the JavaScript course on Watch and Code and I ended up super happy because I understood how a couple things were connected + I was able to explain it to my house teacher (the bf), so that was definitely progress.
+Kept going with the web developer course on Udemy. The first section I watched covered CSS selectors and specificity, and there were lots of selectors I didn’t know about. So cool. I then did the course exercise, including the bonus challenge, and felt quite confident throughout, even though I hadn’t used all the selectors before. I also watched the fonts and the box model section. Familiar with this content from before. Finished the day with a lesson of the JavaScript course on Watch and Code and I ended up super happy because I understood how a couple things were connected + I was able to explain it to my house teacher (the bf), so that was definitely progress.
 
 📕 Today’s resources:<br/>
 ♦️ [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)<br/>
