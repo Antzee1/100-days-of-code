@@ -16,7 +16,7 @@ My main goals for 100 Days Of Code:<br/>
 
 ⬆️ Order of entries: newest to oldest ⬆️
 ### Day 94 - Saturday 14.04.2018
-<img src="./images/log-day-94-hello-d3.png" alt="Image of a bar chart with the header "Hello D3.js" "/><br/><br/>
+<img src="./images/log-day-94-hello-d3.png" alt="Image of a bar chart with the header Hello D3.js "/><br/><br/>
 I recently watched a talk by Nadieh Bremer, who makes great data visualisations. I'm curious about this field, and when Scrimba launched a screencast with D3 basics, I decided to check that out. I had no idea what to ecpect, but thankfully, it turned out to involve HTML and CSS and SVG, which I'm already familiar with, which means I can focus on the job that the library does. Am very excited to learn more about this field. I hope to use it in a real project, and I also hope it'll help me understand more about JavaScript.
 ### Day 93 - Friday 13.04.2018 - Bootstrap
 Did a few lessons on the web developer bootcamp course on Udemy. Just into the Bootstrap section, and it seems Bootstrap can do a lot more than I was aware of. I’m very unsure whether I want to use it or whether I should stick to learning how to code everything myself. But I guess this question will answer itself once I get more knowledge and experience.
