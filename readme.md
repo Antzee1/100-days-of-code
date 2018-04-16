@@ -15,6 +15,9 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 96 - Monday 16.04.2018
+<img src="./images/log-day-96-bar-chart.jpg" alt="Image of a bar chart with three sections showing genres in D'Arienzo's recordings in 1938"/><br/><br/>
+So today's picture is less pretty than yesterday's, but I achieved more today, so am more proud. I started out with the code from Scrimba's D3.js course. First I found out how to make it responsive, which I'm sort of obsessed with, and then I tweaked the code where possible and looked up stuff and just stared at the code, trying to figure out what the syntax means and how everything is connected. It's kinda difficult, but I'm not immediately hitting the wall like I do with regular JavaScript. And at the same time, I understand the JavaScript a little bit better than before.
 ### Day 95 - Sunday 15.04.2018
 <img src="./images/log-day-95-pie-chart.jpg" alt="Image of a pie chart with three sections showing genres in D'Arienzo's recordings in 1938"/><br/><br/>
 Finished Scrimba's D3.js course. It's not extensive, but I did learn some basics, and also tried to make my own pie chart and customise colours and fonts. That worked nicely. I'd like to dive in and learn from working with my own data right from the start - I already have lots of material from my work with the tango website. Am currently trying to solve how to link to a csv file locally. My bf found out one needs a localhost to do that, so this part is working. Next: figure out how to use the data. It feels like I'm going to have a steep learning curve here...
