@@ -15,6 +15,15 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 97 - Tuesday 17.04.2018 - More D3.js basics
+<img src="./images/log-day-97-handwriting.JPG" alt="Image of a bar chart with three sections showing genres in D'Arienzo's recordings in 1938"/><br/><br/>
+Scrimba’s interactive screencasts are super useful if you’re just starting out learning D3.js. In addition to the longer course by Sohaib Nehal, I discovered that there are two by Per Harald Borgen so I looked through those, and they’re great as a starting point because some of the basic concepts are very thorougly explained. Then I rewatched a couple of the screncasts in Sohaib Nehal's course, and more pieces are falling into place.
+
+I'm sooo hungry to learn this, but I need to accept that getting good at data visualisation is going to take time. D3.js is a new tool to learn. I’m also lacking general JavaScript knowledge, and I need to improve my HTML/CSS/SVG skills. Then there’s learning about collecting data, studying the design/visualisation concepts, and ethics: how to make objective visualisation in fields where we’re biased, so our work continues to be a visualisation and not propaganda for our own views.
+
+📕 Today’s D3.js resources:<br/>
+♦️ [Per Harald Borgen on Scrimba](https://bit.ly/2J3lW8p)<br/>
+♦️ [Sohaib Nehal on Scrimba](https://bit.ly/2qDi2fN)
 ### Day 96 - Monday 16.04.2018
 <img src="./images/log-day-96-bar-chart.jpg" alt="Image of a bar chart with three sections showing genres in D'Arienzo's recordings in 1938"/><br/><br/>
 So today's picture is less pretty than yesterday's, but I achieved more today, so am more proud. I started out with the code from Scrimba's D3.js course. First I found out how to make it responsive, which I'm sort of obsessed with, and then I tweaked the code where possible and looked up stuff and just stared at the code, trying to figure out what the syntax means and how everything is connected. It's kinda difficult, but I'm not immediately hitting the wall like I do with regular JavaScript. And at the same time, I understand the JavaScript a little bit better than before.
