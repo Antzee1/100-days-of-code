@@ -15,6 +15,16 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 98 - Wednesday 18.04.2018 - More D3.js basics: data binding and general struggling
+<img src="./images/log-day-98-pencil-shaving.jpg" alt="Photo of heart made from pencil shavings on white paper"/><br/><br/>
+Trial and error day. Started by writing down some numbers I wanted to work with. I'm working with paper and pencils because studies show that one remembers the material better when writing by hand, and also because I want to practice visualising.
+
+Am having trouble finding tutorials that explain concepts very thoroughly for beginners. I want to understand everything in the code so I know what I can use it for. Also I don't know exactly where to start and which order to start exploring things. But in the end, I found a simple tutorial from the creator of D3, Mike Bostock, and I found this very helpful. Only had a small hiccup when transform scale didn't work on one of the sets of circles. After going thoroughly insane over it, I tried to make the SVG window bigger and voilà. 🙄<br/><br/>
+<img src="./images/log-day-98-data-binding.jpg" alt="Image of a chart study with different-sized red and pink dots"/><br/><br/>
+So here we have the recordings of D'Arienzo from 1935 to 1939, by genres and singers. This is of course useless as visual information, but I learnt how to bind data to circles and that was the point of this exercise - I want to work with actual data, even though I'm at the super-beginner stage.
+
+📕 Today's lifesaver resource:<br/>
+♦️ [Mike Bostock's article "Three Little Circles"](https://bost.ocks.org/mike/circles/#binding)
 ### Day 97 - Tuesday 17.04.2018 - More D3.js basics
 <img src="./images/log-day-97-handwriting.JPG" alt="Image of a bar chart with three sections showing genres in D'Arienzo's recordings in 1938"/><br/><br/>
 Scrimba’s interactive screencasts are super useful if you’re just starting out learning D3.js. In addition to the longer course by Sohaib Nehal, I discovered that there are two by Per Harald Borgen so I looked through those, and they’re great as a starting point because some of the basic concepts are very thorougly explained. Then I rewatched a couple of the screncasts in Sohaib Nehal's course, and more pieces are falling into place.
