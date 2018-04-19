@@ -1,12 +1,10 @@
-<br/>
 ### Introduction
+If you're reading this on GitHub, I recommend switching to [the blog view](https://antzee1.github.io/100-days-of-code/), which I coded myself.<br/>
 
-Started to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code, like my profile image ➡️
-<br/><br/>
-Here are some of the things I've coded:
-<br/><br/>➡️ My 100 Days Of Code log on [GitHub Pages](https://antzee1.github.io/100-days-of-code/)
-<br/> ➡️ Some of my stuff is on [CodePen](https://codepen.io/Antzee)
-<br/> ➡️ I also have a [YouTube channel](https://www.youtube.com/channel/UCMn3c-c4h9571gBzmkbKYig) for my animations.
+I'm Trud, a musician / teacher who started teaching myself to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code.
+<br/>
+<br/> ➡️ Some of my stuff I've coded is on [CodePen](https://codepen.io/Antzee)
+<br/>
 
 My main goals for 100 Days Of Code:<br/>
 ⭐️ improve my HTML/CSS skills<br/>
@@ -15,6 +13,11 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 99 - Thursday 19.04.2018 - practicing D3.js basics
+<img src="./images/log-day-99-D3-basics.jpg" alt="Photo of heart made from pencil shavings on white paper"/><br/><br/>
+The last few days have been quite intense with trying to familiarise myself with D3.js. So rather than stressing to learn more new things, I decided to see if I could get a better overview of what I already learnt, and practice that. So I set up a small playground with two datasets and just messed around with the svgs to learn sizing and positioning etc. I don’t get everything, but it looks like something I can manage once I’ve gone through it thoroughly. I need to learn about importing data, and I need to work with the functions and the maths. I’m so lucky because my house teacher (the bf) is also interested in learning D3, so we can work on this together.
+
+And tomorrow is the last day of the 100 Days Of Code challenge…
 ### Day 98 - Wednesday 18.04.2018 - More D3.js basics: data binding and general struggling
 <img src="./images/log-day-98-pencil-shaving.jpg" alt="Photo of heart made from pencil shavings on white paper"/><br/><br/>
 Trial and error day. Started by writing down some numbers I wanted to work with. I'm working with paper and pencils because studies show that one remembers the material better when writing by hand, and also because I want to practice visualising.
