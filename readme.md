@@ -1,9 +1,7 @@
 ### Introduction
 If you're reading this on GitHub, I recommend switching to [the blog view](https://antzee1.github.io/100-days-of-code/), which I coded myself.<br/>
 
-I'm Trud, a musician / teacher who started teaching myself to code last summer. So far, I've done the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code.
-<br/>
-<br/> ➡️ Some of my stuff I've coded is on [CodePen](https://codepen.io/Antzee)
+I'm Trud, a musician / teacher who started teaching myself to code last summer. Before I started this challenge, I had completed the "Build websites from scratch" course at Codecademy plus experimented with making images & animations with code.
 <br/>
 
 My main goals for 100 Days Of Code:<br/>
@@ -13,6 +11,50 @@ My main goals for 100 Days Of Code:<br/>
 # LOG 🗓🗓🗓   
 
 ⬆️ Order of entries: newest to oldest ⬆️
+### Day 100 - Friday 20.04.2018 - Wohoo I did it! + summary.
+
+Today is my 💯th day of the 100 Days Of Code challenge! I’ve coded for 100 days and written about it every day, and I’ve learnt so much. Here’s a summary of the process and why I found doing this challenge helpful.
+
+By the way, my log exists in two places. The content is identical in both, but the [GitHub Pages](https://antzee1.github.io/100-days-of-code/) version looks better  and might be easier to read (I coded the template myself). The [GitHub repository](https://github.com/Antzee1/100-days-of-code/blob/master/readme.md) version is plain Markdown language.
+
+Summary of my 100 Days Of Code:
+
+1) I don’t have an uninterrupted streak: I’ve been away two weekends for Argentine tango events. But I have coded a total of 100 days, mostly full time.
+
+2) Writing the log and tweeting takes time. I also spent extra time on making the log look good, like taking screenshots and photos and videos and making GIFS, inspired by [this article](https://medium.freecodecamp.org/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9) found via [Syk Houdeib](https://twitter.com/Syknapse). I even coded my own log layout for GitHub Pages instead of using one of the templates. I’m super happy I did all of this, though, because with just text, a log is not going to be as informative or even as fun to read. I probably should have spent more time on the text, adding more code examples and writing my problems and solutions in detail. The reason I didn’t is that it was hard to stop coding every day, so I always did the log writing late in the night! And I still am a bit unsure whether my coding skills are good enough to be a resource for others. I also find writing about code difficult: I worry a lot about phrasing and how to use the professional terms correctly.
+
+3) My progress: I haven’t followed a curriculum or a course like for instance FreeCodeCamp. I don’t know what I’ll be using my coding skills for eventually, and I’m still getting to know the field. Because of this, I’ve found it difficult to find my way in the jungle of courses and tutorials. I’ve checked out different options, some of which I’ve abandoned. This is especially true for a couple JavaScript courses, because I’m still finding JavaScript incredibly hard. But I’ll return to them, and I’m sure that at one point, I’ll crack the JavaScript code (yes, pun is totally intended).
+
+4) Conclusion: I’d like to do a round 2 in a while. I think this challenge has been helpful for me because it requires log-writing. Writing about code is a very useful skill because we need to learn how to formulate concepts precisely and use terms correctly. And that is necessary if one needs to ask for help or if one wants to help others or generally share knowledge. Also, when I'm looking back at my completed log, I realise I’ve learnt more than I was aware of. When you’re in the middle of a learning process, it feels like you don’t learn anything since you’re always focused on the things you don’t know yet - and we tend to forget some of the things we learnt because viewed isolated, they weren’t of huge importance. But it’s actually all the small things you know that add up to your total competence.
+
+Some things I’ve I accomplished during the challenge:
+
+♦️ First and foremost: a few days ago, I started looking at data visualisation and started thinking that this might be a possible path ahead. In order to explore this, I’ve started learning the D3.js library, which feels suitably difficult. 🤓
+
+♦️ Learnt the basics of CSS Grid. Am using it in a big Argentine Tango orchestra project that I wouldn’t have been able to do without CSS grid. It’s perfect for the layout of the orchestra timelines.
+
+♦️ I understand the Flexbox concept a lot better because I’ve used it with CSS Grid.
+
+♦️ Am much more comfortable with making resizable/responsive pages. As a matter of fact, I’m obsessed with them now.
+
+♦️ Learnt the basics of SVG, which also turned out to be necessary in order to use the D3.js library.
+
+♦️ Learnt about CSV files and how to make tables, which I need for the tango orchestra project but which also turned out to be extremely useful knowledge for D3.js.
+
+♦️ Have become more comfortable with using the browser console for CSS Grid and for JavaScript exercises.
+
+♦️ Learnt more about image optimising, which was immediately useful when adding images to this log.
+
+♦️ Looked into Canvas so got a bit of understanding of how to do styling etc. in the JavaScript file, a concept that’s helpful for understanding D3.js. Also played a bit with the Rough.js library, which was the first time I used a library.
+
+♦️ More CSS stuff I learnt: CSS modal windows, CSS Variables for colours, CSS Box-Shadows, CSS selectors and specificity.
+
+♦️ Coded a layout design for my personal website so it’s ready to publish later.
+
+♦️ Made [a JavaScript Variables interactive practice sheet](https://antzee1.github.io/Variables-cheatsheet/) and [a box-shadow syntax cheat sheet](https://antzee1.github.io/Box-shadows/).
+
+#### That's it for now! Looking forward to the next round!
+
 ### Day 99 - Thursday 19.04.2018 - practicing D3.js basics
 <img src="./images/log-day-99-D3-basics.jpg" alt="Photo of heart made from pencil shavings on white paper"/><br/><br/>
 The last few days have been quite intense with trying to familiarise myself with D3.js. So rather than stressing to learn more new things, I decided to see if I could get a better overview of what I already learnt, and practice that. So I set up a small playground with two datasets and just messed around with the svgs to learn sizing and positioning etc. I don’t get everything, but it looks like something I can manage once I’ve gone through it thoroughly. I need to learn about importing data, and I need to work with the functions and the maths. I’m so lucky because my house teacher (the bf) is also interested in learning D3, so we can work on this together.
